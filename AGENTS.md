@@ -187,3 +187,8 @@
 ## 2026-11-05 獨立台灣副本：新聞入口修復
 
 本次權威為使用者授權的 `terrykuo-cloud/auping-staging`，非原始 damienkuo123 專案。修正 `/news/` 原有 10 張 BlogList 卡片的標題、摘要與文章入口；順序、圖片、版型及共用控制器均保留。新增 `/news/auping-publishes-csr-report-2022/`，正文、區塊與媒體來自官方同名 `/en/news/` 頁面並翻譯為繁體中文。其餘 9 篇既有中文文章沿用。RC7 setupReadMore 繼續為全文開合唯一控制者。此為新聞內容／連結修復，不代表全站、手機 Safari 或其他元件已通過驗收。
+
+
+## 2026-11-06 獎項分類對應修復
+
+`/news/awards/` 現對應官方 `/en/news?tags=awards`，使用官方 BlogList 原有排列與媒體，共 13 則、2 頁；第 2 頁為 `/news/awards/page-2/`。原 bridge 頁面的 rc7-local-pages 不再於此路由載入，改用既有新聞頁殼與 RC7 共用控制器；未修改任何共用 JS/CSS。標題及摘要為繁體中文，已有站內文章優先使用站內路徑，尚未複刻的文章保留官方網址。新聞首頁獎項入口連往此分類。此紀錄不代表其他分類或全站驗收。
