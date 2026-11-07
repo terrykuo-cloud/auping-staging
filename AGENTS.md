@@ -197,3 +197,8 @@
 ## 2026-11-08 獨立副本新聞完整入口與中文文章
 
 以 terrykuo-cloud/auping-staging main 1ceb4b6422a841fd2a6b29d81efce22dea6aa2f1 為修改基準，官方新聞 5 頁共 44 則（其中 1 則位於 stories），九分類 12 個結果頁，均沿用官方 BlogList HTML、順序與媒體。新增 13 篇逐段繁體中文文章，包含原先六篇外連獎項文章；現有文章只校正 main 內站根目錄及分類連結。分類及分頁由原生 anchor 導覽，無新增全域 click owner。RC7 setupReadMore 及所有共用 JS/CSS 保持原樣。新文章 RelatedBlogs 保留官方卡片，原靜態 Slick 沒有對應 runtime，僅以 data-news-related=native 範圍的原生水平捲動提供完整卡片存取，無第二個 JS 控制器。歷史日期保留；動物文章修正原文果蝠段落人／動物標籤顛倒，醫療描述標示歷史背景。證據在 docs/news-completion-20261108.json。這次驗證限新聞家族，不宣稱全站或真實 iPhone Safari 1:1。
+
+
+## 2026-11-08 新聞圖片透明回歸修復
+
+上次官方 DOM 擷取留下 LazyImage 未載入樣式，靜態頁沒有 React load 回呼，造成圖片 naturalWidth 非零但 opacity 為 0。只在本次新聞範圍 main 的 img 補上既有 LazyImage_loaded__h_K__ 可見狀態，保留 loading=lazy、圖片 URL、srcset 及版型；未新增 JS owner 或修改共用 CSS。之前連結測試不能代表圖片已驗收，圖片驗收以 docs/news-images-20261108.json 及捲動後實際顯示為準。

@@ -1,0 +1,271 @@
+{
+  "CURRENT_MAIN": "8029feb5192f23d6cec7b11184e2d47b770e2932",
+  "EXISTING_OWNER": "Original LazyImage CSS opacity 0 / loaded class opacity 1; snapshot has no React image-load state owner. Native loading=lazy remains responsible for network scheduling.",
+  "TEMPLATE_AND_DATA": "Only img class attribute inside main on the previous news work scope; original source URL/srcset/layout preserved.",
+  "AFFECTED_ROUTES": [
+    {
+      "path": "news/auping-noble-wins-archiproducts-design-award/index.html",
+      "count": 1,
+      "blob": "cb563424eaae80dda335f4d49e38e36ff28ce6d2"
+    },
+    {
+      "path": "news/niagar-product-passport/index.html",
+      "count": 1,
+      "blob": "fff7956788d041d538bda559ce17aa15c2d78fa0"
+    },
+    {
+      "path": "news/auping-publishes-csr-report-2022/index.html",
+      "count": 2,
+      "blob": "9ed3f365a9cdaf8dc843f88416f09484862316ea"
+    },
+    {
+      "path": "news/auping-elysium-recognised-good-industrial-design-gio/index.html",
+      "count": 1,
+      "blob": "44edc4b86c20ceb49e4e56e5a51f911384e28d02"
+    },
+    {
+      "path": "news/auping-elysium-mattress-best-sustainable-product-2022/index.html",
+      "count": 1,
+      "blob": "e4455b419065e553239f6b7f751c0ee90bc5c320"
+    },
+    {
+      "path": "news/auping-wins-oscar-sound-innovative-music/index.html",
+      "count": 1,
+      "blob": "8a6495bd2d928f958b35021181fbdc143b1a92a5"
+    },
+    {
+      "path": "news/auping-takes-important-step-circular-transition/index.html",
+      "count": 1,
+      "blob": "58e6fed138dbf5d29625d5f3abab371d3c016605"
+    },
+    {
+      "path": "news/auping-noa-wins-if-design-award-2022/index.html",
+      "count": 1,
+      "blob": "f34c3dc6622610a178d6bbfed10e70a59d9ad75e"
+    },
+    {
+      "path": "news/importance-mental-rest/index.html",
+      "count": 1,
+      "blob": "d293bf6bbf389ce69d7d4cc203f35dff2d7c91df"
+    },
+    {
+      "path": "news/production-of-medical-facemasks-for-healthcare-professionals-starts-in-the-netherlands/index.html",
+      "count": 1,
+      "blob": "a5944fb72581604b6da40def52bfda7a644bcd2a"
+    },
+    {
+      "path": "news/royal-auping-expands-dealer-network-sweden/index.html",
+      "count": 1,
+      "blob": "736b55101765f04d22c52bcd31975b27d0bea8d0"
+    },
+    {
+      "path": "news/auping-nordic-hotel-event-lobby-copenhagen/index.html",
+      "count": 1,
+      "blob": "cf3d92506bafa526ceb33345d57a587a60b6a00d"
+    },
+    {
+      "path": "news/well-rested-bright-young-minds/index.html",
+      "count": 1,
+      "blob": "0f3897232837d83c97b91d632e4c60cba5b51113"
+    },
+    {
+      "path": "news/auping-noa-bed-winner-archiproducts-design-awards/index.html",
+      "count": 1,
+      "blob": "d72e4754965a10bcdf67d2e0633eb21f071a7fe2"
+    },
+    {
+      "path": "news/auping-evolve-rethinking-plastic-house-dutch-design-week-2021/index.html",
+      "count": 1,
+      "blob": "aec81389aef12ef65653b50b3503c2cb32f73aba"
+    },
+    {
+      "path": "news/circularity-day-2021-royal-auping/index.html",
+      "count": 2,
+      "blob": "6dcd808b7958e4af1e283aec77fdc72e8b01f0f4"
+    },
+    {
+      "path": "news/amsterdam-hotels-opt-wonderful-auping-beds/index.html",
+      "count": 1,
+      "blob": "62b9e0392b3555c2307049120f64d52faf587b23"
+    },
+    {
+      "path": "news/royal-auping-opens-first-flagshipstore-spain/index.html",
+      "count": 1,
+      "blob": "bb03451f33520708b73ee04ab6a67a1307a8252e"
+    },
+    {
+      "path": "news/auping-evolve-wins-german-sustainability-award/index.html",
+      "count": 1,
+      "blob": "7fa547bead0acc291b0e9b4781a30e5e4eae470f"
+    },
+    {
+      "path": "news/auping-releases-csr-report-2020/index.html",
+      "count": 2,
+      "blob": "27348298d47c3118d63fe3090c28d5ed9da40869"
+    },
+    {
+      "path": "news/auping-finalist-sustainable-brand-index-jury-price-2021/index.html",
+      "count": 2,
+      "blob": "11460ffb0671111db9c8f9008be7923ef2ac174f"
+    },
+    {
+      "path": "news/auping-stood-up-to-help-fight-the-coronavirus/index.html",
+      "count": 1,
+      "blob": "835e48d7353b8961c6759f01028af63c435d2663"
+    },
+    {
+      "path": "news/closing-loop/index.html",
+      "count": 1,
+      "blob": "127b1754c578024cefa2b8ed006df4f2e8b06b90"
+    },
+    {
+      "path": "news/schepers-bosman-x-auping-consumption-quarantine/index.html",
+      "count": 1,
+      "blob": "edcf03146e6908a2a60b743a1cad9130b1e633da"
+    },
+    {
+      "path": "news/auping-evolve-nominated-dutch-design-awards-2020/index.html",
+      "count": 1,
+      "blob": "aaada270ab8395bb2adf683406a697402097c5dd"
+    },
+    {
+      "path": "news/royal-auping-receives-order-from-ministry-for-supply-of-mouth-nose-masks/index.html",
+      "count": 1,
+      "blob": "6d0f00078fad4b7f7f5c45dac7ac85240ffe0cdc"
+    },
+    {
+      "path": "news/auping-launches-assortment-archiproducts/index.html",
+      "count": 1,
+      "blob": "ad2cb968ac08c11f3e45d3550520b6f227fbe330"
+    },
+    {
+      "path": "news/auping-achieves-b-corp-status/index.html",
+      "count": 1,
+      "blob": "abb964b72e877f052a9c318169e987511d442c16"
+    },
+    {
+      "path": "news/auping-evolve-has-been-awarded-prestigious-red-dot-product-design-award-2020/index.html",
+      "count": 2,
+      "blob": "7100d1118c34791e82af7e822dd92d791adb9d6f"
+    },
+    {
+      "path": "news/royal-auping-and-niagar-achieve-breakthrough-fully-recyclable-mattress/index.html",
+      "count": 1,
+      "blob": "a0bce8a2f33b8b3ea1af2bd7c191d71a9173e5ef"
+    },
+    {
+      "path": "news/auping-investigates-sleep-among-team-sunweb-cyclists/index.html",
+      "count": 1,
+      "blob": "b9fd59a313c2ec27414bdbe588f748d92dd69355"
+    },
+    {
+      "path": "news/auping-wins-circular-award-business-2019/index.html",
+      "count": 2,
+      "blob": "6fde68185bc0a77d29e9da7efc471cc91c4d1ffe"
+    },
+    {
+      "path": "stories/cold-weather-we-stay-tucked-up-for-longer/index.html",
+      "count": 2,
+      "blob": "fd636df10ead37382ad395f6eb866361ce5df8e0"
+    },
+    {
+      "path": "news/jan-joost-bosman-new-ceo-royal-auping/index.html",
+      "count": 2,
+      "blob": "29f730a3b01a2aae0e3c1e1df12cc1c3c8553760"
+    },
+    {
+      "path": "news/auping-debuts-dutch-design-week/index.html",
+      "count": 2,
+      "blob": "7f0f9b77b16fd0431ca92a15ad598fd55d8fca94"
+    },
+    {
+      "path": "news/sleeping-like-animals/index.html",
+      "count": 2,
+      "blob": "726a4090e42a2fffeeeaf4a211a3c267426377d9"
+    },
+    {
+      "path": "news/auping-wins-dutch-logistics-award-2016/index.html",
+      "count": 2,
+      "blob": "ca9384351e3af22499466ae7640afcaa8695a7d1"
+    },
+    {
+      "path": "news/mae-engelgeer/index.html",
+      "count": 1,
+      "blob": "87994f27a33878c119ad909142e8204dda7b9ee2"
+    },
+    {
+      "path": "news/index.html",
+      "count": 8,
+      "blob": "591f91f74faecb3ba0c079d03c94a859ea1042b3"
+    },
+    {
+      "path": "news/page-2/index.html",
+      "count": 9,
+      "blob": "347ad18c34db4c4f41dab8fd4aae7a9fa9ea9d2a"
+    },
+    {
+      "path": "news/page-3/index.html",
+      "count": 10,
+      "blob": "59d5fda25fb55da09806619639ce3e80b25d545c"
+    },
+    {
+      "path": "news/page-4/index.html",
+      "count": 10,
+      "blob": "dbb4abc9afbac39e97d3d89fdccca7cdc6333b36"
+    },
+    {
+      "path": "news/page-5/index.html",
+      "count": 3,
+      "blob": "14fccc42a27514956891b7b7d356df739c4cb56a"
+    },
+    {
+      "path": "news/about-auping/index.html",
+      "count": 7,
+      "blob": "351bd5a97903b1be6bc6ce62869372c2707fa4c9"
+    },
+    {
+      "path": "news/design/index.html",
+      "count": 8,
+      "blob": "80c4e194a05d082ff924a599e34c222468a26cca"
+    },
+    {
+      "path": "news/sponsorship/index.html",
+      "count": 1,
+      "blob": "21eed95d104ce2d87e51d3d94ead9e327ddd272a"
+    },
+    {
+      "path": "news/sustainability/index.html",
+      "count": 8,
+      "blob": "b2130ca6fdcf3ece494d1199e75e486989a7bf12"
+    },
+    {
+      "path": "news/products/index.html",
+      "count": 5,
+      "blob": "341ae46631ff3a2ff0f44f5fea1b019b790430ae"
+    },
+    {
+      "path": "news/awards/index.html",
+      "count": 8,
+      "blob": "036ad6d1306a35ea53174523b14b9ca35a88f786"
+    },
+    {
+      "path": "news/sleep/index.html",
+      "count": 2,
+      "blob": "3b8fa394a9072befecea515f4bff599755452c5f"
+    },
+    {
+      "path": "news/sustainability/page-2/index.html",
+      "count": 5,
+      "blob": "3d3e118119431407b674e74962c8c774b27c6e25"
+    },
+    {
+      "path": "news/awards/page-2/index.html",
+      "count": 1,
+      "blob": "855aba01d5f9e8fe9d378df2722d82f68a8e9393"
+    }
+  ],
+  "EXISTING_ACCEPTANCE": "Previous URL/Chinese-content checks passed but did not establish image visibility; superseded for image acceptance.",
+  "OFFICIAL_TRUTH": "Official rendered images retain LazyImage_loaded__h_K__ after load. Production reproduction: report image naturalWidth 740 and opacity 0; recycling image naturalWidth 966 and opacity 0 after scrolling.",
+  "MINIMAL_PATCH": "Set the existing visible CSS state in static HTML; retain native lazy loading. No new JS owner, CSS override, image substitution or shared asset changes.",
+  "REGRESSION_AND_RECEIPT": "Scan all 61 mains; verify scrolling, naturalWidth and computed opacity on all listing images and new article images; representative desktop/mobile visual verification."
+}
