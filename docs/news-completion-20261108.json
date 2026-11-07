@@ -674,5 +674,611 @@
       "path": "news/awards/page-2/",
       "count": 3
     }
-  ]
+  ],
+  "validation": {
+    "deployment": "4c194b8ad04ab3280d09c4c7750fd71f711eeda2",
+    "http": [
+      {
+        "path": "news/auping-x-teklan/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/building-circular-future-auping-and-tripler-redefine-mattress-recycling-digital-identification/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-publishes-impact-report-2023-and-achieves-b-corp-recertification/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/transforming-mattress-recycling-closing-loop-auping-niagar-wellman-international-and-twe/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-opens-mattress-factory-future/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-noble-wins-archiproducts-design-award/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/niagar-product-passport/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-publishes-csr-report-2022/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-elysium-recognised-good-industrial-design-gio/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-elysium-mattress-best-sustainable-product-2022/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-wins-oscar-sound-innovative-music/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/team-auping-dreams-world-without-als/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-takes-important-step-circular-transition/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-noa-wins-if-design-award-2022/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/importance-mental-rest/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/production-of-medical-facemasks-for-healthcare-professionals-starts-in-the-netherlands/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/royal-auping-expands-dealer-network-sweden/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-nordic-hotel-event-lobby-copenhagen/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/well-rested-bright-young-minds/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-noa-bed-winner-archiproducts-design-awards/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-evolve-rethinking-plastic-house-dutch-design-week-2021/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/circularity-day-2021-royal-auping/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/amsterdam-hotels-opt-wonderful-auping-beds/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/royal-auping-opens-first-flagshipstore-spain/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-evolve-wins-german-sustainability-award/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-releases-csr-report-2020/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-finalist-sustainable-brand-index-jury-price-2021/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-stood-up-to-help-fight-the-coronavirus/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/closing-loop/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/schepers-bosman-x-auping-consumption-quarantine/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-evolve-nominated-dutch-design-awards-2020/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/royal-auping-receives-order-from-ministry-for-supply-of-mouth-nose-masks/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-launches-assortment-archiproducts/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-achieves-b-corp-status/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-evolve-has-been-awarded-prestigious-red-dot-product-design-award-2020/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/royal-auping-and-niagar-achieve-breakthrough-fully-recyclable-mattress/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-investigates-sleep-among-team-sunweb-cyclists/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-wins-circular-award-business-2019/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "stories/cold-weather-we-stay-tucked-up-for-longer/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/jan-joost-bosman-new-ceo-royal-auping/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-debuts-dutch-design-week/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/sleeping-like-animals/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/auping-wins-dutch-logistics-award-2016/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/mae-engelgeer/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 0
+      },
+      {
+        "path": "news/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 10
+      },
+      {
+        "path": "news/page-2/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 9
+      },
+      {
+        "path": "news/page-3/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 10
+      },
+      {
+        "path": "news/page-4/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 10
+      },
+      {
+        "path": "news/page-5/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 5
+      },
+      {
+        "path": "news/about-auping/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 9
+      },
+      {
+        "path": "news/design/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 10
+      },
+      {
+        "path": "news/hotels/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 2
+      },
+      {
+        "path": "news/sponsorship/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 2
+      },
+      {
+        "path": "news/sustainability/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 10
+      },
+      {
+        "path": "news/products/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 7
+      },
+      {
+        "path": "news/awards/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 10
+      },
+      {
+        "path": "news/sleep/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 7
+      },
+      {
+        "path": "news/sport/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 1
+      },
+      {
+        "path": "news/about-auping/page-2/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 3
+      },
+      {
+        "path": "news/sustainability/page-2/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 8
+      },
+      {
+        "path": "news/awards/page-2/",
+        "status": 200,
+        "main": true,
+        "chinese": true,
+        "cards": 3
+      }
+    ],
+    "categories": [
+      {
+        "cards": 9,
+        "external": 0,
+        "title": "Auping 關於 Auping消息",
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/about-auping/"
+      },
+      {
+        "cards": 10,
+        "external": 0,
+        "title": "Auping 設計消息",
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/design/"
+      },
+      {
+        "cards": 2,
+        "external": 0,
+        "title": "Auping 飯店消息",
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/hotels/"
+      },
+      {
+        "cards": 2,
+        "external": 0,
+        "title": "Auping 贊助合作消息",
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/sponsorship/"
+      },
+      {
+        "cards": 10,
+        "external": 0,
+        "title": "Auping 永續消息",
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/sustainability/"
+      },
+      {
+        "cards": 7,
+        "external": 0,
+        "title": "Auping 商品消息",
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/products/"
+      },
+      {
+        "cards": 10,
+        "external": 0,
+        "title": "Auping 獎項消息",
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/awards/"
+      },
+      {
+        "cards": 7,
+        "external": 0,
+        "title": "Auping 睡眠消息",
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/sleep/"
+      },
+      {
+        "cards": 1,
+        "external": 0,
+        "title": "Auping 運動消息",
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/sport/"
+      }
+    ],
+    "sixArticles": [
+      {
+        "bodyLength": 746,
+        "relatedLinks": true,
+        "title": "Auping Evolve 床墊榮獲德國永續獎",
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/auping-evolve-wins-german-sustainability-award/",
+        "zh": true
+      },
+      {
+        "bodyLength": 365,
+        "relatedLinks": true,
+        "title": "Auping 入圍 2021 永續品牌指數評審獎",
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/auping-finalist-sustainable-brand-index-jury-price-2021/",
+        "zh": true
+      },
+      {
+        "bodyLength": 169,
+        "relatedLinks": true,
+        "title": "Auping Evolve 榮獲 2020 紅點產品設計獎",
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/auping-evolve-has-been-awarded-prestigious-red-dot-product-design-award-2020/",
+        "zh": true
+      },
+      {
+        "bodyLength": 690,
+        "relatedLinks": true,
+        "title": "Auping 榮獲 2019 循環企業獎",
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/auping-wins-circular-award-business-2019/",
+        "zh": true
+      },
+      {
+        "bodyLength": 148,
+        "relatedLinks": true,
+        "title": "Auping 首度參加荷蘭設計週",
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/auping-debuts-dutch-design-week/",
+        "zh": true
+      },
+      {
+        "bodyLength": 72,
+        "relatedLinks": true,
+        "title": "Auping 榮獲 2016 荷蘭物流獎",
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/auping-wins-dutch-logistics-award-2016/",
+        "zh": true
+      }
+    ],
+    "pagination": [
+      {
+        "cards": 9,
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/page-2/"
+      },
+      {
+        "cards": 10,
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/page-3/"
+      },
+      {
+        "cards": 10,
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/page-4/"
+      },
+      {
+        "cards": 5,
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/page-5/"
+      },
+      {
+        "cards": 10,
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/"
+      },
+      {
+        "cards": 3,
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/about-auping/page-2/"
+      },
+      {
+        "cards": 8,
+        "url": "https://terrykuo-cloud.github.io/auping-staging/news/sustainability/page-2/"
+      }
+    ],
+    "responsive": [
+      {
+        "cards": 10,
+        "page": "news",
+        "scroll": 1425,
+        "width": 1440
+      },
+      {
+        "heading": "Auping Evolve 床墊榮獲德國永續獎",
+        "page": "article",
+        "scroll": 1425,
+        "width": 1440
+      },
+      {
+        "cards": 10,
+        "page": "news",
+        "scroll": 425,
+        "width": 440
+      },
+      {
+        "heading": "Auping Evolve 床墊榮獲德國永續獎",
+        "page": "article",
+        "scroll": 425,
+        "width": 440
+      },
+      {
+        "cards": 10,
+        "page": "news",
+        "scroll": 375,
+        "width": 390
+      },
+      {
+        "heading": "Auping Evolve 床墊榮獲德國永續獎",
+        "page": "article",
+        "scroll": 375,
+        "width": 390
+      }
+    ],
+    "readMore": {
+      "before": 98,
+      "after": 1450,
+      "scrollHeight": 1450
+    },
+    "limitations": "Browser responsive verification; not physical iPhone Safari or full-site parity."
+  }
 }
