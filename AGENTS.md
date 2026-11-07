@@ -192,3 +192,8 @@
 ## 2026-11-06 獎項分類對應修復
 
 `/news/awards/` 現對應官方 `/en/news?tags=awards`，使用官方 BlogList 原有排列與媒體，共 13 則、2 頁；第 2 頁為 `/news/awards/page-2/`。原 bridge 頁面的 rc7-local-pages 不再於此路由載入，改用既有新聞頁殼與 RC7 共用控制器；未修改任何共用 JS/CSS。標題及摘要為繁體中文，已有站內文章優先使用站內路徑，尚未複刻的文章保留官方網址。新聞首頁獎項入口連往此分類。此紀錄不代表其他分類或全站驗收。
+
+
+## 2026-11-08 獨立副本新聞完整入口與中文文章
+
+以 terrykuo-cloud/auping-staging main 1ceb4b6422a841fd2a6b29d81efce22dea6aa2f1 為修改基準，官方新聞 5 頁共 44 則（其中 1 則位於 stories），九分類 12 個結果頁，均沿用官方 BlogList HTML、順序與媒體。新增 13 篇逐段繁體中文文章，包含原先六篇外連獎項文章；現有文章只校正 main 內站根目錄及分類連結。分類及分頁由原生 anchor 導覽，無新增全域 click owner。RC7 setupReadMore 及所有共用 JS/CSS 保持原樣。新文章 RelatedBlogs 保留官方卡片，原靜態 Slick 沒有對應 runtime，僅以 data-news-related=native 範圍的原生水平捲動提供完整卡片存取，無第二個 JS 控制器。歷史日期保留；動物文章修正原文果蝠段落人／動物標籤顛倒，醫療描述標示歷史背景。證據在 docs/news-completion-20261108.json。這次驗證限新聞家族，不宣稱全站或真實 iPhone Safari 1:1。
