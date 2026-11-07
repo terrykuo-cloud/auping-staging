@@ -267,5 +267,1584 @@
   "EXISTING_ACCEPTANCE": "Previous URL/Chinese-content checks passed but did not establish image visibility; superseded for image acceptance.",
   "OFFICIAL_TRUTH": "Official rendered images retain LazyImage_loaded__h_K__ after load. Production reproduction: report image naturalWidth 740 and opacity 0; recycling image naturalWidth 966 and opacity 0 after scrolling.",
   "MINIMAL_PATCH": "Set the existing visible CSS state in static HTML; retain native lazy loading. No new JS owner, CSS override, image substitution or shared asset changes.",
-  "REGRESSION_AND_RECEIPT": "Scan all 61 mains; verify scrolling, naturalWidth and computed opacity on all listing images and new article images; representative desktop/mobile visual verification."
+  "REGRESSION_AND_RECEIPT": "Scan all 61 mains; verify scrolling, naturalWidth and computed opacity on all listing images and new article images; representative desktop/mobile visual verification.",
+  "secondCause": {
+    "baseline": "4761f1f5f1cccf47c60f551c6d039cc13757536a",
+    "cause": "Previous optimizer URL conversion matched /_next/image inside absolute official URLs and left the www.auping.com prefix before the decoded API URL.",
+    "networkAudit": "65 invalid concatenated URLs; every other unique image HEAD returned HTTP 200 with image MIME type.",
+    "changes": [
+      {
+        "path": "news/auping-x-teklan/index.html",
+        "replacements": 131,
+        "blob": "f17cde16698768b6fd931fcbf0506e6e260b70cb"
+      },
+      {
+        "path": "news/building-circular-future-auping-and-tripler-redefine-mattress-recycling-digital-identification/index.html",
+        "replacements": 8,
+        "blob": "c02f1cd6328bef0eb98aeb089564006a1a756367"
+      },
+      {
+        "path": "news/auping-publishes-impact-report-2023-and-achieves-b-corp-recertification/index.html",
+        "replacements": 8,
+        "blob": "966b0c03b2408138eafcecb1ba14c0a56216318e"
+      },
+      {
+        "path": "news/transforming-mattress-recycling-closing-loop-auping-niagar-wellman-international-and-twe/index.html",
+        "replacements": 16,
+        "blob": "286848912910c118ba56f8897085166dcca7a465"
+      },
+      {
+        "path": "news/auping-noble-wins-archiproducts-design-award/index.html",
+        "replacements": 16,
+        "blob": "125391890e48da8b98d677d897466754bd8dae27"
+      },
+      {
+        "path": "news/niagar-product-passport/index.html",
+        "replacements": 96,
+        "blob": "34d6a68c5c5301979e2358a6a98a43ab7f6fa6e6"
+      },
+      {
+        "path": "news/auping-elysium-recognised-good-industrial-design-gio/index.html",
+        "replacements": 16,
+        "blob": "535c801e4c6dbe6ecbc6008e90cad463c611bb26"
+      },
+      {
+        "path": "news/auping-elysium-mattress-best-sustainable-product-2022/index.html",
+        "replacements": 16,
+        "blob": "c43a484487f676e1dc7990589d6dd94d9cf0ff45"
+      },
+      {
+        "path": "news/auping-wins-oscar-sound-innovative-music/index.html",
+        "replacements": 16,
+        "blob": "30ba8e6a41c6395ccb52599eadda20ad7814df67"
+      },
+      {
+        "path": "news/auping-takes-important-step-circular-transition/index.html",
+        "replacements": 16,
+        "blob": "25acbdf5ca750d522ab2b80bd6e8df25f373a340"
+      },
+      {
+        "path": "news/auping-noa-wins-if-design-award-2022/index.html",
+        "replacements": 16,
+        "blob": "3abacdcab31d10f4ba99945b7de1bcd83f5005ae"
+      },
+      {
+        "path": "news/importance-mental-rest/index.html",
+        "replacements": 24,
+        "blob": "f27db9ff24efe87f55823e29b16b43d2f06ca2f2"
+      },
+      {
+        "path": "news/production-of-medical-facemasks-for-healthcare-professionals-starts-in-the-netherlands/index.html",
+        "replacements": 76,
+        "blob": "983017198a92be74e816aa06e00a6688a623ea7a"
+      },
+      {
+        "path": "news/royal-auping-expands-dealer-network-sweden/index.html",
+        "replacements": 96,
+        "blob": "90d815a49a3a37cc9b3637947f992cc01ff72576"
+      },
+      {
+        "path": "news/auping-nordic-hotel-event-lobby-copenhagen/index.html",
+        "replacements": 26,
+        "blob": "457d444692e38e63c317125658096b537ccc7fb0"
+      },
+      {
+        "path": "news/well-rested-bright-young-minds/index.html",
+        "replacements": 86,
+        "blob": "850e329c4504ddc9bf81795d316a4f82521ee967"
+      },
+      {
+        "path": "news/auping-noa-bed-winner-archiproducts-design-awards/index.html",
+        "replacements": 96,
+        "blob": "0f822a8b85ccad9370598f2f58de84db4a8787fd"
+      },
+      {
+        "path": "news/auping-evolve-rethinking-plastic-house-dutch-design-week-2021/index.html",
+        "replacements": 96,
+        "blob": "28adb59a68f7a34f05e20abc48cd47c54303bc74"
+      },
+      {
+        "path": "news/amsterdam-hotels-opt-wonderful-auping-beds/index.html",
+        "replacements": 96,
+        "blob": "343a64eb0aca19101b52ec423af3b77a0268c4aa"
+      },
+      {
+        "path": "news/royal-auping-opens-first-flagshipstore-spain/index.html",
+        "replacements": 96,
+        "blob": "23e8dafd2d8fa71128a254f021435bb3047c8e1c"
+      },
+      {
+        "path": "news/auping-stood-up-to-help-fight-the-coronavirus/index.html",
+        "replacements": 76,
+        "blob": "236d79d2ae889ac4f7ba17fedfcbb2114fef5cca"
+      },
+      {
+        "path": "news/closing-loop/index.html",
+        "replacements": 96,
+        "blob": "218892220f504b937a8549e0568cd9114530cac2"
+      },
+      {
+        "path": "news/schepers-bosman-x-auping-consumption-quarantine/index.html",
+        "replacements": 96,
+        "blob": "5993c44a2c25685a16988c72f24d74bf49dad9f7"
+      },
+      {
+        "path": "news/auping-evolve-nominated-dutch-design-awards-2020/index.html",
+        "replacements": 96,
+        "blob": "eefbf70bc120f633e4750f44389feceb4c43caab"
+      },
+      {
+        "path": "news/royal-auping-receives-order-from-ministry-for-supply-of-mouth-nose-masks/index.html",
+        "replacements": 76,
+        "blob": "a51e9000c1f22e8269d70266388b0e9a77fa9bf4"
+      },
+      {
+        "path": "news/auping-launches-assortment-archiproducts/index.html",
+        "replacements": 86,
+        "blob": "ea43a28aa241809863a9963e9ee1e83ee05a0535"
+      },
+      {
+        "path": "news/auping-achieves-b-corp-status/index.html",
+        "replacements": 96,
+        "blob": "dac27491b61fc209fc2ddc9d94c53ae9cec979ab"
+      },
+      {
+        "path": "news/royal-auping-and-niagar-achieve-breakthrough-fully-recyclable-mattress/index.html",
+        "replacements": 96,
+        "blob": "1a497c9d4e14ab558f7b8140492a7a3308d9884f"
+      },
+      {
+        "path": "news/mae-engelgeer/index.html",
+        "replacements": 96,
+        "blob": "4059ab79abef984cf0d1d7459ec324b75f209b69"
+      }
+    ]
+  },
+  "networkVerification": {
+    "uniqueImages": 134,
+    "failed": 0,
+    "results": [
+      {
+        "url": "https://api.auping.com/sites/default/files/2025-06/250515_auping_tekla_01_0198.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-x-teklan/",
+          "news/royal-auping-expands-dealer-network-sweden/",
+          "news/auping-noa-bed-winner-archiproducts-design-awards/",
+          "news/auping-evolve-rethinking-plastic-house-dutch-design-week-2021/",
+          "news/royal-auping-opens-first-flagshipstore-spain/",
+          "news/schepers-bosman-x-auping-consumption-quarantine/",
+          "news/auping-evolve-nominated-dutch-design-awards-2020/",
+          "news/mae-engelgeer/",
+          "news/",
+          "news/about-auping/",
+          "news/design/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2025-06/auping-tekla_1.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-x-teklan/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2025-06/pastille_green_1.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-x-teklan/",
+          "news/auping-x-teklan/",
+          "news/auping-x-teklan/",
+          "news/auping-x-teklan/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2025-06/tekla-burgundy_1.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-x-teklan/",
+          "news/auping-x-teklan/",
+          "news/auping-x-teklan/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2025-06/mustard_1_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-x-teklan/",
+          "news/auping-x-teklan/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2025-06/mustard_1_1.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-x-teklan/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2025-06/auping-tekla-2_1.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-x-teklan/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2025-06/tekla_x_auping_1.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-x-teklan/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2025-06/tekla_x_auping_2_2.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-x-teklan/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2025-06/auping-x-teklan3.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-x-teklan/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2025-06/tekla_x_auping_4.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-x-teklan/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2025-06/tekla_x_auping_5.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-x-teklan/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2024-10/label_id_mattress.png",
+        "status": 200,
+        "type": "image/png",
+        "routes": [
+          "news/building-circular-future-auping-and-tripler-redefine-mattress-recycling-digital-identification/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2024-06/auping_bed_model_3404_1200x700px.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-publishes-impact-report-2023-and-achieves-b-corp-recertification/",
+          "news/niagar-product-passport/",
+          "news/royal-auping-expands-dealer-network-sweden/",
+          "news/auping-evolve-wins-german-sustainability-award/",
+          "news/auping-releases-csr-report-2020/",
+          "news/auping-finalist-sustainable-brand-index-jury-price-2021/",
+          "news/closing-loop/",
+          "news/auping-achieves-b-corp-status/",
+          "news/royal-auping-and-niagar-achieve-breakthrough-fully-recyclable-mattress/",
+          "news/auping-wins-circular-award-business-2019/",
+          "news/jan-joost-bosman-new-ceo-royal-auping/",
+          "news/",
+          "news/about-auping/",
+          "news/sustainability/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2024-07/schermafbeelding_2024-07-01_144129.png",
+        "status": 200,
+        "type": "image/png",
+        "routes": [
+          "news/transforming-mattress-recycling-closing-loop-auping-niagar-wellman-international-and-twe/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2024-07/Schermafbeelding%202024-07-18%20145344.png",
+        "status": 200,
+        "type": "image/png",
+        "routes": [
+          "news/transforming-mattress-recycling-closing-loop-auping-niagar-wellman-international-and-twe/"
+        ]
+      },
+      {
+        "url": "https://terrykuo-cloud.github.io/auping-staging/assets/rc73/news-factory-future/8c862bf09d8e9e34.avif",
+        "status": 200,
+        "type": "image/avif",
+        "routes": [
+          "news/auping-opens-mattress-factory-future/"
+        ]
+      },
+      {
+        "url": "https://terrykuo-cloud.github.io/auping-staging/assets/rc73/news-factory-future/1abc20bc5de098ae.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-opens-mattress-factory-future/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2023-11/17112023_archiproducts-noble_nieuwsbericht-header_dt_v2.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-noble-wins-archiproducts-design-award/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2023-11/17112023_archiproducts-noble_nieuwsbericht-header_mob_v2.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-noble-wins-archiproducts-design-award/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/14_transparancy_return_wide.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/niagar-product-passport/",
+          "news/niagar-product-passport/",
+          "news/royal-auping-expands-dealer-network-sweden/",
+          "news/auping-evolve-wins-german-sustainability-award/",
+          "news/auping-releases-csr-report-2020/",
+          "news/auping-finalist-sustainable-brand-index-jury-price-2021/",
+          "news/closing-loop/",
+          "news/auping-achieves-b-corp-status/",
+          "news/royal-auping-and-niagar-achieve-breakthrough-fully-recyclable-mattress/",
+          "news/auping-wins-circular-award-business-2019/",
+          "news/jan-joost-bosman-new-ceo-royal-auping/",
+          "news/",
+          "news/sustainability/"
+        ]
+      },
+      {
+        "url": "https://static.auping.com/NL/circulariteit/14022020_DSM-Niaga_app_screenshot.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/niagar-product-passport/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2024-10/afbeelding.png",
+        "status": 200,
+        "type": "image/png",
+        "routes": [
+          "news/niagar-product-passport/",
+          "news/royal-auping-expands-dealer-network-sweden/",
+          "news/auping-evolve-wins-german-sustainability-award/",
+          "news/auping-releases-csr-report-2020/",
+          "news/auping-finalist-sustainable-brand-index-jury-price-2021/",
+          "news/closing-loop/",
+          "news/auping-achieves-b-corp-status/",
+          "news/royal-auping-and-niagar-achieve-breakthrough-fully-recyclable-mattress/",
+          "news/auping-wins-circular-award-business-2019/",
+          "news/jan-joost-bosman-new-ceo-royal-auping/",
+          "news/",
+          "news/about-auping/",
+          "news/sustainability/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2024-07/schermafbeelding_2024-07-01_144129_0.png",
+        "status": 200,
+        "type": "image/png",
+        "routes": [
+          "news/niagar-product-passport/",
+          "news/royal-auping-expands-dealer-network-sweden/",
+          "news/auping-evolve-wins-german-sustainability-award/",
+          "news/auping-releases-csr-report-2020/",
+          "news/auping-finalist-sustainable-brand-index-jury-price-2021/",
+          "news/closing-loop/",
+          "news/auping-achieves-b-corp-status/",
+          "news/royal-auping-and-niagar-achieve-breakthrough-fully-recyclable-mattress/",
+          "news/auping-wins-circular-award-business-2019/",
+          "news/jan-joost-bosman-new-ceo-royal-auping/",
+          "news/",
+          "news/about-auping/",
+          "news/sustainability/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2024-02/opening_m15_-_1232x604.png",
+        "status": 200,
+        "type": "image/png",
+        "routes": [
+          "news/niagar-product-passport/",
+          "news/royal-auping-expands-dealer-network-sweden/",
+          "news/amsterdam-hotels-opt-wonderful-auping-beds/",
+          "news/auping-evolve-wins-german-sustainability-award/",
+          "news/auping-releases-csr-report-2020/",
+          "news/auping-finalist-sustainable-brand-index-jury-price-2021/",
+          "news/closing-loop/",
+          "news/auping-achieves-b-corp-status/",
+          "news/royal-auping-and-niagar-achieve-breakthrough-fully-recyclable-mattress/",
+          "news/auping-investigates-sleep-among-team-sunweb-cyclists/",
+          "news/auping-wins-circular-award-business-2019/",
+          "stories/cold-weather-we-stay-tucked-up-for-longer/",
+          "news/jan-joost-bosman-new-ceo-royal-auping/",
+          "news/sleeping-like-animals/",
+          "news/",
+          "news/about-auping/",
+          "news/sustainability/",
+          "news/sleep/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-10/24102022_G100_Elysium_600x350.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/niagar-product-passport/",
+          "news/auping-elysium-recognised-good-industrial-design-gio/",
+          "news/royal-auping-expands-dealer-network-sweden/",
+          "news/auping-noa-bed-winner-archiproducts-design-awards/",
+          "news/auping-evolve-wins-german-sustainability-award/",
+          "news/auping-releases-csr-report-2020/",
+          "news/auping-finalist-sustainable-brand-index-jury-price-2021/",
+          "news/closing-loop/",
+          "news/auping-evolve-nominated-dutch-design-awards-2020/",
+          "news/auping-achieves-b-corp-status/",
+          "news/auping-evolve-has-been-awarded-prestigious-red-dot-product-design-award-2020/",
+          "news/royal-auping-and-niagar-achieve-breakthrough-fully-recyclable-mattress/",
+          "news/auping-wins-circular-award-business-2019/",
+          "news/jan-joost-bosman-new-ceo-royal-auping/",
+          "news/auping-debuts-dutch-design-week/",
+          "news/auping-wins-dutch-logistics-award-2016/",
+          "news/",
+          "news/sustainability/",
+          "news/awards/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-10/Elysium%20%2B%20winner%20logo%20%281%29.png",
+        "status": 200,
+        "type": "image/png",
+        "routes": [
+          "news/niagar-product-passport/",
+          "news/auping-elysium-mattress-best-sustainable-product-2022/",
+          "news/auping-noa-bed-winner-archiproducts-design-awards/",
+          "news/auping-evolve-wins-german-sustainability-award/",
+          "news/auping-releases-csr-report-2020/",
+          "news/auping-finalist-sustainable-brand-index-jury-price-2021/",
+          "news/closing-loop/",
+          "news/auping-evolve-nominated-dutch-design-awards-2020/",
+          "news/auping-achieves-b-corp-status/",
+          "news/auping-evolve-has-been-awarded-prestigious-red-dot-product-design-award-2020/",
+          "news/royal-auping-and-niagar-achieve-breakthrough-fully-recyclable-mattress/",
+          "news/auping-wins-circular-award-business-2019/",
+          "news/jan-joost-bosman-new-ceo-royal-auping/",
+          "news/auping-debuts-dutch-design-week/",
+          "news/auping-wins-dutch-logistics-award-2016/",
+          "news/",
+          "news/sustainability/",
+          "news/awards/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-05/medium-auping_evolve_bta_ngm_10328_a389.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/niagar-product-passport/",
+          "news/auping-takes-important-step-circular-transition/",
+          "news/auping-takes-important-step-circular-transition/",
+          "news/production-of-medical-facemasks-for-healthcare-professionals-starts-in-the-netherlands/",
+          "news/auping-noa-bed-winner-archiproducts-design-awards/",
+          "news/circularity-day-2021-royal-auping/",
+          "news/amsterdam-hotels-opt-wonderful-auping-beds/",
+          "news/royal-auping-opens-first-flagshipstore-spain/",
+          "news/auping-releases-csr-report-2020/",
+          "news/auping-stood-up-to-help-fight-the-coronavirus/",
+          "news/closing-loop/",
+          "news/schepers-bosman-x-auping-consumption-quarantine/",
+          "news/royal-auping-receives-order-from-ministry-for-supply-of-mouth-nose-masks/",
+          "news/auping-launches-assortment-archiproducts/",
+          "news/auping-achieves-b-corp-status/",
+          "news/royal-auping-and-niagar-achieve-breakthrough-fully-recyclable-mattress/",
+          "news/jan-joost-bosman-new-ceo-royal-auping/",
+          "news/page-2/",
+          "news/about-auping/",
+          "news/sustainability/",
+          "news/products/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/auping_header2_sweden_-_noa_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/niagar-product-passport/",
+          "news/royal-auping-expands-dealer-network-sweden/",
+          "news/royal-auping-expands-dealer-network-sweden/",
+          "news/auping-evolve-rethinking-plastic-house-dutch-design-week-2021/",
+          "news/royal-auping-opens-first-flagshipstore-spain/",
+          "news/schepers-bosman-x-auping-consumption-quarantine/",
+          "news/auping-evolve-nominated-dutch-design-awards-2020/",
+          "news/mae-engelgeer/",
+          "news/page-2/",
+          "news/design/",
+          "news/sustainability/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2023-05/web_nieuwsbericht_image_1232-347.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-publishes-csr-report-2022/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2023-05/web_nieuwsbericht_image_600x350.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-publishes-csr-report-2022/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-10/24102022_g100_elysium_02.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-elysium-recognised-good-industrial-design-gio/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-10/Elysium%20%2B%20winner%20logo-mobile.png",
+        "status": 200,
+        "type": "image/png",
+        "routes": [
+          "news/auping-elysium-mattress-best-sustainable-product-2022/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/Award%20groen_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-elysium-mattress-best-sustainable-product-2022/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/Groepsfoto%20winnaars%20staand_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-elysium-mattress-best-sustainable-product-2022/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-09/19092022_nieuwsbericht-winnaar-isa_dt_1232x604px_def.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-wins-oscar-sound-innovative-music/",
+          "news/auping-noa-bed-winner-archiproducts-design-awards/",
+          "news/auping-evolve-nominated-dutch-design-awards-2020/",
+          "news/auping-evolve-has-been-awarded-prestigious-red-dot-product-design-award-2020/",
+          "news/auping-debuts-dutch-design-week/",
+          "news/auping-wins-dutch-logistics-award-2016/",
+          "news/page-2/",
+          "news/about-auping/",
+          "news/awards/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-09/19092022_Nieuwsbericht-Winnaar-ISA_MOB_600X350px_DEF.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-wins-oscar-sound-innovative-music/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-06/groep3_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/team-auping-dreams-world-without-als/",
+          "news/team-auping-dreams-world-without-als/",
+          "news/page-2/",
+          "news/about-auping/",
+          "news/sport/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/Ventoux%20%28002%29_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/team-auping-dreams-world-without-als/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/Tour_du_ALS_-_Instagram_banner_algemeen.png",
+        "status": 200,
+        "type": "image/png",
+        "routes": [
+          "news/team-auping-dreams-world-without-als/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/logo%20Team%20Auping.png",
+        "status": 200,
+        "type": "image/png",
+        "routes": [
+          "news/team-auping-dreams-world-without-als/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-04/14042022_IF-design-award_PDP_DT_1232x345px.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-noa-wins-if-design-award-2022/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-04/14042022_IF-design-award_PDP_MOB_600x350px.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-noa-wins-if-design-award-2022/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/14042022_IF-design-award_PDP_MOB_600x350px_v2.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-noa-wins-if-design-award-2022/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-04/Ode%20to%20your%20mind%20-%20news%20-%20desktop.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/importance-mental-rest/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-04/Ode%20to%20your%20mind%20-%20news%20-%20mobile.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/importance-mental-rest/",
+          "news/amsterdam-hotels-opt-wonderful-auping-beds/",
+          "news/auping-investigates-sleep-among-team-sunweb-cyclists/",
+          "stories/cold-weather-we-stay-tucked-up-for-longer/",
+          "news/sleeping-like-animals/",
+          "news/page-2/",
+          "news/sleep/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/Auping_Luistert_750.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/importance-mental-rest/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-03/0000476.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/importance-mental-rest/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/Auping-medische-mondmaskers-desktop.png",
+        "status": 200,
+        "type": "image/png",
+        "routes": [
+          "news/production-of-medical-facemasks-for-healthcare-professionals-starts-in-the-netherlands/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/Auping-medische-mondmaskers-mobile.png",
+        "status": 200,
+        "type": "image/png",
+        "routes": [
+          "news/production-of-medical-facemasks-for-healthcare-professionals-starts-in-the-netherlands/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/img_2799_crop-750x500_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/production-of-medical-facemasks-for-healthcare-professionals-starts-in-the-netherlands/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/noa_balanced_oak_header2_1920.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/production-of-medical-facemasks-for-healthcare-professionals-starts-in-the-netherlands/",
+          "news/auping-noa-bed-winner-archiproducts-design-awards/",
+          "news/auping-noa-bed-winner-archiproducts-design-awards/",
+          "news/auping-evolve-rethinking-plastic-house-dutch-design-week-2021/",
+          "news/circularity-day-2021-royal-auping/",
+          "news/amsterdam-hotels-opt-wonderful-auping-beds/",
+          "news/royal-auping-opens-first-flagshipstore-spain/",
+          "news/auping-stood-up-to-help-fight-the-coronavirus/",
+          "news/schepers-bosman-x-auping-consumption-quarantine/",
+          "news/auping-evolve-nominated-dutch-design-awards-2020/",
+          "news/royal-auping-receives-order-from-ministry-for-supply-of-mouth-nose-masks/",
+          "news/auping-launches-assortment-archiproducts/",
+          "news/auping-evolve-has-been-awarded-prestigious-red-dot-product-design-award-2020/",
+          "news/auping-debuts-dutch-design-week/",
+          "news/auping-wins-dutch-logistics-award-2016/",
+          "news/mae-engelgeer/",
+          "news/page-3/",
+          "news/design/",
+          "news/products/",
+          "news/awards/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/park_centraal_3.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/production-of-medical-facemasks-for-healthcare-professionals-starts-in-the-netherlands/",
+          "news/auping-nordic-hotel-event-lobby-copenhagen/",
+          "news/circularity-day-2021-royal-auping/",
+          "news/amsterdam-hotels-opt-wonderful-auping-beds/",
+          "news/amsterdam-hotels-opt-wonderful-auping-beds/",
+          "news/royal-auping-opens-first-flagshipstore-spain/",
+          "news/auping-stood-up-to-help-fight-the-coronavirus/",
+          "news/schepers-bosman-x-auping-consumption-quarantine/",
+          "news/royal-auping-receives-order-from-ministry-for-supply-of-mouth-nose-masks/",
+          "news/auping-launches-assortment-archiproducts/",
+          "news/auping-investigates-sleep-among-team-sunweb-cyclists/",
+          "stories/cold-weather-we-stay-tucked-up-for-longer/",
+          "news/sleeping-like-animals/",
+          "news/page-3/",
+          "news/hotels/",
+          "news/products/",
+          "news/sleep/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/header-mondkapjes_video.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/production-of-medical-facemasks-for-healthcare-professionals-starts-in-the-netherlands/",
+          "news/circularity-day-2021-royal-auping/",
+          "news/amsterdam-hotels-opt-wonderful-auping-beds/",
+          "news/auping-stood-up-to-help-fight-the-coronavirus/",
+          "news/auping-stood-up-to-help-fight-the-coronavirus/",
+          "news/royal-auping-receives-order-from-ministry-for-supply-of-mouth-nose-masks/",
+          "news/auping-launches-assortment-archiproducts/",
+          "news/page-3/",
+          "news/products/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/03112020_headerbeeld_evolve_2000x800px_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/production-of-medical-facemasks-for-healthcare-professionals-starts-in-the-netherlands/",
+          "news/circularity-day-2021-royal-auping/",
+          "news/auping-stood-up-to-help-fight-the-coronavirus/",
+          "news/closing-loop/",
+          "news/closing-loop/",
+          "news/royal-auping-receives-order-from-ministry-for-supply-of-mouth-nose-masks/",
+          "news/auping-launches-assortment-archiproducts/",
+          "news/page-3/",
+          "news/products/",
+          "news/sustainability/page-2/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/web_auping_mondkapjes_handen_vj35347b-2000x1000_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/production-of-medical-facemasks-for-healthcare-professionals-starts-in-the-netherlands/",
+          "news/circularity-day-2021-royal-auping/",
+          "news/auping-stood-up-to-help-fight-the-coronavirus/",
+          "news/royal-auping-receives-order-from-ministry-for-supply-of-mouth-nose-masks/",
+          "news/royal-auping-receives-order-from-ministry-for-supply-of-mouth-nose-masks/",
+          "news/auping-launches-assortment-archiproducts/",
+          "news/page-4/",
+          "news/products/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/auping_image_sweden_-_noa.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/royal-auping-expands-dealer-network-sweden/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2023-11/17112023_archiproducts-noble_nieuwsbericht-header_nieuw.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/royal-auping-expands-dealer-network-sweden/",
+          "news/auping-noa-bed-winner-archiproducts-design-awards/",
+          "news/auping-evolve-rethinking-plastic-house-dutch-design-week-2021/",
+          "news/royal-auping-opens-first-flagshipstore-spain/",
+          "news/auping-evolve-wins-german-sustainability-award/",
+          "news/auping-finalist-sustainable-brand-index-jury-price-2021/",
+          "news/schepers-bosman-x-auping-consumption-quarantine/",
+          "news/auping-evolve-nominated-dutch-design-awards-2020/",
+          "news/auping-evolve-has-been-awarded-prestigious-red-dot-product-design-award-2020/",
+          "news/auping-wins-circular-award-business-2019/",
+          "news/auping-debuts-dutch-design-week/",
+          "news/auping-wins-dutch-logistics-award-2016/",
+          "news/mae-engelgeer/",
+          "news/",
+          "news/design/",
+          "news/awards/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/header_the_lobby_-_auping_noa-2.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-nordic-hotel-event-lobby-copenhagen/",
+          "news/auping-nordic-hotel-event-lobby-copenhagen/",
+          "news/amsterdam-hotels-opt-wonderful-auping-beds/",
+          "news/page-2/",
+          "news/hotels/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/logo_the_lobby_-_500x500.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-nordic-hotel-event-lobby-copenhagen/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/auping_noa_balanced_oak_1500x1000.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-nordic-hotel-event-lobby-copenhagen/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/Auping_Studiebollen_header2-1232-345.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/well-rested-bright-young-minds/",
+          "news/well-rested-bright-young-minds/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/Auping_Studiobollen_header-mobile.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/well-rested-bright-young-minds/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-04/groep-9564-v2.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/well-rested-bright-young-minds/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/vreemdgaan-met-een-ander-bed_0_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/well-rested-bright-young-minds/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/zomertijd-energieke-tijd-auping.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/well-rested-bright-young-minds/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/smart_wakker_van_snurkende_partner_4739.jpeg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/well-rested-bright-young-minds/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/dekbed_auping_dew_spring_fall_2_1900x540px.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/well-rested-bright-young-minds/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/indigo_blue-41_model_06_1900.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/well-rested-bright-young-minds/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/jetlag-tips.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/well-rested-bright-young-minds/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/noa_balanced_oak_0505-oase-750%5B1%5D.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-noa-bed-winner-archiproducts-design-awards/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-04/14042022_if-design-award_linkedin_1200x628px.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-noa-bed-winner-archiproducts-design-awards/",
+          "news/auping-evolve-nominated-dutch-design-awards-2020/",
+          "news/auping-evolve-has-been-awarded-prestigious-red-dot-product-design-award-2020/",
+          "news/auping-debuts-dutch-design-week/",
+          "news/auping-wins-dutch-logistics-award-2016/",
+          "news/page-2/",
+          "news/awards/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/img_2799_cropis-2000x1000.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-noa-bed-winner-archiproducts-design-awards/",
+          "news/circularity-day-2021-royal-auping/",
+          "news/amsterdam-hotels-opt-wonderful-auping-beds/",
+          "news/royal-auping-opens-first-flagshipstore-spain/",
+          "news/auping-stood-up-to-help-fight-the-coronavirus/",
+          "news/schepers-bosman-x-auping-consumption-quarantine/",
+          "news/royal-auping-receives-order-from-ministry-for-supply-of-mouth-nose-masks/",
+          "news/auping-launches-assortment-archiproducts/",
+          "news/page-2/",
+          "news/products/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/evolve-rethinkingplastic1900x1000.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-evolve-rethinking-plastic-house-dutch-design-week-2021/",
+          "news/auping-evolve-rethinking-plastic-house-dutch-design-week-2021/",
+          "news/royal-auping-opens-first-flagshipstore-spain/",
+          "news/schepers-bosman-x-auping-consumption-quarantine/",
+          "news/mae-engelgeer/",
+          "news/page-3/",
+          "news/design/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/evolve-rethinkingplastic1500x1000.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-evolve-rethinking-plastic-house-dutch-design-week-2021/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/auping_store_barcelona_header_image_10.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-evolve-rethinking-plastic-house-dutch-design-week-2021/",
+          "news/royal-auping-opens-first-flagshipstore-spain/",
+          "news/royal-auping-opens-first-flagshipstore-spain/",
+          "news/mae-engelgeer/",
+          "news/page-3/",
+          "news/design/",
+          "news/about-auping/page-2/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/auping-schepersbosman-headerbeeld-1900%5B1%5D.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-evolve-rethinking-plastic-house-dutch-design-week-2021/",
+          "news/schepers-bosman-x-auping-consumption-quarantine/",
+          "news/schepers-bosman-x-auping-consumption-quarantine/",
+          "news/mae-engelgeer/",
+          "news/page-4/",
+          "news/design/",
+          "news/sustainability/page-2/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/01102020_headerbeeld_nominatie_dda_1900x540px_v2_nl_0.jpeg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-evolve-rethinking-plastic-house-dutch-design-week-2021/",
+          "news/mae-engelgeer/",
+          "news/page-4/",
+          "news/design/",
+          "news/awards/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/17072020_header_actiepagina_archiproducts_1900x540px_v3_nl_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-evolve-rethinking-plastic-house-dutch-design-week-2021/",
+          "news/auping-launches-assortment-archiproducts/",
+          "news/auping-launches-assortment-archiproducts/",
+          "news/page-4/",
+          "news/design/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/medium-auping_mattress_evolve_eenpersoons_1074.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/circularity-day-2021-royal-auping/",
+          "news/circularity-day-2021-royal-auping/",
+          "news/page-3/",
+          "news/sustainability/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/groepsfoto_bw7_1500_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/circularity-day-2021-royal-auping/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/park_centraal_1_0_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/amsterdam-hotels-opt-wonderful-auping-beds/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/auping_plant_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/amsterdam-hotels-opt-wonderful-auping-beds/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/auping_studiobollen_header.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/amsterdam-hotels-opt-wonderful-auping-beds/",
+          "news/auping-investigates-sleep-among-team-sunweb-cyclists/",
+          "stories/cold-weather-we-stay-tucked-up-for-longer/",
+          "news/sleeping-like-animals/",
+          "news/page-2/",
+          "news/sleep/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/auping_outdoor_grotere_file.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/royal-auping-opens-first-flagshipstore-spain/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/auping_store_barcelona_news.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/royal-auping-opens-first-flagshipstore-spain/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/headerimage_blog.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-evolve-wins-german-sustainability-award/",
+          "news/auping-evolve-wins-german-sustainability-award/",
+          "news/auping-evolve-has-been-awarded-prestigious-red-dot-product-design-award-2020/",
+          "news/auping-debuts-dutch-design-week/",
+          "news/auping-wins-dutch-logistics-award-2016/",
+          "news/page-3/",
+          "news/awards/",
+          "news/sustainability/page-2/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/na-preistraeger-produkt-haushalt-wohnen-aupingevolve-2021-400x400_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-evolve-wins-german-sustainability-award/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/teambild_blog.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-evolve-wins-german-sustainability-award/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/auping_header_csr_report_2020_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-releases-csr-report-2020/",
+          "news/auping-releases-csr-report-2020/",
+          "news/page-3/",
+          "news/sustainability/page-2/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/auping_image_csr_report_2020_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-releases-csr-report-2020/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/_ttt0009.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-finalist-sustainable-brand-index-jury-price-2021/",
+          "news/auping-finalist-sustainable-brand-index-jury-price-2021/",
+          "news/auping-evolve-has-been-awarded-prestigious-red-dot-product-design-award-2020/",
+          "news/auping-debuts-dutch-design-week/",
+          "news/auping-wins-dutch-logistics-award-2016/",
+          "news/page-3/",
+          "news/awards/",
+          "news/sustainability/page-2/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/sb_index_2021_initiatief_van_het_jaar_finalists_3.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-finalist-sustainable-brand-index-jury-price-2021/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/img_1062-verkleint_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/closing-loop/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/auping-schepersbosman-capsulecollectie-750_1.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/schepers-bosman-x-auping-consumption-quarantine/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/auping-schepersbosman-handwerk2-750_1.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/schepers-bosman-x-auping-consumption-quarantine/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/auping-schepersbosman-portret_1.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/schepers-bosman-x-auping-consumption-quarantine/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/01102020_headerbeeld_nominatie_dda_1900x540px_v2_eng.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-evolve-nominated-dutch-design-awards-2020/",
+          "news/auping-evolve-nominated-dutch-design-awards-2020/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/beeldmerk.png",
+        "status": 200,
+        "type": "image/png",
+        "routes": [
+          "news/auping-evolve-nominated-dutch-design-awards-2020/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/web_auping_modinette_havane_750x500_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/royal-auping-receives-order-from-ministry-for-supply-of-mouth-nose-masks/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/web_auping_vj35406_modinette_seyiye_750x500_1.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/royal-auping-receives-order-from-ministry-for-supply-of-mouth-nose-masks/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/15052020_headerbeeld_b-corp_1900x540px_nl.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-achieves-b-corp-status/",
+          "news/page-4/",
+          "news/about-auping/page-2/",
+          "news/sustainability/page-2/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/Royal-Auping-B-Corp-header-mobile.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-achieves-b-corp-status/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/2018-b-corp-wtag-black-m_500_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-achieves-b-corp-status/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/21042020_evolve_headerbeeld_2000x1500px_nl.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-evolve-has-been-awarded-prestigious-red-dot-product-design-award-2020/",
+          "news/auping-evolve-has-been-awarded-prestigious-red-dot-product-design-award-2020/",
+          "news/page-4/",
+          "news/awards/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/pd2020_rd_line_rgb.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-evolve-has-been-awarded-prestigious-red-dot-product-design-award-2020/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/auping1925_tc_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/royal-auping-and-niagar-achieve-breakthrough-fully-recyclable-mattress/",
+          "news/royal-auping-and-niagar-achieve-breakthrough-fully-recyclable-mattress/",
+          "news/page-4/",
+          "news/sustainability/page-2/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/auping1925_tc_forweb.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/royal-auping-and-niagar-achieve-breakthrough-fully-recyclable-mattress/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/ozb_aupingniaga_circularmattress_en_031218_forweb2.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/royal-auping-and-niagar-achieve-breakthrough-fully-recyclable-mattress/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/boxpring6817_v2.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-investigates-sleep-among-team-sunweb-cyclists/",
+          "stories/cold-weather-we-stay-tucked-up-for-longer/",
+          "news/sleeping-like-animals/",
+          "news/page-4/",
+          "news/sponsorship/",
+          "news/sleep/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/boxpring6808_v2_0_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-investigates-sleep-among-team-sunweb-cyclists/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/team-sunweb-cresto_1.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-investigates-sleep-among-team-sunweb-cyclists/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/auping-seasons_1.jpeg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-investigates-sleep-among-team-sunweb-cyclists/",
+          "stories/cold-weather-we-stay-tucked-up-for-longer/",
+          "stories/cold-weather-we-stay-tucked-up-for-longer/",
+          "news/sleeping-like-animals/",
+          "news/page-4/",
+          "news/sleep/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/blauwegroene_juffer.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-investigates-sleep-among-team-sunweb-cyclists/",
+          "stories/cold-weather-we-stay-tucked-up-for-longer/",
+          "news/sleeping-like-animals/",
+          "news/sleeping-like-animals/",
+          "news/page-5/",
+          "news/sponsorship/",
+          "news/sleep/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/auping-wint-circular-business-award-header-desktop.png",
+        "status": 200,
+        "type": "image/png",
+        "routes": [
+          "news/auping-wins-circular-award-business-2019/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/auping-wint-circular-business-award-header-mobile.png",
+        "status": 200,
+        "type": "image/png",
+        "routes": [
+          "news/auping-wins-circular-award-business-2019/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/Auping-hoofdkantoor-Deventer-desktop.png",
+        "status": 200,
+        "type": "image/png",
+        "routes": [
+          "news/jan-joost-bosman-new-ceo-royal-auping/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/Auping-hoofdkantoor-Deventer.png",
+        "status": 200,
+        "type": "image/png",
+        "routes": [
+          "news/jan-joost-bosman-new-ceo-royal-auping/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/jan-joost-bosman-vierkant.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/jan-joost-bosman-new-ceo-royal-auping/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/rens_auping_photo_ronald_smits_20.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-debuts-dutch-design-week/",
+          "news/auping-debuts-dutch-design-week/",
+          "news/page-5/",
+          "news/awards/page-2/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/aupingxrens_nightynight_photo-aisha-zeijpveld-07.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-debuts-dutch-design-week/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/sgsdfg.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-debuts-dutch-design-week/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/sgbryry.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-debuts-dutch-design-week/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/blauwegroene_juffer_0.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/sleeping-like-animals/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/chimpansee%5B1%5D.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/sleeping-like-animals/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/californische-zeeleeuw%5B1%5D.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/sleeping-like-animals/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/vleerhond%5B1%5D.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/sleeping-like-animals/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-02/award-ontvangst-auping.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-wins-dutch-logistics-award-2016/",
+          "news/auping-wins-dutch-logistics-award-2016/",
+          "news/page-5/",
+          "news/awards/page-2/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/award-ontvangst-auping.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/auping-wins-dutch-logistics-award-2016/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/mae_engelgeer_header.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/mae-engelgeer/",
+          "news/mae-engelgeer/",
+          "news/page-5/",
+          "news/design/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/mae_engelgeer_portret.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/mae-engelgeer/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2023-05/web_nieuwsbericht_teaser.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/",
+          "news/about-auping/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/aupingwintcircularbusinessaward_2000pxls.jpeg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/page-4/",
+          "news/sustainability/page-2/",
+          "news/awards/page-2/"
+        ]
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2022-01/150612-014.jpg",
+        "status": 200,
+        "type": "image/jpeg",
+        "routes": [
+          "news/page-5/",
+          "news/about-auping/page-2/"
+        ]
+      }
+    ]
+  }
 }

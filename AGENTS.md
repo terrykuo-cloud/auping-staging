@@ -202,3 +202,5 @@
 ## 2026-11-08 新聞圖片透明回歸修復
 
 上次官方 DOM 擷取留下 LazyImage 未載入樣式，靜態頁沒有 React load 回呼，造成圖片 naturalWidth 非零但 opacity 為 0。只在本次新聞範圍 main 的 img 補上既有 LazyImage_loaded__h_K__ 可見狀態，保留 loading=lazy、圖片 URL、srcset 及版型；未新增 JS owner 或修改共用 CSS。之前連結測試不能代表圖片已驗收，圖片驗收以 docs/news-images-20261108.json 及捲動後實際顯示為準。
+
+第二項圖片回歸：絕對 /_next/image 網址轉換後殘留官方網域，形成 www.auping.comhttps://api.auping.com。僅修正新聞 main img 的重複前綴，並對所有唯一圖片來源執行 HTTP 與 MIME 驗證；圖片身份、srcset 寬度、內容及版型均保持。
