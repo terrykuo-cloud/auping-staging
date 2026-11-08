@@ -1,0 +1,23 @@
+{
+  "CURRENT_MAIN": "0c723e3f3e41b501a3f8bf5d0e7883d5f5cb5989",
+  "EXISTING_OWNER": "rc73-page.js; RC7 setupReadMore; rc76 Taiwan store locator and store-link-guard. No runtime changes.",
+  "TEMPLATE_AND_DATA": "Existing Kiruna main text nodes: TruncatedText, ProductOverviewHeader, TestimonialQuote, TwoColumn, StoreLocator.",
+  "AFFECTED_ROUTES": [
+    "/box-springs/kiruna/"
+  ],
+  "EXISTING_ACCEPTANCE": "Preserve media/gallery/layout, removed configurator exits and Taiwan store links. Do not claim all product-family parity.",
+  "OFFICIAL_TRUTH": "Existing repository full English content compared with https://www.auping.com/en/box-springs/kiruna on 2026-11-08.",
+  "MINIMAL_PATCH": [
+    "box-springs/kiruna/index.html",
+    "AGENTS.md",
+    "docs/kiruna-translation-20261108.json"
+  ],
+  "REGRESSION_AND_RECEIPT": "Exact non-text markup comparison; 1440px and 390px/440px browser checks including RC7 disclosure.",
+  "blobs": {
+    "box-springs/kiruna/index.html": "e687e78b48464daea7df962db2a5908e59dbd817",
+    "AGENTS.md": "6e3f56beacbeffd02a47131de8ec709fa71b0b90"
+  },
+  "textNodesTranslated": 34,
+  "markupUnchanged": true,
+  "adaptation": "Configurator promotion replaced by in-store consultation per user restriction; product material and size information retained."
+}

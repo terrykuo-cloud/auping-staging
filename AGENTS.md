@@ -218,3 +218,8 @@
 依使用者的原廠規範要求，移除全站指向 configurator.auping.com 的文字、按鈕與 SVG 圖示入口，包含 en-gb、nl-nl 及商品 permalink。原 ProductCardImageSlide／CategoryTiles 商品圖片錨點改為相同 class 的非互動 div，保留所有媒體、輪播按鈕及排版結構。rc3-final.js 僅移除其產生的設計訂購 CTA。沒有增加 click 攔截器，也未修改 RC7、C2、Read More 或共用 CSS。非目標連結、圖片影片標籤、HTML script 區塊逐檔比對不變；清冊見 docs/configurator-removal-20261108.json。歷史資料 JSON 保留作來源紀錄，不代表提供客製化入口。
 
 同時移除既有 data/rc6-routes.json 與 data/rc6-search-index.json 中唯一 service-configurator 記錄，避免搜尋重新提供官方客製化出口；其餘路由與搜尋資料保持。
+
+
+## 2026-11-08 Kiruna 繁體中文內容
+
+僅翻譯 /box-springs/kiruna/ main 內英文文字節點，包含布料系列、床頭板高度、七區支撐、設計引言、門市按鈕及地圖文字。依使用者限制，配置器宣傳段落改為門市搭配諮詢；未恢復客製化入口。HTML 標籤逐字比對不變，圖片、連結、版型、RC7 閱讀更多、rc73 與 rc76 控制器均保留。記錄見 docs/kiruna-translation-20261108.json。
