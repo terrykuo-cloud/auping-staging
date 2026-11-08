@@ -1548,17 +1548,6 @@
       ]
     },
     {
-      "title": "Auping 線上配置器",
-      "summary": "前往官方配置器設計床架或 Box Springs。",
-      "routeId": "service-configurator",
-      "mode": "OFFICIAL_REDIRECT",
-      "keywords": [
-        "配置",
-        "設計",
-        "configurator"
-      ]
-    },
-    {
       "title": "My Auping 帳號",
       "summary": "前往官方 My Auping 帳號服務。",
       "routeId": "service-account",

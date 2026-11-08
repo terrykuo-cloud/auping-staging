@@ -663,14 +663,6 @@
       "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"
     },
     {
-      "id": "service-configurator",
-      "title": "Auping Configurator",
-      "localPath": "/configurator/",
-      "mode": "OFFICIAL_REDIRECT",
-      "officialUrl": "https://configurator.auping.com/en-gb",
-      "reason": "依賴官方後端或即時商業資料。"
-    },
-    {
       "id": "customer-service",
       "title": "客戶服務",
       "localPath": "/customer-service/",

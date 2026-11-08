@@ -336,7 +336,7 @@
             <option>${isDuvet ? '140 x 200/220 cm' : zh('Standard size', '標準尺寸')}</option>
           </select>
           <a class="primary-button" target="_blank" rel="noopener noreferrer" href="https://www.auping.com/en/store-locator">${zh('Find a store', '尋找門市')}</a>
-          <a class="outline-button" target="_blank" rel="noopener noreferrer" href="https://configurator.auping.com/en-gb">${zh('Design and order', '設計並訂購')}</a>
+          
         </div>`;
     }
 

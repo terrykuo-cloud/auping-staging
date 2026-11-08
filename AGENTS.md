@@ -211,3 +211,10 @@
 首頁依官方即時 /en 的九個區塊與 USP banner 建立繁中版本，先在 /home-preview/ 驗證。官方時間軸 inline script 為此時間軸唯一 owner；home-2026/home.js 僅接管新影片暫停按鈕，既有 snapshot-interactions 仍控制來源與自動播放；RC7 及共用 CSS/JS 保持原樣。新 CSS 限定 data-home-2026 範圍。驗證及正式上線狀態見 docs/homepage-20261108.json，不宣稱真實 Safari 或全站 1:1。
 
 正式首頁現採用已通過預覽檢查的同一份新版內容；1440px 桌面影片播放時間推進與暫停／恢復、時間軸箭頭與鍵盤邊界、390/440px 手機圖片與導覽及 440px 時間軸拖動已實測。/home-preview/ 保留為相同內容的檢查入口。官方外部配置工具保留原連結，連線未驗證成功。
+
+
+## 2026-11-08 移除官方客製化工具入口
+
+依使用者的原廠規範要求，移除全站指向 configurator.auping.com 的文字、按鈕與 SVG 圖示入口，包含 en-gb、nl-nl 及商品 permalink。原 ProductCardImageSlide／CategoryTiles 商品圖片錨點改為相同 class 的非互動 div，保留所有媒體、輪播按鈕及排版結構。rc3-final.js 僅移除其產生的設計訂購 CTA。沒有增加 click 攔截器，也未修改 RC7、C2、Read More 或共用 CSS。非目標連結、圖片影片標籤、HTML script 區塊逐檔比對不變；清冊見 docs/configurator-removal-20261108.json。歷史資料 JSON 保留作來源紀錄，不代表提供客製化入口。
+
+同時移除既有 data/rc6-routes.json 與 data/rc6-search-index.json 中唯一 service-configurator 記錄，避免搜尋重新提供官方客製化出口；其餘路由與搜尋資料保持。

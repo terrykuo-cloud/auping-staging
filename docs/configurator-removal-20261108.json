@@ -1,0 +1,2629 @@
+{
+  "base": "924105f059b5dc57198b36221497de66302c400f",
+  "htmlPages": 373,
+  "removed": 2258,
+  "preservedNonInteractiveImageCards": 48,
+  "checks": "All non-target anchors, product image/video/source tags (the dedicated Configurator icon is removed), and HTML script blocks unchanged; no configurator hostname remains in HTML/JS/MJS.",
+  "changes": [
+    {
+      "path": "about-auping/b-corp/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "06e3bd3babec4a9eda83d304873b037b0d2bab6c431528cd33eaa4f23dfbbd7f",
+      "after": "c07b00096c245ae68fad464d018155cba4dc1992159e626408d7539123e2f9a8"
+    },
+    {
+      "path": "about-auping/design/advertising-classics/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "46e2f228ccca24051858a32fb3b4ed3e26843d17cb692b46a2a62611db935d2e",
+      "after": "5bd231d5c74030f4ba64b6e95dfa70b56ee1d6f3c6a8fb0398fdc8b8ea7756e1"
+    },
+    {
+      "path": "about-auping/design/design-heritage/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "c45ee41fbe16eaf67b74e5e65316db5853f466a954bf07bddd9ce24517b96e59",
+      "after": "25e068c49e5cb2ae5de05bf82f0f86ed1b1d7b599073fcc945c314d7acf206de"
+    },
+    {
+      "path": "about-auping/design/designers/eva-harlou/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "adf54b245f0187547117aa3377caf4b05688a009df08321bf355383ae1dee067",
+      "after": "570806553d40614bf149054d587bdb5b1e5262616fac60e9b5cbf78c8754f222"
+    },
+    {
+      "path": "about-auping/design/designers/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "6237e3ba145893e530714a7e64469798b8d2ea1b7eb7b3138ca872b3c32a5f46",
+      "after": "055668e55d4cd77fa5e1dd3ac9e07906b2b447881b730dc19c49453b88b6d233"
+    },
+    {
+      "path": "about-auping/design/fabrics/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "b25060e3c5c132c69924b34fd4063ef0332b21c7c34130140e4e932665b5d4d1",
+      "after": "b74f57d6f0108d7010e5e722fc82aaad6aaaa1758d0ff6cf3d8e23c4c52fe339"
+    },
+    {
+      "path": "about-auping/design/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "103c6f018c882cbc9c37f70cd64555358f457573685286a5dd4219b2852b3ee6",
+      "after": "713907db476e0ae86a6a676a6f421d437b97ed4d2ba47b8d60fdce6d2cb2ac28"
+    },
+    {
+      "path": "about-auping/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "26c4425925553a41f66e45f0ca5cb54cc1d1b3e88e1d97598761f3ea982695f5",
+      "after": "c2da756270d2fdc2b01d9bf1e12d6ad80c6432473d68888afeec3e6092d402d4"
+    },
+    {
+      "path": "about-auping/proudly-manufactured-netherlands/index.html",
+      "removed": 6,
+      "inert": 0,
+      "before": "fc6b27fcb3e8d543c42f2cc38a2c8b98e60ec91e7047776506f6bc5680ad39ee",
+      "after": "5744bfc398a011aff92b5ac631d1272c2a3a4d2140e8d5308a8943a13ffdc9d7"
+    },
+    {
+      "path": "about-auping/sustainability/35-million-mattresses/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "d629af0a0725a8db4dd1e8952b72505eacf6ca0560ace949f5157dfa5a7c58ca",
+      "after": "002932994c8403a4a893774c566fd69bd2f0467db9f18fea30dec24b6dfec61a"
+    },
+    {
+      "path": "about-auping/sustainability/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "d5e6e03eed466f4fbe77dffea59e173120840787b760bf719882da3f18b80ecd",
+      "after": "17e67326724aca86ecc977ba6045993a826a88f9d70e934fb8f0f38ccec34429"
+    },
+    {
+      "path": "about-auping/sustainability/recycling/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "4ecf6d644d349580a11aa4c42cb775ef2e76585416398b4942a34c2ddbc1c1ef",
+      "after": "77a9f81415600e97d8ff513f0e69e0370a40375b513dccdf9afc2d93062354ff"
+    },
+    {
+      "path": "about-auping/sustainability/solar-panels/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "ee47ce4cd66175d8b8560e9230b9e4f368ff703bbb168fc0d78bcf4e9effb429",
+      "after": "5b5b5ddcff4fcb993058fddd8b719677c29d72e6541a39f6ce0a448f646c584c"
+    },
+    {
+      "path": "accessories/leavings-pillow/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "d770a88d89f164a873bbd3ee242fdf7a7ea06d72ed527e69c19f85cc703a6695",
+      "after": "4b1e150f30325c9565a6d30a563bdd6b16ceb8c4911f02b6b27c74e1c9b451f4"
+    },
+    {
+      "path": "accessories/nightstands/pixel-nightstand/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "2b20f527c624adb00f071a04925e6dca46dfe5d164e886d0be033dee7be61edc",
+      "after": "241f003c4b78cf4e7282812ae3dd4a6c5f3c5ed32c64c1db1cf497b857580e31"
+    },
+    {
+      "path": "accessories/round-pouffe/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "0d6cd313ce72d060758bee7a9da7ace73ffdcb678fb257c1f3441b4010f8d8c0",
+      "after": "2d8521187915dd489517a7894e2d942b6fcaa5d55bdc221c9aa702bf471bdb1c"
+    },
+    {
+      "path": "assets/rc3-final.js",
+      "removed": 1,
+      "inert": 0,
+      "before": "87e7a75dacf7bf8fed9dd6e819297a562e6f7e4ed374c91c269dffe8720cdd3a",
+      "after": "f6afc2c8e3a470a239bb74fa9eb72e6e076ac4a1091dfa4409288e92b0793201"
+    },
+    {
+      "path": "bed-bases/electrically-adjustable-bed-base-1m/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "17ac0f1e196f322b7f0f4935dde759e728cd2aa7d3a0ffc5eb33368546a7e767",
+      "after": "fb25087d01c612d22663163726e18594d1093f41def5a08b2f96be324b7f135d"
+    },
+    {
+      "path": "bed-bases/electrically-adjustable-bed-base-2m/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "6410a8aed01ce1d709859619d4c5cdaaf845e6d3e1512629d4acfc57517ae411",
+      "after": "c618949f21adca573fd2bd0cd5a5a5825fd06914da6cdad7ed28eacd9d07651b"
+    },
+    {
+      "path": "bed-bases/electrically-adjustable-bed-base-3M/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "5d3e5da2e7ab9f9995ac32ebeb7db2fcb260a593771049c5d3bfd6b991d696c6",
+      "after": "95631692c81c89d9ad7e0be0646b660cdfe2b1db144119334874398541f382cb"
+    },
+    {
+      "path": "bed-bases/flat-bed-base/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "2bff933a98a851822269200fc71bf430b491cb39aa614819d46c7dea416643ca",
+      "after": "2139f009dcacfd00fe03d8928789bf33369cebe865033e013004e1844f5dd49c"
+    },
+    {
+      "path": "bed-bases/index.html",
+      "removed": 6,
+      "inert": 0,
+      "before": "5a0eda2a51678d12b635faca3a03b65aabcfa13d0a6d2aecd7cf3e096f11e586",
+      "after": "651f9728d9c393331e0777e5dcd07b07b95265997109676ce7064eaeb5e63949"
+    },
+    {
+      "path": "bed-bases/manually-adjustable-mesh-base/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "6e18a2b1ced63e99bdeb649bd091531fc9589e97327fac12e3a1bb9c1de4ceb2",
+      "after": "3ae6d7e4d5f96dc3975ae603f21f53feaa604745fedac17e5f3e48bf7ab15a06"
+    },
+    {
+      "path": "bed-linen/bedspreads/dejavu-grey-bedspread/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "e79045e074a656df3d1b39b0fe196b61e62f0566b712150c8490f8f3d968e763",
+      "after": "e755c988099b9069e627c81e0d1f92dce0f3922adbbf936b2bbaa180f7a8bb03"
+    },
+    {
+      "path": "bed-linen/bedspreads/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "e5e095eba9b3b1358538be641a0cb060bc043dceb4773c935f513b4e384aa5f4",
+      "after": "4b1999ff1ee6034b90d460711ab5c31f0c1f4e3855eba1fb376d661dc0e6ab1f"
+    },
+    {
+      "path": "bed-linen/duvet-covers/adventure-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "6ec8bdb574c99924010fd736922d79ca6e18fb9f567ce8d4a43a3ad0f0c5bc26",
+      "after": "a1251b6e2c268d980197c42388ef77d7e85d31f3c72058a8d9b0f9ab9b7444a4"
+    },
+    {
+      "path": "bed-linen/duvet-covers/arctic-white-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "b3a3e5d91c358081bb8985c9872c98835ec5f9aece4c192ebd643c17a7a62966",
+      "after": "1778c369b04f319131eb840e01664c6bf4a5df0763df2b9c11aaa5c985baa444"
+    },
+    {
+      "path": "bed-linen/duvet-covers/babylon-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "5b482be50acfff2245940e9dddb7ed2e580f49a065423bc1e14ff1e59b45f5a6",
+      "after": "60a4ff5c6a5861fd544bda0fed3f57c9a5a9020f5c5b4d48cf4f0fc457806c22"
+    },
+    {
+      "path": "bed-linen/duvet-covers/beige-lines-satin-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "a4e6fcea5e7f507bf821eea2d1f3d9dd9ac748e68104508c4e3effdbb4bbe740",
+      "after": "4348ae738315d5d882eb995defab25239a031d2ce1350039e9d2163902632b0b"
+    },
+    {
+      "path": "bed-linen/duvet-covers/blue-moon-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "5388f77d12afee21cf3b63cfcc89563e5a4015470c6caa06a71da6fe8270e975",
+      "after": "1d1a454c1102ae51035a6760fd4fc9c3bd96fd00719f1d5ea41b7e4ae68b368e"
+    },
+    {
+      "path": "bed-linen/duvet-covers/break-day-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "7fa589f444145a30402963e368e4c1b6166bda1d2314f9fa438fac02b2f0937d",
+      "after": "285de2599cca4303d5da344284d054429fbd33e2dbb274c7d203716e1842268e"
+    },
+    {
+      "path": "bed-linen/duvet-covers/bright-kaleidoscope-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "092fcbbed321beffbf5bc9cc18df58e144d2a0fad80ccebc7473524189b53a55",
+      "after": "be244fff9ea5c74c2cbf7cef99fbdb4890738859b5470b1a1329368d5b4e1be5"
+    },
+    {
+      "path": "bed-linen/duvet-covers/brilliant-blue-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "9d6107f7532e9979e8b14ec2490304b458bdc4016186a9f02b8ad00e6bb73f98",
+      "after": "8b1531bcbc2443939af947468a25dfeb61512bef1bba10284c506d8062a39627"
+    },
+    {
+      "path": "bed-linen/duvet-covers/brilliant-grey-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "fc12ea889499c652546ed3a40ed0fc3e0783095fd5a6dff7a1df566414bc6b41",
+      "after": "582a8a52b893ef019abd29755ca74c22d1af70746aab0589c3ade6a64f61569a"
+    },
+    {
+      "path": "bed-linen/duvet-covers/brilliant-stone-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "e79ff51070ffd9fb39b14a53cd4d0f2adfcc0e455f4d2a555a5e8fd3f9901715",
+      "after": "028e07f7dc6ba81220169e0a17484fbea27976092d3b8fa44f8807a58b2bf84e"
+    },
+    {
+      "path": "bed-linen/duvet-covers/cambric-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "1428a98b22ad3a466dc67f91a9eb66afc38dc1b89f37575735e9a832bb498413",
+      "after": "1af84465b6a6b1468434672a2483b77fc6a0821416b451922c166a90ccad84ff"
+    },
+    {
+      "path": "bed-linen/duvet-covers/canyon-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "740ecea7a3d773a212bc12e205279c88977592ff8140f1a035216920fb42551b",
+      "after": "3fff6a36ca5f2aca0b6bffba51c712029b7dca0b4d65edbeb4dd41289c7da31d"
+    },
+    {
+      "path": "bed-linen/duvet-covers/casual-lines-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "6a5ab1d1e4218bce174ba10899beb8eff8daf5af797617a1e49bb21099d9860b",
+      "after": "2a5f908fbb63720e3da03ae01d8b871caf1db331e894403fcad84d45c3666f58"
+    },
+    {
+      "path": "bed-linen/duvet-covers/casual-squares-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "87396bba89f9be58896560afabc3404fb622026d2867eb164eac364f52914b37",
+      "after": "9213c4e25ee68f3956808921aef4c05ab328a687ed4acdd89dc3cbc7d92ade28"
+    },
+    {
+      "path": "bed-linen/duvet-covers/cedar-waves-dekbedovertrek/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "acaac2e596f782983cc412ec7f019622e90996ac2401d564d40a527793ceb2df",
+      "after": "de687e4a4840cc954ff944cbdb3b222c2d61de8e72263bcce9806bc90f348f38"
+    },
+    {
+      "path": "bed-linen/duvet-covers/chambray-blossom-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "1205f0997bfff76a842f46d3675a8bfe50504f3c1d1147924d8fc4e88974675d",
+      "after": "7caf16b6717b4b6e829b6b2cd98428f71b4da27eec9d193df4229c04afd3febe"
+    },
+    {
+      "path": "bed-linen/duvet-covers/chambray-blush-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "43347a4ce3042d50598bfb4456d1ceea4def619d74ac2c9886ea15cbc27527e0",
+      "after": "b06dc2d8e42bd01feadf0e8fee80ef7897c0cc30a5398f4d574e63d7f043b501"
+    },
+    {
+      "path": "bed-linen/duvet-covers/chambray-chalk-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "b94a5ad0d473f12b2ad040dba0ca4c0031889c1aa555e1db56ff2e344bebaf7d",
+      "after": "a5b9339865c65ecc776be20913ece033a52ac07b1b40da3b76065e4c7b1baa74"
+    },
+    {
+      "path": "bed-linen/duvet-covers/chambray-denim-blue-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "824cd17900e5907e038344085e158a47e6fceb8ed394db45fa6fa41e42ce8665",
+      "after": "c62392c99cfab3920e0e1915ccadb9e72cdb2c049afa11a22d204bad01d94932"
+    },
+    {
+      "path": "bed-linen/duvet-covers/chambray-plum-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "9cdab93390993a04247c3caa6106b8ed140be035466228663bf883d53bb0f31a",
+      "after": "3193eb22d2e4edd006c00552ee5cae238b44c0ed9d7c25a6d5f8fc503ca37b5f"
+    },
+    {
+      "path": "bed-linen/duvet-covers/chambray-sky-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "29c7c303462664c877eb2ee85172fc944d362194065f947d969568f0d953e484",
+      "after": "2f9ce517dfc892b063dfa2a68dee8f7eb95dfc1e43d18b6a9e24d7339104fce5"
+    },
+    {
+      "path": "bed-linen/duvet-covers/classic-white-blue-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "23209302349f97f9a144fe0706b76327da09a5fa6ee2c442226e7054741e392e",
+      "after": "b8b440dbe93440a2030ac427b4f0be018d5a7345d3ac4049f7091e035c8ca928"
+    },
+    {
+      "path": "bed-linen/duvet-covers/classic-white-grey-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "f99211c1624457b66c98bb7b230624c725a8f0912c1f5218788fc04daabd19ea",
+      "after": "58b0a043623a94def8f797f28d94c993cf4be03605cfeb1f9776fdbef621e393"
+    },
+    {
+      "path": "bed-linen/duvet-covers/classic-white-stone-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "ab8f34ff02838c84c85159ca3709203a1f6d1dc3d1e5249eab84b7a6494022e4",
+      "after": "a8555fdd8089bce467344212e4afa4c6fa77008a6908132978397198afc9c9b3"
+    },
+    {
+      "path": "bed-linen/duvet-covers/clear-white-percale-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "c96732637ab81ccabc9866e7fd5aea3b484f0ad62cb30391188cdb01e5388d1d",
+      "after": "63cc2231f3ddaee1444d96602885148aee11ffa620465c0b967741d282fa1d24"
+    },
+    {
+      "path": "bed-linen/duvet-covers/cloud-nine-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "66310a411b279cc2423793291da30fc6b967f09c49e03cf639f1f9ccd059c503",
+      "after": "c89c11632ef4710e2c4051574e5ab42a7ab1c730b1c9bfe39a1995a7d62a8002"
+    },
+    {
+      "path": "bed-linen/duvet-covers/coral-cove-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "4390b33b7ac7580b9cc7a7b8458ee3dabdcbc2a508f0ff7b330d7161e0a18f21",
+      "after": "44d8735d48f1140147a1075521f90ec5b284c784ff81150725e12beeed92ea70"
+    },
+    {
+      "path": "bed-linen/duvet-covers/day-spring-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "3abc1d12981c7e1ad72f5779203a3f943913339044eb5fd9df7e1ab49d2a02f2",
+      "after": "89bce7e9b6c35a4e6bec9ab4a6867187a9ec8243f923519c3907de6e51499bf0"
+    },
+    {
+      "path": "bed-linen/duvet-covers/demeter-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "9e86363173e1063bd30c4872a9ef6e213c91dac694bbefe8ff4e5a60d29e9ff3",
+      "after": "4ecb48f343e96f1cbccb92c2b7e5ee2b6485d2a4b23186d7fbda5c049c907120"
+    },
+    {
+      "path": "bed-linen/duvet-covers/duvet-cover-symmetry/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "102bbdd4de85bb0679fba0486d9a20837cba80813dfee21cd56d5b41074452ed",
+      "after": "f94661e2a4d04cff48c7c0705375d7583bedd55ce0961abccf9591acf332625c"
+    },
+    {
+      "path": "bed-linen/duvet-covers/dynamic-colours-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "3936c6346b3b046c61a8b3b1bc814b9f24d206b0521725461052549bce9351e2",
+      "after": "842e234762e85f514a8ca9298b1bd4e4ebc88d9392a36a13e5b5092675440331"
+    },
+    {
+      "path": "bed-linen/duvet-covers/elegant-fibres-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "986c5913c788b7857a0cf850f2e3db91fe954c4c40f584e1092178d836dc3bcd",
+      "after": "a06749cfa59962105721d1ee9de0a084e93fbda2200196ee6605f62cc36d64fb"
+    },
+    {
+      "path": "bed-linen/duvet-covers/evening-blue-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "7e001336a5a6e689f03427bc2ca9e189aa0a97fd22017dfada2e428aac6bde97",
+      "after": "18f78c9678a0a5efbf945c2009f1a8b74087b322cdc15c786b9d247a8aa3c6bd"
+    },
+    {
+      "path": "bed-linen/duvet-covers/flannel-grey-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "7d04ec2d83ff08e00921f2b70f8c8e889e31e9ee50114c03016227a2c51776be",
+      "after": "f7a9e0a80363b7b4160049e21fe1fcbc2313ad5de6cab92635cc3990ff00d1c9"
+    },
+    {
+      "path": "bed-linen/duvet-covers/forest-echo-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "298b5a819659a8d6d8ebd2a66db091855532b5cea2ff7b5ffe9005c016d1fa63",
+      "after": "658d0ff84d5e7749dcb567b6be5553e3d3d0ab618bc98d20e9ebb0af6ae6c260"
+    },
+    {
+      "path": "bed-linen/duvet-covers/forest-green-percale-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "3d4ef065bff4ea0e56de3e0e7fc5d757fd00ded24360c4c9935b3f15a93b12ba",
+      "after": "9cc41d27a633db68340cff6d9a412af57d1b5d2411408389bf7324f3c0d0571e"
+    },
+    {
+      "path": "bed-linen/duvet-covers/gentle-clover-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "a784bab439de3a69d6b3e5a7b9d4a17c890e0f268996d8f20e4733b6527937e9",
+      "after": "546349910b2474d5f254ca1b03ed468628981ee37417417f71dc06933ab1c094"
+    },
+    {
+      "path": "bed-linen/duvet-covers/glacier-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "2d543071824bbcd51478a119ae69e4c2ac562286476fa7c0b6ddd23b373255a5",
+      "after": "b6089feb72e70ff8bdb675ccfe5309602447d4c97f3b2b26cfcffd4737a9218a"
+    },
+    {
+      "path": "bed-linen/duvet-covers/graphic-bordeaux-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "e0bb840467cf00f48e3505237a0c3217fa53827dc5fcf871518656d45b02aee8",
+      "after": "13f3eef3c5f6fc404a1eb146f19d62f5906dec132ed6197ac58465da398b5254"
+    },
+    {
+      "path": "bed-linen/duvet-covers/graphic-red-duvet-covers/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "d566e1a8c0fde050c3abdf35bb0c1d56eb034beb846e03d82a1d28804f0725c1",
+      "after": "dc3fb27650fd40eff9c5cc514ba68b683aa4c892092a826e0ba4eeb538d59d23"
+    },
+    {
+      "path": "bed-linen/duvet-covers/grey-lines-satin-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "fba5a23a8229310173ea4127f61436b355b9f7b842ce9d333e537a5eaea4e6d1",
+      "after": "93e47429e1bda4ce3e3a1e77c20abf555cd22d0fa500e54ae44b525f2cb902b8"
+    },
+    {
+      "path": "bed-linen/duvet-covers/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "9284a32c0c324c07bae0c6ef3a03fe270542104f1246b8c33ab3696294784aa1",
+      "after": "18cbcca9e998bba582666246a585542fcac31fe1eb8c29daf5b7cb4e6f9ea1d3"
+    },
+    {
+      "path": "bed-linen/duvet-covers/layered-vine-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "eaff484ec826030085349018174991f04c933a424f1270e40c59f06de3bcca4e",
+      "after": "52a4e909e009c4fc3f2cb32d4012cea29783b99bcfa306c6ff3e135526fd8b2b"
+    },
+    {
+      "path": "bed-linen/duvet-covers/lunar-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "13fddc80fa08e08eb55edac5f627b210b58bf2f5b0704a6fbfd2ef62855a9205",
+      "after": "b0fbfb9fb07bcefc8bc5a15dcfed37efeb21b5674765834df1e0cfbd71347973"
+    },
+    {
+      "path": "bed-linen/duvet-covers/mauve-twists-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "5746d4b16a65dd218f8c2b2e46688f8f17adae2ecbfa1317ef0cd76f4f8db036",
+      "after": "5de9bf7453f8883591ab1b98b3a7f40c125fdc3884c91cbfeda696e3c4ccea88"
+    },
+    {
+      "path": "bed-linen/duvet-covers/meadow-sky-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "67ceb578db302cdd11335f9c8ec9a332d5145940a1c7d3bbe97c17e0c96cb588",
+      "after": "86868dbc8ec06fe79b25ec56076508158b4175c78914cc7a194846c5137f43e7"
+    },
+    {
+      "path": "bed-linen/duvet-covers/meandering-blue-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "4bb1836a820ef8e1ff256d5897db28f0df2ead625ae96c3551f8d9ef52d93d12",
+      "after": "fb1aa21c5d5e79ae012180690ceed5f11edb36f52a62a92d5589180cf49f6127"
+    },
+    {
+      "path": "bed-linen/duvet-covers/mellow-dust-duver-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "f849e4c5429395181e59705535adc06e18237edb8007e3511cbf4a21f15b2928",
+      "after": "d7fb47e4a23ae9fd5c4c31b961fa4fce474fafeaee1fd46ceabde4e576130c31"
+    },
+    {
+      "path": "bed-linen/duvet-covers/midnight-blue-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "51a985a4b23dc17bd8409fdf9f93922bd450e53af93efcc7fe50369246590580",
+      "after": "0e2e383d87a5aee1405265dcadf0060986f248567f316120e9393186e7895b9a"
+    },
+    {
+      "path": "bed-linen/duvet-covers/morning-bliss-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "02d2d7c37e32b3ea6fdf07cd9f8de8e0e14bc90269246ba6ba9b0331a2477d20",
+      "after": "4fe2946c77fa1d5c0e3950e59982bbb568d076adb3e18ea8e98af9b1080914cb"
+    },
+    {
+      "path": "bed-linen/duvet-covers/morning-haze-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "27448c543a47a2a86bc25efad6c9bc9951f14563c8398099557eff7a8167442b",
+      "after": "8af9c000f9864d5f823893575e41ac8002178538a74084e51749873a020a9594"
+    },
+    {
+      "path": "bed-linen/duvet-covers/morning-latte-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "0fdfaad9f744a5f9c35dbf17f3fa6b874ff56ae0faf19694f01ca89ea4e4b991",
+      "after": "baa78b4197feda1a87e52ca8514cb2ae26199d4fa011bff658ab471c9b04d6d0"
+    },
+    {
+      "path": "bed-linen/duvet-covers/morning-shade-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "31f65ed6dbe9713690fc2a8098936d9238ee9e68884ae5982667ce92f4ad6007",
+      "after": "98c4bfd3ac3deb2b46d02f3e15ae641da89dca2ec8542d0be13b5b2ae58661f5"
+    },
+    {
+      "path": "bed-linen/duvet-covers/morning-stripes-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "9da900765c8d3e4796b0f0a7062390ad2c73cb61097512223d93bc349a353c93",
+      "after": "685728deafd2640718a59c5c40f1db37d29a21ee9cf0e62eeff05e97a32adfcf"
+    },
+    {
+      "path": "bed-linen/duvet-covers/natural-clay-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "2bd6c5c09be0cb5928082349a956d5d5726252c4eb25683b3659774f92ba4ec1",
+      "after": "6bdf67919946803011941d5518b26658f497d95b74caf01913bcccc2b64216f6"
+    },
+    {
+      "path": "bed-linen/duvet-covers/navy-blue-satin-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "0705c7150f1fa7c92f43959d7bddd95769d925f4c0363c1274787851afd0b448",
+      "after": "fe4a0c1fd6040a61a4beaf48dc02f2a3d254dda5e45fed6d2a552c795691d508"
+    },
+    {
+      "path": "bed-linen/duvet-covers/navy-lines-satin-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "20341190beb44c12d41ef45e45134523e10e7e91b8e78eff028deb2bb2c99a7c",
+      "after": "7e8cb6c1c0302045568fd72c32d117e420c2d62a9d8a75c6409381503fe965f8"
+    },
+    {
+      "path": "bed-linen/duvet-covers/night-fall-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "db71d0957a6add465678c64ca95851c035d9cd515503de359f814d5770b9b849",
+      "after": "2dccd4cf406f08596a3242cbf31b106f11ceccd60b1a025c3c3ba6c8867e9e9e"
+    },
+    {
+      "path": "bed-linen/duvet-covers/outerspace-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "133f7cd83507145b47166a30e3acaedfc64232c0c40104046fd18d15dda34e93",
+      "after": "285e54a27de7a83793e018c46ea0fdd2f2d2ea1ec37c2464c90e3b197cadaeb9"
+    },
+    {
+      "path": "bed-linen/duvet-covers/painted-canvas-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "54f95251696405e83b9b598e715ffd6ad755128fd297ec24b87e52324fdfb79f",
+      "after": "71e7fb984481ea63eb2b5e4757d4b57a675957157f994aa4c33ac2931fe2da16"
+    },
+    {
+      "path": "bed-linen/duvet-covers/pearl-grey-percale-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "fad847798688e7e7d306261a00885eb5a439b39967e356e7999302e4222ee364",
+      "after": "a8d2ed4ad23c8669f8d1651c43945bbc3193a221ccdd66e9b95fa3f1f4e7c226"
+    },
+    {
+      "path": "bed-linen/duvet-covers/playful-bricks-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "1e76480e5a940efc883207f6d99477656a7dca157217bf0be38c9f117c085e7f",
+      "after": "39777fa3f0ba60ccb01c83f76c962d32b7d66bb81545b74205007262ab64c467"
+    },
+    {
+      "path": "bed-linen/duvet-covers/pluto-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "4beb1300c5af910419b0daf517d8b6e1a310e5a450f74a7ac78da10cd4a72845",
+      "after": "a33d915d2b8b240416a37f8c57599b6c114816587b75a2aed0346eb2da2ecd66"
+    },
+    {
+      "path": "bed-linen/duvet-covers/rubik-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "7c62560722d08e2ab73796319f742bf3d81495dd0f6ebde0b608f258e83c929a",
+      "after": "46e1115445ee7ecd50caa15dfad5a2861ee60bf41ab31aecb4dbd07a0fda56cf"
+    },
+    {
+      "path": "bed-linen/duvet-covers/sand-beige-percale-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "6e0204b0da0f788003ff8fc29af5c594c2a389cb7ce7e115c3ea8863834dd4f3",
+      "after": "e4fd3d244561662ba0d843d59b9c5d219d3ccb3ff1b7c61795d21b5d88ad15be"
+    },
+    {
+      "path": "bed-linen/duvet-covers/sand-beige-satin-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "e987c2addef6bfc71634128fde21072f1dea17def055a2209bda034d9d8d07a4",
+      "after": "cb725084a3daaa3db26faca2b4a8853e4d5db9c676a0cb67905597116cd7d756"
+    },
+    {
+      "path": "bed-linen/duvet-covers/seaside-grid-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "5fa4ff56b43a95bc90912bf336daec70ea51c5f50cea34b0ef89a93f9017a7cc",
+      "after": "b3fb92403a9bfb8b409f48696088d950973bc656c125d895461ad780002e7b35"
+    },
+    {
+      "path": "bed-linen/duvet-covers/serene-blue-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "a8e25d63e54dd8a62d33512379228c1d0345bfe66c4493d47d5aff4af841539e",
+      "after": "73e09056f41f128c03fc8da5606e040d88f668f88b20cf66b8468aa39dbfa5ba"
+    },
+    {
+      "path": "bed-linen/duvet-covers/silent-grey-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "3e40942f299d7ce98651505c2110b4d461e077c564e8e585193590139d357182",
+      "after": "e5262922295e15209f9c17adcb50606f3c269a22c59b004df6d848e16c06fd3b"
+    },
+    {
+      "path": "bed-linen/duvet-covers/sonic-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "861e13b6a5604190e7674d04a9085649d02ca246f64cde7886271938eee0f9ef",
+      "after": "508bf95c715191bd57eb33d3155d34eb84836e2ef4765db667b96520776b777f"
+    },
+    {
+      "path": "bed-linen/duvet-covers/tailored-shade-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "7dd5f967e229e93bf433f177ada13bb174db61628d962988eed0442f90de406c",
+      "after": "f8326f5c5a993f465a19d98ce0eb34c8aa61f96e98b60885d72688ec4ce14681"
+    },
+    {
+      "path": "bed-linen/duvet-covers/urban-mosaic-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "e753548f7854cf5d2bcec7d912ec6e765bc23e4c8e51d2d1739c38e03d6ec4be",
+      "after": "b2bda9dd2e434e46c5ac861da54993a3b8c2dbe657576c38daf213224dc71abe"
+    },
+    {
+      "path": "bed-linen/duvet-covers/vibrant-apricot-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "1b7d23cf94757885e8bd2072a90bf239f6605600ad8b2f344fb35c583e50ae73",
+      "after": "71c613866d120c368481b1a5a5b1f1c96f6aebcafedd8a64451c96edfacd7a19"
+    },
+    {
+      "path": "bed-linen/duvet-covers/warm-embrace-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "9c8b34a2e98c87f73cd0e210d17238002a2c6e63ce2dafe776f4bc203aa2d69c",
+      "after": "82d16b0379fb894aedeb18365fbc3c54a53441e0e21f304edd597f4fd5afb818"
+    },
+    {
+      "path": "bed-linen/duvet-covers/white-lines-satin-duvet-cover/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "3f117e74d3fa0435375223eb3564a6bdefff5024da05fef693d0fba7ec013cd8",
+      "after": "fc6537cefba62a23886e8bca38d9741f8bbfeb4691ec1affd53f22dba00b0491"
+    },
+    {
+      "path": "bed-linen/duvets/auping-cloud-duvet-four-seasons/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "01aae8ae8c297025df6a80f84c45bca5c770137236e16f30defd220de3f2706d",
+      "after": "067888b08afd9bf5a99be03ec30a6cd47869f23e8cddc41cb54551f0bc324515"
+    },
+    {
+      "path": "bed-linen/duvets/auping-cloud-duvet-springfall/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "6f6510c1dc270544a907ec385a77af4b3a0b437247a672caefefc6205d94383c",
+      "after": "d412c969e96f80f2d45a956afb4b135a216585b431e438125873814dd0cd9f48"
+    },
+    {
+      "path": "bed-linen/duvets/auping-cloud-duvet-summer/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "fc7378979bff916d7f525b0a9d78d325074cf986cfc0d58d65b21e5a832c6f98",
+      "after": "b22f39e13f50cb7593a3c268bc1414774601160595b21cfd31ee41d7751783b7"
+    },
+    {
+      "path": "bed-linen/duvets/auping-dew-duvet-four-seasons/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "fe7d2612cfcac555b4b54728762e429335c518c737c8a1ebad1d2cecaf217305",
+      "after": "ff8bb75c6a0a175c1e8d0f051f978abbc446802adf2d5cc1360ab1201f53ae24"
+    },
+    {
+      "path": "bed-linen/duvets/auping-dew-duvet-springfall/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "6f26add9507ac090f3245d03dce40fb43d980a86fd2cfdc85d4d7cc5b6fe6042",
+      "after": "3391c4ab3daa059c2bbcbfabe0d7195445a30ed0150765b4117c0b4c0a96662c"
+    },
+    {
+      "path": "bed-linen/duvets/auping-dew-duvet-summer/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "e6dbf3c9c083be6c0b91965b6576061579d33a018b51af324fc529a0f1e948bf",
+      "after": "eb2a3647c79921e7f6e7655eda9dff08c091d6d8f200db9cf3f6d698852af19c"
+    },
+    {
+      "path": "bed-linen/duvets/auping-nest-duvet-four-seasons/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "b580d9e712b9318ff83b4bb60ff6a2cf4d9d1e70629219384df36e344f079bda",
+      "after": "37a66ff66cf2c4b2433f2ff505edf23462dd1d3f88354751caa1dd9d3871f93c"
+    },
+    {
+      "path": "bed-linen/duvets/auping-nest-duvet-springfall/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "e2ce6f688d7353d77df5e51e4f4f89cc2d076c7432d2ccccb9e645cc137dc4af",
+      "after": "d842c5c764da5bae0e9bd7ce982d367c20fb88f5db40f37e7b2355cf2c097c03"
+    },
+    {
+      "path": "bed-linen/duvets/auping-nest-duvet-summer/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "55f2f233992b0717f43ec02ba990eaa77b2bfe422cf9a1b1976c179193a8f5a1",
+      "after": "c6faccab3e02e6aca209aaf7d1718c68562883830684b9b22390a42ff0bb0268"
+    },
+    {
+      "path": "bed-linen/duvets/cloud-duvet/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "5207a7db7a9340aac675da3fa75e706d76cd21c8776200388e6275261399ff4a",
+      "after": "f36719b27b4f706a50c120902593292350a46afb2bd6794b835b56580d0c4725"
+    },
+    {
+      "path": "bed-linen/duvets/dew-duvet/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "2185cb77ee53ee6c7f1625c6a84354187c2cb0d07befd538c663bccb10d50090",
+      "after": "32b68acc7956af84d94f4eb3ef540b8537b062e04e42ccfb44ad519a78174152"
+    },
+    {
+      "path": "bed-linen/duvets/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "e73f4133969a41af6b490974a1371037bd26ed592254aaf1e76b14457a2c2289",
+      "after": "c35f18b0f91aee4ec69eecf59184fcc93ea2cbd2dac26c4343750b9a24b7e4bc"
+    },
+    {
+      "path": "bed-linen/duvets/nest-duvet/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "907539fe57803402743e1d8b5431434867b0f0b9acc896957a24a9df888c76ad",
+      "after": "75a93dbb4c22246c3893ef7134853272e729ef8ca2aa03e69f19ef18ccb19892"
+    },
+    {
+      "path": "bed-linen/fitted-sheets/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "83c99c0585363769e552eef47f915b33a0d6da3ed7b07ea63676d0b7730069b6",
+      "after": "94b77b3ae7ed2793f139a8dff6a01996c8b1365466be488f08274952b1711ea3"
+    },
+    {
+      "path": "bed-linen/fitted-sheets/jersey-190-fitted-sheet-mattress/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "eadf2537f87069c45611c436eb84a77b09e64a5fb215563c95a6ecd5a84b9274",
+      "after": "84bd6922b57e155c237ced5be60c4c45dcb05921adc003de8de565353fbc8f6e"
+    },
+    {
+      "path": "bed-linen/fitted-sheets/jersey-190-fitted-sheet-split-top-mattress/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "c6e7dcf055012e5ec870a56cd0bb1867ac0c2da97a56ac49617d79cd5e2a4c78",
+      "after": "3ffa8dcf31547a09181527fa994e05c214ae989e4677b35ad0f4b5e13b509ee3"
+    },
+    {
+      "path": "bed-linen/fitted-sheets/jersey-190-fitted-sheet-top-mattress/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "900c01b5b303bbbd2faae2a10f2683837746201a69ac50d1c626181dd23f640d",
+      "after": "66f0caec9f71fe60ae787491885d6e9b90a659e365df2b09f04253a3cfce5244"
+    },
+    {
+      "path": "bed-linen/fitted-sheets/jersey-235-fitted-sheet-mattress/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "7877521db1866b583bfb38b4d1b86e0feddca5fdcf0d9b46c17d0cb4a0b128e5",
+      "after": "8c1dd09df3912479f51f8f662096a1add95b876eb67552d71cce19f25019dcfa"
+    },
+    {
+      "path": "bed-linen/fitted-sheets/jersey-235-fitted-sheet-split-top-mattress/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "36da62eb41f39cf6113fc32b2ede447e08da2ca5353db39763baa4331073bda4",
+      "after": "701c42c7947dd98b9cbd74fdecb080d8ac86845c5848b6524540a31bca61c386"
+    },
+    {
+      "path": "bed-linen/fitted-sheets/jersey-235-fitted-sheet-top-mattress/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "ff7ccdc220a050f56cc2ce9262d8d357116eca625876445e866091595725a95d",
+      "after": "77dff7eb1a8c3a9d349673cc1174f285610020f202123c79032ed49ad540374c"
+    },
+    {
+      "path": "bed-linen/fitted-sheets/satin-300-fitted-sheet-top-mattress/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "5b8a35a0663907a31a40a1b756280e3c6fd2a26805310ba1e681d12619e5cac7",
+      "after": "ee344dedd327ca352b0a8804b013491a7024cbca43fb389850ffb1f84ea7198d"
+    },
+    {
+      "path": "bed-linen/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "6123f92cdb62481d1a63a2c9f2a4ab2be20bde3491f9cd7de06af57f2fb4df9f",
+      "after": "58ef8e333ceba54e640a6747a40a767ea46e84a157e064a0cababad090586078"
+    },
+    {
+      "path": "bed-linen/mattress-protectors/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "4497aab4015a48a58fd32dc4ab061a64227fa1a3794d0ae0375da90da1574c3f",
+      "after": "f43396c4373b3cf90c0a19234b68d230cddce6ff0c4707a2d06fdf2255f0b649"
+    },
+    {
+      "path": "bed-linen/mattress-protectors/molton-mattress-protector/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "6766f239016a21bc62dbe7125a4c50ee92559cd77e39ccb460d2770f4f0c5c11",
+      "after": "013c84ad89ab384a6ab690fd36ea50ff2feced8f7b9e15911b508501417ece45"
+    },
+    {
+      "path": "bed-linen/mattress-protectors/molton-pillow-case/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "0dd5f938e2fbcf95829f252b25c38cc1dac9fa7965033aeef71d8ee8fc46922e",
+      "after": "4989b9de4627a5a08bd92c75ae0f6a79568ada1126ee6b4cb0b1351a21d40b8c"
+    },
+    {
+      "path": "bed-linen/mattress-protectors/molton-split-top-mattress-protector/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "fbd07aa1027478e2c764a35cabbf2a717e8f8afb3ea33cf7f48c30212b7cb9b5",
+      "after": "727ba779d3b42d8e712c6f0b0f9b7693baa56430d3f4b0ced1c5a8dfef5da327"
+    },
+    {
+      "path": "bed-linen/mattress-protectors/molton-top-mattress-protector/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "fd3dddebfad163692dbc6f6b0a1475f40e9aea1a1ff9e097b998178395598b90",
+      "after": "76628c8053383ab4f889c49d98a9a8d5ca5b47bf54bd503cf2447a268d9d8e02"
+    },
+    {
+      "path": "bed-linen/old/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "9348602bb1b510c02545acbb535551b5066264a336bb2cca84c2ff813bfe2284",
+      "after": "1d8448a2535100e1b1b9084279802e8ece0b812f3f8032fac2609f1c17595051"
+    },
+    {
+      "path": "bed-linen/pillowcases/arctic-white-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "95282a2116ab4c0e3702ff03ab72558cedab943c3f4a1f290d0aab5dd0628506",
+      "after": "f956606c42e2ac50f6ceff3c5b993fc7147cfaa2d40240cf81e2e919104b3331"
+    },
+    {
+      "path": "bed-linen/pillowcases/beige-lines-satin-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "5cd81d97915b3d36f02bb1c3af5ca59879f8e417120b99ea1a648447130f1145",
+      "after": "da9cee4d963d7580453e709a94d7f6d60a895d9055f96132686963e97b418c8b"
+    },
+    {
+      "path": "bed-linen/pillowcases/break-day-pillowcase/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "20af5d68125a29c7dac94dda8c774f94acedaa889ceaa46e77a597d7210c282b",
+      "after": "29ff295ca5eb641997b7009ac27f81c327004da9d765202202c5012eaefafdc4"
+    },
+    {
+      "path": "bed-linen/pillowcases/bright-kaleidoscope-pillow-cases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "ef95ab2993a4144f7315e18106aeba6ec4f222d71f58ddea4f35a5fa8a62b049",
+      "after": "8778436fe81091d803f6fba3403eab414fe62ed5f8f961c4e69549d18be3c3dc"
+    },
+    {
+      "path": "bed-linen/pillowcases/brilliant-blue-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "cb387952f2fb793e232e2aaf47da090612f8345048efcdbb9eded85664b4d80d",
+      "after": "99b4c02d000001f2f8ef0f1c3eecceb32bbfbe79c815a15de92d5ffcb9ad978e"
+    },
+    {
+      "path": "bed-linen/pillowcases/brilliant-grey-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "a86695a637a0b130c98f7aa700dd876aa8fec9a97ac8d53e904506e0ccc241fe",
+      "after": "872ef938b77d6c7bbf703d05cb65a7583c577c1ad93c401fa0927646c1f2a13f"
+    },
+    {
+      "path": "bed-linen/pillowcases/brilliant-stone-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "e09fba691a9196056565cef632112a63db2e1e2fcdb888097e8c7d415522a872",
+      "after": "48f60765cf03da81361d989b0979861aa7812db2973e94dedd0f03724696bc62"
+    },
+    {
+      "path": "bed-linen/pillowcases/brilliant-white-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "9a366dda84ee8d362f9154e82607084cfd0389c5adaaf684be7aabcd8a076fb7",
+      "after": "f33b46000212a3751aaae665a63bfd88aeb4c90771df23b77bb9fdedf64a586a"
+    },
+    {
+      "path": "bed-linen/pillowcases/cedar-waves-pillow-cases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "d53a4b161f29bbe411204c5cbc9b8da761180b451b0f3f53b2ed4e74330b7412",
+      "after": "b57a0cd92598cc2d342594a480dcee7c9a4f1db78365c95c0fbdb115af7d7f93"
+    },
+    {
+      "path": "bed-linen/pillowcases/chambray-blossom-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "edeaa066b5bd768b861f94af993e00f4ae2ef4e0e44faa91e19c02c6a66092c5",
+      "after": "42da55aca7f81794ab23bcc88ea90be3c8bcbc7f9f69e6476c82ac7b2b890e4c"
+    },
+    {
+      "path": "bed-linen/pillowcases/chambray-blush-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "e31b792b6c00d2242f80032731f31632c29d33c0b4806d1171036b63843d5a5d",
+      "after": "6db74eb2d988f3bdac8df27dc34adb3d4ca569b543ecea0aad34ac2bb7d380e6"
+    },
+    {
+      "path": "bed-linen/pillowcases/chambray-chalk-kussenslopen/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "f31395ce5f548449f19256a6f5f2efd7aacc3c85fa0291a0e5328932a9480155",
+      "after": "6b3e8ae92fc7937fee94e6ad579e0e4df585a5540463af98b9d792143df2687f"
+    },
+    {
+      "path": "bed-linen/pillowcases/chambray-denim-blue-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "a53ce360ff14dd1eaa13c8774747cac140114a264dbd254a725e34448490fe13",
+      "after": "1a88600cc75eefdd65d97733fb8515d14aaf54b99ce81ca9180db94825dbe2fe"
+    },
+    {
+      "path": "bed-linen/pillowcases/chambray-plum-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "51d8d7742783b29606ab6edae54a3bec0a4cf7fd54a27497e25e77706a5051c3",
+      "after": "b86848416ad211a07cc62f9027bd76069bc736407641eea70c7795bc414ffad5"
+    },
+    {
+      "path": "bed-linen/pillowcases/chambray-sky-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "089afbb4de0939fe239830cba4bcda5f997ace474fbccce3cc4ff89130e2848e",
+      "after": "c7772c20e4cbd84fb445be518afda06fa5b94ff1ee20a555fd780d550a5acb66"
+    },
+    {
+      "path": "bed-linen/pillowcases/classic-white-blue-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "151693e7423921a1ecebf534157dd6a849c95f3ff333620db50b2e29da2e6c34",
+      "after": "595dcce89794ec11a1a259e9428dbb0d33cc967bee33278897c4ca4729ccb447"
+    },
+    {
+      "path": "bed-linen/pillowcases/classic-white-grey-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "bfdb988f6ae0d1e255e50f9f13eeb954c096b003ee2a5b22b6002b043fc07092",
+      "after": "dcbfbea87609c51037b5ded13425b62bdb1ad00d89ccf262abefaaaee4ec1802"
+    },
+    {
+      "path": "bed-linen/pillowcases/classic-white-stone-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "4dcc19ae3d4f7f2ac46cf903e55ef8fe79eeec9b425a84fcc0ebe4e2d1ce9b91",
+      "after": "a6f118a63a78f28effb1ea9a8e8725e512ab161e97cc5ff90d2d65a9ee195033"
+    },
+    {
+      "path": "bed-linen/pillowcases/clear-white-percale-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "d1670c3386796fbb46f0729009d754986d1129482a195d6670545a97ab1a9f62",
+      "after": "f6a4143faee6fb604b3f6a42f92f5325bb9e2f0767f8b74484349b9afddc1ef9"
+    },
+    {
+      "path": "bed-linen/pillowcases/coral-cove-pillow-cases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "a4f5cfc7102eb81805feab3650b240d49597bd42d1354ce0f5c24fac2ac88ea6",
+      "after": "d629e17479b8bb60f7c4cf74ac6dc4e26a527d3850f30bf17b88eb0c94b52528"
+    },
+    {
+      "path": "bed-linen/pillowcases/crafted-collage-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "97593d90d10c5cf41f967db42ec5c3f9ec383448290cd7cd2c7133e70e6fa94d",
+      "after": "c404053f73e69d766a0524021be89b49f114773cb00002f46be0df5fa4ad808a"
+    },
+    {
+      "path": "bed-linen/pillowcases/dejavu-grey-pillowcase/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "a406922e5d686f8bfd98ca2363721e59dba8ef61d497cf1b88f42511ac9fd032",
+      "after": "ae1c6eaed48aa788a86eb05031b41720e93834472b7032525e411cd51b6141b9"
+    },
+    {
+      "path": "bed-linen/pillowcases/forest-echo-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "a7546edd0a5e46ffbeac6abca4f286d13a519b711fdd970a516a6828184d9a4c",
+      "after": "c8311f69d5832851ea66a606e79a3f0b1089e173dc8096e9bd34806faa108b1e"
+    },
+    {
+      "path": "bed-linen/pillowcases/forest-green-percale-kussenslopen/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "a3295146496dd06007841bebc0714997cb9e2c1e0b8e5d2231d370fd7221535d",
+      "after": "d3ca537c09143467019f44979a0551556a6b317fa9c39a87835edef475e9e8ec"
+    },
+    {
+      "path": "bed-linen/pillowcases/gentle-clover-pillow-cases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "ffcc4def698702ba5fe69663482fbbae0485f8b3d59ff443f4cb4d7a376a804b",
+      "after": "6f5728d8deaf81574b1a18eed76dda815e493823c876e38ab8924e4041ce0a10"
+    },
+    {
+      "path": "bed-linen/pillowcases/graphic-bordeaux-pillow-cases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "e7959873f0b58a0fd82f274760e4c812de0bbaad3cdc3bfbb8930cf61febb98a",
+      "after": "53a3a2100081bdb1bec84fcced65188d293384d8e479af67508946a2c075b193"
+    },
+    {
+      "path": "bed-linen/pillowcases/grey-lines-satin-pillow-cases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "af530116bed74589673c7f453af29ac60a6f32c9b4750fcdf6a980ad46611389",
+      "after": "6dc38c7675ce015b232dba4c55855f0553c18a069730210ed7e9eb278b2066e2"
+    },
+    {
+      "path": "bed-linen/pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "2b452f7e581c027bccb335e85bd47af1cb47753c96b363f5d6c32b35f9ed45ad",
+      "after": "4adc075a615cc9c8cb1745d0fbc79948c43f6f5420635105562d0747cf92b61b"
+    },
+    {
+      "path": "bed-linen/pillowcases/layered-vine-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "7a398fffe032dd240e3246680796a62c7ab635360dfd6c10df5fa4585832f373",
+      "after": "506bbfe2649dc8cb0bdf09b4cb9070ff31a6064be7d409173632759f324ed587"
+    },
+    {
+      "path": "bed-linen/pillowcases/mauve-twists-pillow-cases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "908314ae80d4784686a8b47490aa0576c26fec53e88ed9a7dbf0f105735c3063",
+      "after": "fd9575ffb41299f6ee8aec158b0c5451db439b0c41a0d5b475699d5e78b0c351"
+    },
+    {
+      "path": "bed-linen/pillowcases/meadow-sky-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "a5447d2e7913ebbf57e8c683411be337f58d6c53cdaf2756b0b419512402000d",
+      "after": "4f0e7d27ac59e58c337107a8c30c70e884ed19130ca6f1fae7705fdc95771f94"
+    },
+    {
+      "path": "bed-linen/pillowcases/meandering-blue-pillow-cases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "e8173306ed07ea31a75c22103c04bdff2db982c62847bb1653aa2ad22534821e",
+      "after": "788ed8cd4bdc855f1122676ee190097d8b0ea042ba154b12ccd13decc680bd23"
+    },
+    {
+      "path": "bed-linen/pillowcases/morning-shade-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "76abd450f1cb07f465da0ae833f1aeb53faf7000ff672ac62fa81e68e4e97566",
+      "after": "03e4e49ea301c97dd55070ea8daa6cd8e9226073429742826f20d66a604defd9"
+    },
+    {
+      "path": "bed-linen/pillowcases/natural-clay-pillow-cases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "f97a0d36aee8c7ee3e0b271c97e05e1fe03c7ba108488b319ac29308a3ac4885",
+      "after": "4d64c99fc20d0a0b5b73e0f503d444a47265574b4fc0e2b898b22a2abc94aa41"
+    },
+    {
+      "path": "bed-linen/pillowcases/navy-blue-satin-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "f264265bb3866dc71a54410a0cb27ab18acdf0fc5446ea02e8cb0e46b80ee47e",
+      "after": "852953a4be5ebf41dad84906059555701196e27dc4b305ae102a210fd48e3bc1"
+    },
+    {
+      "path": "bed-linen/pillowcases/navy-lines-satin-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "9fb964595082377a52d5e080b7be3dc0f72649deac4b874bfa371ff9c5209c26",
+      "after": "e2713533b1843da16c1932ffb5d51aaf6b7288d30593145a5142dd1b6da4df29"
+    },
+    {
+      "path": "bed-linen/pillowcases/painted-canvas-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "91926a97ba0d1cf54df50891b0220d923a7f65fcc3e2b7ca4fed84b53b690d6a",
+      "after": "41b80cd6acdf4a4f58bfa38715121c62210859b15ac55d79d93dfa9486f0d51f"
+    },
+    {
+      "path": "bed-linen/pillowcases/pearl-grey-percale-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "741f40fef83464000cf2b7c8d135cab5dccda884bb02c11e56148cf2d912ff26",
+      "after": "3513ccdcd5d080c6aa8d3fa1df77dd783352ab592a8247efebe0d79fa7b87a5d"
+    },
+    {
+      "path": "bed-linen/pillowcases/playful-bricks-pillow-cases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "10ac1c5d635a9669806a3d080ec59c0780bc59c9bf6068c6048869a892d1797d",
+      "after": "70d40458a974953c9b4b58cc4322dbb28dd5434a696c17c3863bebad217af241"
+    },
+    {
+      "path": "bed-linen/pillowcases/quiet-beige-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "de1d88f2b2aad27f4223fb48ac322e0aa9d1de0752468a2011837a00dd3a1942",
+      "after": "25718331b21ab99c4fb021e1ac572f743061bf8d57ba6e096f47efc0a960d602"
+    },
+    {
+      "path": "bed-linen/pillowcases/sand-beige-percale-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "02878da1dff540f7a176318b6d9316407cf4ed8406b55fe050315a709a0c63be",
+      "after": "4aed9d76475a96fe6199472551255dac5db459bc3a28677402b7cb4a8a4c7ca1"
+    },
+    {
+      "path": "bed-linen/pillowcases/sand-beige-satin-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "cd4a70744a75660cf7915df6cf4e80cdc9c20cb2b21099fed8be375e155905c3",
+      "after": "ce06a4c5027985ca6310af097dd7c0572f56617e6d58150667ece63044e605cb"
+    },
+    {
+      "path": "bed-linen/pillowcases/satin-300-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "56e8bb3cedc0254138671b3b8248705111297c58027f5304577734f35de9fe3f",
+      "after": "af4a3d9974b2fc563c79e6a4e22f63dd148366aa0f4165fff52fb47dcfa49654"
+    },
+    {
+      "path": "bed-linen/pillowcases/seaside-grid-pillow-cases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "b20e66e3e2b20c3afc0e45a6ade5847a41c1ae9465abf2058fdcfcce35644752",
+      "after": "75dfee9f7e898980a75b91293ddf7ff2b1c837ecc9eab43a3876b4baf28853a3"
+    },
+    {
+      "path": "bed-linen/pillowcases/silent-grey-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "c27351f4fc9db97f86b0b3b0f0a43d20f6030c5e358cbf4014ca3692b9b1fb7a",
+      "after": "82ce9c82cd1927dba5048d18fb9972045eac84444de6ea5968f58949442a381a"
+    },
+    {
+      "path": "bed-linen/pillowcases/urban-mosaic-pillowcases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "045db834609d19db34b79c91d50c5dbceb837fb7b66f62f159614ff06b54d40b",
+      "after": "76ca9234f9c0ef8f038922eb4c8c6fa78e6e2fb5c70e93e6517101e10ddf8e00"
+    },
+    {
+      "path": "bed-linen/pillowcases/warm-embrace-pillow-cases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "37829013da869512a30b0091370e395118d5a07372cf291de73993cc8d76aac5",
+      "after": "2d53096c92d764588e82fe1341d613108ea83caaafaab4326a5810e0d51d524a"
+    },
+    {
+      "path": "bed-linen/pillowcases/white-lines-satin-pillow-cases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "809d107eceaa432af963099e09db073f9b67176551f511748add9a654db0479e",
+      "after": "fd3ef84bd54216439e65dabd495f175aea76f117a882762adf22f27fff0c4bcb"
+    },
+    {
+      "path": "bed-linen/pillows/auping-cloud/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "85f0baaa7b460f4c945b125c01a5c5e31bd56af7e4ed99c25b81b70bfd0f1b41",
+      "after": "e195f18eb59d0831fd6ada6cfa20eeecccd60a99da4a4c849b87b8c813fd8bab"
+    },
+    {
+      "path": "bed-linen/pillows/dew-pillow/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "e60c279d5a238a9a77e3b70f1e325f2f39b34ae90527a4d59f258334dedd3ad8",
+      "after": "bc564af3eec3ca4c8d75f296614af8dff7fe515fa2d0ce5bef2dcda5dce1e7b2"
+    },
+    {
+      "path": "bed-linen/pillows/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "58be13da5a55ab72cbd243686f39f5f0168b920d0753128ab0962fef5edc2c5a",
+      "after": "58153036def927bb1f2a456ea08151878818f6178497c26bf30507fc329ed490"
+    },
+    {
+      "path": "bed-linen/pillows/nest-pillow/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "87cccb9e7ff4a0e451cf5d7078abc60c93bc0230a25ad382550054f036cae495",
+      "after": "37fb6035927710b0572bfa51a8d94114c223b3e33894172f1256ad77c85e4290"
+    },
+    {
+      "path": "beds/auronde/index.html",
+      "removed": 9,
+      "inert": 8,
+      "before": "6c44578f24ea328e737c5fa41d3011893c4bed057909f5fb81d409d30c33ad6f",
+      "after": "8a9c508785cb6935bba7592977e374fbda1977b8d317ec01302c69955a5964b3"
+    },
+    {
+      "path": "beds/auronde-blush/index.html",
+      "removed": 11,
+      "inert": 2,
+      "before": "ea1b7596d3a9887eeb791b1f669b1e93fa3c38be58c518d170d10760355a0a02",
+      "after": "31ad3fd498a840c4ef79044d5dc616e14635559a84b19abf4dc6dc070b5d2d87"
+    },
+    {
+      "path": "beds/auronde-deep-black/index.html",
+      "removed": 7,
+      "inert": 0,
+      "before": "f5fe25b3c4df054c74c12b5fa277861778dcf1b85cbc9ebcb95b8359a765a75b",
+      "after": "d6e9ebe1ae5c7bac28b4e790c23590dfc98e34564daf7cb8f8cf92786e8ea3b6"
+    },
+    {
+      "path": "beds/auronde-natural-oak/index.html",
+      "removed": 7,
+      "inert": 0,
+      "before": "1591a4dc3f394439b270cc95f6bf253e802ef159207d33feabb464b8bf8ca750",
+      "after": "42537ffcc4573f17794262bb9c07e3cdae62806e733703db13bd7ff0ffc578dc"
+    },
+    {
+      "path": "beds/auronde-natural-walnut/index.html",
+      "removed": 11,
+      "inert": 2,
+      "before": "3b1d194781b95c612dc95b372feb45d0712dc2edf28b53172741e8977b31cb6c",
+      "after": "8d2dde063014e60f49af09b9ffbe673d727ad19e9177977b28b283501be8c670"
+    },
+    {
+      "path": "beds/auronde-pine-green/index.html",
+      "removed": 9,
+      "inert": 0,
+      "before": "7a51712128ef9119dabcafb792a655690b3afbdc3863d84facf094b8c8948554",
+      "after": "d21068e3bb35999269dcb495a9c15ebd32252d4d747d6c3c6fa4e7600550e75f"
+    },
+    {
+      "path": "beds/auronde-warm-grey/index.html",
+      "removed": 7,
+      "inert": 0,
+      "before": "c240bd6388fa5be2646118f2ebfd74b8015a2331464f4871b0da58bb4337bd6c",
+      "after": "86c2a5aef5f5605612d89a5c4a659565b6b9dd75ecd6b446f6dcd28c7c6b895e"
+    },
+    {
+      "path": "beds/auronde-white-oak/index.html",
+      "removed": 9,
+      "inert": 0,
+      "before": "2d85dbd59b4b9f8c18f65500b9849c1183276118319788a9619393591dd7093c",
+      "after": "738b8f815604d707be63f0d1811b7481c8ccd05e6414b89ede2025067fd1d172"
+    },
+    {
+      "path": "beds/essential/index.html",
+      "removed": 9,
+      "inert": 8,
+      "before": "a7def169c40c6219517e81b71da5becfdb8a64f06481a85092d8bbb86a2009ac",
+      "after": "29ebb4df734c5550ff81c3f31d054287a3925b6fca35e03567f1ed2137dc97a4"
+    },
+    {
+      "path": "beds/essential-blush/index.html",
+      "removed": 7,
+      "inert": 0,
+      "before": "6123b4870a817864234184d561b3138a7f0996944eaf1be3f875deb2a249abd0",
+      "after": "f20a4f2650cd31b0dff646215355454524122cd1fb60b3b94b16b6b33af16579"
+    },
+    {
+      "path": "beds/essential-deep-black/index.html",
+      "removed": 10,
+      "inert": 0,
+      "before": "08bd573d3ca16ea84682a4b5dc336eeb1339d5288d1a3462c03811ef73345dee",
+      "after": "08646e5ee2f099471d3f53349d3ced5dafdbaea09aa45d571b07f963a0fb93dd"
+    },
+    {
+      "path": "beds/essential-deep-black-headboard/index.html",
+      "removed": 10,
+      "inert": 0,
+      "before": "af01efe84fa3503d18f99e363f7b9ac7277b2367cd9aec1a93f46c2388769c18",
+      "after": "692bcd9d9863a916af4eb5f56c03cd0ad17d0818887c5d7ee5cffcd9693f48b1"
+    },
+    {
+      "path": "beds/essential-pine-green/index.html",
+      "removed": 10,
+      "inert": 0,
+      "before": "931922b14553f22900521d4a300f39201baa06af4cd1d57a465345a1bf7e7763",
+      "after": "fc880d052ffda2becb5450dc89dbd6b61747488b4e524ac1d3774294b641df2e"
+    },
+    {
+      "path": "beds/essential-pure-white/index.html",
+      "removed": 10,
+      "inert": 0,
+      "before": "e8afbaae9a7fe098b7c21a8c9978310e4282fbdc2e5531eb7fc90b510a4f3b07",
+      "after": "30e892237268b409959b1b951632e561d1a8414410371e865321723f19f65f08"
+    },
+    {
+      "path": "beds/essential-sand-beige/index.html",
+      "removed": 10,
+      "inert": 0,
+      "before": "6b7dc501f46a714eaff2ae8aafad7749c01dde53c2a9a030cf1923f4f9e9e33d",
+      "after": "d76b276aadf34f85a3ffedeb2cc50cb640ea4538ea360aed7253fe294d6a4525"
+    },
+    {
+      "path": "beds/essential-warm-grey/index.html",
+      "removed": 13,
+      "inert": 3,
+      "before": "840a6234614cddf3a0b9c5376b0e672c74d8772eec9838fb5a56a357e4df9de2",
+      "after": "e74b44588752a1a4b8ecd28ac6d7566ea414e329cc6584f0bda1d1f722ddde3f"
+    },
+    {
+      "path": "beds/index.html",
+      "removed": 37,
+      "inert": 0,
+      "before": "0205d96d3f8310dadec239e0390caa16207c7b918eae651ba99674921393dd0a",
+      "after": "c0afa3e661c54523345e072b9124c70464e9d9cae594f889537a7bd19679c95e"
+    },
+    {
+      "path": "beds/noa/index.html",
+      "removed": 7,
+      "inert": 0,
+      "before": "0b52cc0ec23669a9e09462c9a37d7e844d0049710145738a8fe7ef5edc103d28",
+      "after": "d9e76340e2ec4f580660acfd3b720efb25d7a02df59f0e1b59953f530d670945"
+    },
+    {
+      "path": "beds/noa-balanced-oak/index.html",
+      "removed": 7,
+      "inert": 0,
+      "before": "8a7da61c183db042934fd89404e5b16bc548e3f4da545643169f436af27efc77",
+      "after": "6075d05351df30b615ddd35e19588a9f9896cee49e5a3f589a80734d04d0b961"
+    },
+    {
+      "path": "beds/noa-balanced-oak-open-lamellas-headboard/index.html",
+      "removed": 17,
+      "inert": 5,
+      "before": "56771b94a2c2851d98574f5f8aecd01c6509632362d6509c593dcd17c041e86a",
+      "after": "f495e2a308c30ab02e6bc465614feac9f234e43e7687f97c910ad2059b4111d6"
+    },
+    {
+      "path": "beds/noa-balanced-oak-table/index.html",
+      "removed": 12,
+      "inert": 0,
+      "before": "c3182c9e4152d40509b7498fc915136840538decd35a754e5d0dfc771001e003",
+      "after": "e381d2d148309c094ee465c3e6c0a6ccbb4d842ee557035beabd6e04c4a2e08e"
+    },
+    {
+      "path": "beds/noa-chocolate-brown-oak/index.html",
+      "removed": 12,
+      "inert": 0,
+      "before": "6251b1b48cccc0a276c5b38d0b45fe0911db9658dece58fbefd311a124f8a854",
+      "after": "d73b02b961fe151509bafde52b5f417c1f9cf49bff8c52e09bc95f6c7ab9378a"
+    },
+    {
+      "path": "beds/noa-midnight-black-oak/index.html",
+      "removed": 13,
+      "inert": 3,
+      "before": "e7fb0c62a18fdc08bb173c85237ee0ca316652fd020e7b860bec5555257b8e14",
+      "after": "eb933a0369dc030089697f2788bba4ede9a81af15c97809cebc2f46a70e5f296"
+    },
+    {
+      "path": "beds/noa-soft-white-oak/index.html",
+      "removed": 12,
+      "inert": 0,
+      "before": "c674bff575119258210ec075454b73fbc4c4770065937f6f1b43fe75403edd58",
+      "after": "e6843cad64d3881d9b45f0a2f5c89955e589ede5f83952fd70a891df29fa6240"
+    },
+    {
+      "path": "beds/noa-soft-white-oak-headboard/index.html",
+      "removed": 12,
+      "inert": 0,
+      "before": "9035339fba8ab4525db25dda270b08a2c5c40efe52b1aae687dfcde139f2dbaa",
+      "after": "81778bbee2f04a40ac47972dfec8fbb7d9a4999c026c7ba7a33a596904a530de"
+    },
+    {
+      "path": "beds/noble/index.html",
+      "removed": 7,
+      "inert": 0,
+      "before": "f0c1b5ce8a18ccb3dad2522fbd738096531e6f3910bc71df72e25e7fa3154827",
+      "after": "65b6b5f609ffea4b12f1a37af0d8c300a19d335f94ff63f80a37b93eef0a80db"
+    },
+    {
+      "path": "beds/noble-midnight-black-oak/index.html",
+      "removed": 7,
+      "inert": 0,
+      "before": "fcde8bb2a2745fb41d067e80383f0916c0c8d277fa7d83cb710e3846b0b7a118",
+      "after": "178887d862f2e74e579b4e7d1779c95ee9c15f366a573dc7ad8e6abaee6dfe49"
+    },
+    {
+      "path": "beds/noble-solid-oak/index.html",
+      "removed": 7,
+      "inert": 0,
+      "before": "09f20b0624733f371e095898b84120adc37b9fe5d0b7469d0f6f5d6ee65c9252",
+      "after": "295e206341b8406d2b5f30977d4050021ce4dd90c91aa360cdb829c02a96a764"
+    },
+    {
+      "path": "beds/original/index.html",
+      "removed": 7,
+      "inert": 0,
+      "before": "56aba72690756742be8e911453671968f7e321b9e189991701f677868ccdd1d0",
+      "after": "74f7112fb2bcfff7842a2253b29cdcd02ab9208f2310839511238f53a30283f2"
+    },
+    {
+      "path": "beds/original-blush/index.html",
+      "removed": 11,
+      "inert": 0,
+      "before": "7386e17218fa07825f35f763a92a92fb276c8e2a493d302f99a9d49039abc650",
+      "after": "eb11e658aab9d00bbe24fc20b80ba4a9d17f105edb2cc3d07f186adf620282ac"
+    },
+    {
+      "path": "beds/original-deep-black/index.html",
+      "removed": 11,
+      "inert": 0,
+      "before": "5964c3b9841b99f75cd032f3139b60d32d5ddfac5458eec1f4a49c759c8dc2a7",
+      "after": "7e42ba2a4b2cba5576096879a909a24a3ab51f88854a97b088d0e6a1582a6119"
+    },
+    {
+      "path": "beds/original-deep-black-outline-headboard/index.html",
+      "removed": 7,
+      "inert": 0,
+      "before": "f26ac6f5bf0bedc9cbdf42d78d62ee8a138118d280ca118361eb4d722f4a336a",
+      "after": "590f876443753ecf04c5f3aef37ac13e7f33bc4f6686fcf11d17e0c45ba8d5bb"
+    },
+    {
+      "path": "beds/original-pine-green/index.html",
+      "removed": 12,
+      "inert": 0,
+      "before": "ff8e230ccb1b2ca9322fea56f939067039a9e6a113db856985868718f8428b1f",
+      "after": "565121da465d843c073c4d4a92233e9a8d3639ce8b37aa14d8d1317bd98fda1f"
+    },
+    {
+      "path": "beds/original-pine-green-dew-emerald/index.html",
+      "removed": 11,
+      "inert": 0,
+      "before": "d52dc3b1f0782194141094121cc8bd824894fcd98988d321c4e0faff1a0c01df",
+      "after": "e109176706de7d78c89ba50bcf80c1aaf6a0a7211536b1c4b6f9cbd1145e0142"
+    },
+    {
+      "path": "beds/original-royal-blue/index.html",
+      "removed": 11,
+      "inert": 0,
+      "before": "5fc5346cd81202d52abe22b090ad740b7ca2f57e8c19426b9504fe5c69b19c9b",
+      "after": "1bf44a567cbf6c27b21ce4a178792a0e8f1b134089d1a93b9c5be512f7d0c587"
+    },
+    {
+      "path": "beds/original-warm-grey/index.html",
+      "removed": 17,
+      "inert": 5,
+      "before": "6745b1e4bac8cb7a837b9a72a9a4e6cf73cd6c65e978eeafd4d3f8b5e9ca75bc",
+      "after": "fb261102f4b433a07a9eb7825084a9659271f08d75bc6e5afdf14aa5ef7fd3f8"
+    },
+    {
+      "path": "box-springs/criade/index.html",
+      "removed": 7,
+      "inert": 0,
+      "before": "5938179ae00dcbb7348928386a86569848356af2b2fe5670f8ae84153beef7c8",
+      "after": "fe707ea77fc000957d126b0b877e7b44a05ecd54b0184142fdc4c0f01abd9cf8"
+    },
+    {
+      "path": "box-springs/criade-blush/index.html",
+      "removed": 14,
+      "inert": 0,
+      "before": "b20f24dde9a8196037893303ae42a4ac7bd1861b5b9c7c9ef365f03dfb173bdf",
+      "after": "e4f1f7c3d9cf71c9aa6221ce6547f752760a68d68701f0bc03f700ba167eb444"
+    },
+    {
+      "path": "box-springs/criade-cool-grey/index.html",
+      "removed": 14,
+      "inert": 0,
+      "before": "fd6e39a1a43dc4b540ac7c613b6345202c6c42adf259a4d0fa6a8d0ca5b1f257",
+      "after": "6c3010ca6adabef5309076729815f31e5c2b74f711e720ac458a421fef13808a"
+    },
+    {
+      "path": "box-springs/criade-deep-black/index.html",
+      "removed": 14,
+      "inert": 0,
+      "before": "8326925895db7c4a2f773003288f3d0ce2d806c06e1a2acfc0e6c3f8b0b9dbd2",
+      "after": "279621d00830a33c6fa28efa3df23df8a6cceb2f8623e67b8a6541861e9a2572"
+    },
+    {
+      "path": "box-springs/criade-dusty-red/index.html",
+      "removed": 14,
+      "inert": 0,
+      "before": "3fe39b5ae2dde010baa3188f1669971663909f979c73e3e5194ba2cfeaacf7b7",
+      "after": "f3a0875f6844e2a2b6b50a71ff0303f8824aab09ebfb453b14ecf391a69b751a"
+    },
+    {
+      "path": "box-springs/criade-night-blue/index.html",
+      "removed": 11,
+      "inert": 0,
+      "before": "482ebc9d30f6d0132f243b191855ac25195e907b95c5da7c4cc33451264cf1c8",
+      "after": "f324d4a9e4c95018dde8f3a6e794e76c9a21e3e3da1973406ade6966495c5b9c"
+    },
+    {
+      "path": "box-springs/criade-pine-green/index.html",
+      "removed": 14,
+      "inert": 0,
+      "before": "781b1fbf14f779a06c0add426d2bbd87ae24e6cd4db6b26b71db1d3d29310d67",
+      "after": "6e86be46676a076c9ef941ee43ce94a2eebfa074fe0cd8ad91602a743d5ee5cd"
+    },
+    {
+      "path": "box-springs/criade-sand-beige/index.html",
+      "removed": 14,
+      "inert": 0,
+      "before": "038de6ce2b40cd2b284daf6c40303dd052ee20ba068e0cafb1bdd8b4d9c7cde7",
+      "after": "ef6ecae338dbd051ba693a538104f18d0465eae0b44faea5b50442e7a8cae046"
+    },
+    {
+      "path": "box-springs/criade-warm-grey/index.html",
+      "removed": 7,
+      "inert": 0,
+      "before": "8ea74facf06dab29cdede8c4cbce211f4a626b44e5bdbf0aef534936b1e167b6",
+      "after": "24486b1dd10c1b36268bc5807e9fcfcc9c7f01580beb1bf349118ee8845aeef2"
+    },
+    {
+      "path": "box-springs/index.html",
+      "removed": 36,
+      "inert": 0,
+      "before": "62c76d74a7672e3ffd9d7fba4816c3dc55377e11aed589195843e6f920564399",
+      "after": "2dd5cd9f00d234b065d947932634c63aa3bc9260577c79e73ca32fcd9b8b2664"
+    },
+    {
+      "path": "box-springs/kiruna/index.html",
+      "removed": 8,
+      "inert": 0,
+      "before": "6695594266f8092cfd5b4ae4daab79ec01875caa1d41e0b6ee5abfb4d12d2d50",
+      "after": "e3a188ce66b29fa932b82815d11050a4007d133726215e96216dacc4fa3c131a"
+    },
+    {
+      "path": "box-springs/kiruna-deep-black/index.html",
+      "removed": 12,
+      "inert": 0,
+      "before": "361d5bf62df32378f6b5220d1a9f4bde93e713af416870422c0277b7ff6942e1",
+      "after": "8f0b418c6c6d8d6fbd5742b2344d745093ca0dbf495e5bc1ad469d4835377a4b"
+    },
+    {
+      "path": "box-springs/kiruna-night-blue/index.html",
+      "removed": 12,
+      "inert": 0,
+      "before": "157cc8001a6ac799f30222a3c20e9c8d78a12317d95eecb69b70bc87947254b5",
+      "after": "ade24ebb2cefc8cf9bea1a2efd1394212d01b4cf9aa6653dcbdc5dc6f196661e"
+    },
+    {
+      "path": "box-springs/kiruna-pine-green/index.html",
+      "removed": 12,
+      "inert": 0,
+      "before": "aa6cd5fe4394bacb56624d6cf0506ffc75d2a875c4bf2f0f219ac00b733cfcdc",
+      "after": "aad21ffbc11d619deee2a0fd1fab2ee5775df6cbee3e5b003f89cc29b24f68bf"
+    },
+    {
+      "path": "box-springs/kiruna-sand-beige/index.html",
+      "removed": 10,
+      "inert": 0,
+      "before": "cf997b699b6bcfba0dc253e5b5e70a4c895716a99b9790d9025f1eafbab770c3",
+      "after": "5c3d896771ddb4ab48d5a110c2c1171892765ac202065e5d23404959de6839db"
+    },
+    {
+      "path": "box-springs/kiruna-warm-grey-sami/index.html",
+      "removed": 7,
+      "inert": 0,
+      "before": "0c9896e1e44ccf4982cd87a9f5c52f88018bb434c556ad153d29570473e238b1",
+      "after": "ad856a6d2d9d8f060b0e96a66f34b982554dcc553a50689cd47c454a59a25801"
+    },
+    {
+      "path": "box-springs/kiruna-warm-grey-unik/index.html",
+      "removed": 12,
+      "inert": 0,
+      "before": "8478c5d32de6f69e06f82e4b1463c12bd8d8d00ef10e8fff135422c260d176c5",
+      "after": "b538061c4c57b5091f23bb766f6999cd48b53f8780e9649862ffb934f5b87093"
+    },
+    {
+      "path": "box-springs/original-box-spring/index.html",
+      "removed": 9,
+      "inert": 0,
+      "before": "b1ece47ff213f096a95874d24573f1ef292aedc27e1ef61447e268b1bd0867d0",
+      "after": "5acdfc385a369fa045fcb388c0e6aca1ac77b5c6a1e86bbf1e0fbe6f4c073a83"
+    },
+    {
+      "path": "box-springs/original-box-spring-1m-deep-black/index.html",
+      "removed": 10,
+      "inert": 0,
+      "before": "6957cf4e5ca1db21fed67ca808ab35c7c7880a6d949f0f5c6f0d6259c72e9bf5",
+      "after": "9a57889c219d2a039360a5067f157f32dc306ba4af25937b4b60151dbbf0ac90"
+    },
+    {
+      "path": "box-springs/original-box-spring-blush/index.html",
+      "removed": 10,
+      "inert": 0,
+      "before": "247e8181b60ff80c2a5345826b0bfc34511f73ff41139026a1de6d6bab5d420e",
+      "after": "e0fde5a9c7db2cc8764d04e0b2ececa15a2a86c4c958167470df0c8b29c78cdb"
+    },
+    {
+      "path": "box-springs/original-box-spring-cool-grey/index.html",
+      "removed": 10,
+      "inert": 0,
+      "before": "bba86f02e5183697eb4a3c041c9229c9ab54db2ccb563dc20ea609cd3530eefc",
+      "after": "1cb688d74654dc318e07fecf31e5a64ba0672c19fd9b4fb6490e2f5144265fb2"
+    },
+    {
+      "path": "box-springs/original-box-spring-deep-black/index.html",
+      "removed": 10,
+      "inert": 0,
+      "before": "756fc76c62610902babe84561d14501c4580ac3b0f421e4fa718f11c109ba70c",
+      "after": "17120bb190b1629819c3dfd5b22010ab7a346dbb1cb5f0c71d9a6096518082c5"
+    },
+    {
+      "path": "box-springs/original-box-spring-dusty-red/index.html",
+      "removed": 10,
+      "inert": 0,
+      "before": "92766a7ab229de5beeb0afcd9a52ef99eab44788d649e7e8479708759b8787b1",
+      "after": "092696a8947960234b07a870fa0c2f3d08987022966bdb0946a33849c69524ad"
+    },
+    {
+      "path": "box-springs/original-box-spring-pure-white/index.html",
+      "removed": 10,
+      "inert": 0,
+      "before": "8c71f5a10290b3f27174222b18ca36aaed2207637fb00a76814bf2aeb83159f2",
+      "after": "41595bcbe0b2ef08b203e49e7cb0ff5b24a03d2f2d5d400ce7f0c602928b7025"
+    },
+    {
+      "path": "box-springs/original-box-spring-royal-blue/index.html",
+      "removed": 7,
+      "inert": 0,
+      "before": "7748c8a07921774276dbe39b38506bb9b44ce5ca9a892e07dbfbbc2d2b54e98b",
+      "after": "569ea1cd9d7f6cc32dcf78134b7a07fd321a1df9b055220ddbbb22c1f3cb7a62"
+    },
+    {
+      "path": "box-springs/original-box-spring-sand-beige/index.html",
+      "removed": 10,
+      "inert": 0,
+      "before": "474c68baa11e6aeacd478cb694dc0d6fc14055cf95a8d5af8176eda833138e82",
+      "after": "69e883e80afd657b5fc14c4fc11ac88dbef1b3d3da93ff452cb7fde6104c2ef2"
+    },
+    {
+      "path": "box-springs/original-box-spring-warm-grey/index.html",
+      "removed": 10,
+      "inert": 0,
+      "before": "50c61b028761ee9ae7d02abebf80139602cda612fd328f8230f3a0dfa6d243c6",
+      "after": "a50578ca1729a972c6a97058405d38f4194738af2b66aeec77815c824ec0492c"
+    },
+    {
+      "path": "box-springs/original-boxspring/index.html",
+      "removed": 8,
+      "inert": 12,
+      "before": "774d9f3e1f99641c6cc97ab09a106e211440771675d72f24c09b04a7ba0f2071",
+      "after": "2924de1e92d56bd19ddac42dbc11d440aaf6e181d65b6a5d2f19994ebe59caf7"
+    },
+    {
+      "path": "customer-service/auping-disclaimer/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "6be699a5f9867c85c32fa8c1a75069b28b17f0887fdc33b4ea1c22a7027e15ae",
+      "after": "3a3eeb1b5d77bab980d5620758558d20851ca142ce0eb892e1bb6c65aa9a5008"
+    },
+    {
+      "path": "customer-service/auping-revive-support/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "cd02348b37abc7864cf6736aaef600c469c456bf4a3ad8f3af6c6b413ce8fe9b",
+      "after": "591e6fb7ba245d65ef858559a725723830920e6b02f1cedff52fd13997238221"
+    },
+    {
+      "path": "customer-service/contact/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "ea3db639a17a360cf38e19b1ef1381b59f57d5b700682b8409901efac2d45dbf",
+      "after": "f07605560ca836e7df8bd559c5475f958b4f624d0629508080174339efdc23ab"
+    },
+    {
+      "path": "customer-service/cookies/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "7ff850fc2b9a3ded10094bd486bccbf2af66087b33edfa662a11722cbcc8165c",
+      "after": "5a0dc0d8a73ef015910013f71d2a3f96a3a5138b0c5779f2060a43ef52d3c538"
+    },
+    {
+      "path": "customer-service/frequently-asked-questions/bed-bases/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "f75f5f86c7948ab9bcd55b771e766c29d5075c885dcc4eeea4cea4f4981053a3",
+      "after": "88dc54be581c53ed9bb224d4f0fa7e0306523d97e17e6816be5640694788edcf"
+    },
+    {
+      "path": "customer-service/frequently-asked-questions/bed-linen/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "48268b9250008108524e07ece4247212b5a00d4400eab296000ebbff3c6d3949",
+      "after": "58492a6d6d080d70bf6f51da4d5fbe13767cf4333e64fe74387f55cd0db8a103"
+    },
+    {
+      "path": "customer-service/frequently-asked-questions/beds-and-box-springs/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "68bbc10666ecb43339ec0f887cb6c8240dd51a338e7a58675e0e1db892ed5a2b",
+      "after": "59270f63eeaddfa003e77ca6a26e6c245c07d441804e924b755721f3bf40bbd8"
+    },
+    {
+      "path": "customer-service/frequently-asked-questions/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "c0ba92ecbb9e69d6d1c8e06d7275ace147a8083096bd8081da30f931cc6d6d04",
+      "after": "1ea9aa012fc64b469f958ce5ead4285cedd9326f93a553e8d171263fa95ef2f2"
+    },
+    {
+      "path": "customer-service/frequently-asked-questions/mattresses-and-mattress-toppers/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "eb9d35c0075a3b2e74dfa6d68e69bfb5e374c769965e4d4d31cb769a42f1a1f0",
+      "after": "ee6f12efa6edebcebb61eb26a8b81d691a9cd39c60f02817dcd50a105e3f12e3"
+    },
+    {
+      "path": "customer-service/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "6f89ead1ae5a28111af3740029c69cffd0608b7bfbf93f4eefd8791c777e9c4f",
+      "after": "ee7913a9979c829ae71b9cdd0cf7c134318f26608f41d0b972994240164f3e30"
+    },
+    {
+      "path": "customer-service/manuals/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "8f5ea9d4d768d2fbe4043be77711b7ed405deb0ed390a8a39b0685621e43ccb8",
+      "after": "418b5a69602811b2bc12a2cd5ed03f9efe2b71e249bc09046b0ab0a24b2316a1"
+    },
+    {
+      "path": "customer-service/niaga-label/one/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "603845dd16990e1a08caea49126ec599d5a87d3fd8b235d128d3ca9eb274c6ce",
+      "after": "b3edb7942d015ea03f9371cec85671f91b2bfea70231918121c3c19bf0369dc5"
+    },
+    {
+      "path": "customer-service/niaga-label/swl2/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "ca454b3c07d4ace13e0d5db6c9af7f143e034746b5298c2e90c001dca1caba59",
+      "after": "775fb6c9932a2a0b5f14b75c5487d8ff735eb2af2983238c301951bfad9a4b05"
+    },
+    {
+      "path": "customer-service/niaga-label/two/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "2b22189f73296c93f86128046b0cdb774e3576c05092ae934eda8a26c5f28325",
+      "after": "b434dd075272a626af8035f5b18f33631bfbbc48260fafc24f746a843313d1f7"
+    },
+    {
+      "path": "customer-service/ordering/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "aa12bd0478273d43c6029476c1225d25b8fb01156a65ebf0cf71b52cce7c8d23",
+      "after": "b973b3dd996529203ac67879210fe4cadf84a65998f4041d122868c3a4008bde"
+    },
+    {
+      "path": "customer-service/privacy-policy/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "56f7a9fa44c4ed155596073c199438ccd4997d7e603837f5688d53bb63197e58",
+      "after": "748a8dac2f83acf29aa001dc20cce2b052a31002dfc249efa95f68fe642743a6"
+    },
+    {
+      "path": "customer-service/quick-start-guide/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "24343700a75e5311e978d07eaf482e6324f8a773d4a0fafac30db055cbcdf4db",
+      "after": "282e3d4d2316cbd865956239452e7bba2f72cf983bd0f415fb90136c889568e2"
+    },
+    {
+      "path": "customer-service/smartbase-support/auping-smart-base-auping-connect-app/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "26f3ed68b2e1cb749aceb7b870864e977ce310f5d35fe9628b97ecc57ca576fe",
+      "after": "24b13fa92bdf355a1330cbd61a1194a8bf7dfb210da65f96c44579278de63aaa"
+    },
+    {
+      "path": "customer-service/smartbase-support/auping-smart-base-faq/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "a06f63f6f71d232682b0923495f94f96176884d707d5876304cf6824638ba129",
+      "after": "baf0dc3373cca87c6fecf06ed9059bfae6e377e787e090ce8b42f320f3b6dacf"
+    },
+    {
+      "path": "customer-service/smartbase-support/auping-smart-base-installation/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "2ddf6d35540d6f7a42ec9be6597035ca01cd7a78ce2efe912a9d15c6fcfed4ab",
+      "after": "d8a8fdbbdf2efb469dcd5e5e3987465bbc743f2cb6faf1922d5804c7341fda2b"
+    },
+    {
+      "path": "customer-service/smartbase-support/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "df6d8872efd3a37be24c37cea205279841a700e5ff3f30d75b40aff628f3b94f",
+      "after": "5e95f7f4c92ef39c16ff3a9a9cef5f9e019bcfaf300c70b0a7772f5726560e6d"
+    },
+    {
+      "path": "customer-service/smartbase-support/installation/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "b3577e635eea6d69f1b82b92a3480768034de9626ec5c58506c90bb9d2e6cc98",
+      "after": "e36d52d5628b93ac3ffcd173e8e1ed1eb3c3ad917df74eae822463c1a72789d0"
+    },
+    {
+      "path": "customer-service/smartbase-support/instruction-videos/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "587d3087b4498bdfb9bbaa1b811787a4e630a653fa2300c17056381ff94805c3",
+      "after": "6c43a54c0965440fee70e69a8b66f1c5dd1f48fd2291c3414a80db555c67b807"
+    },
+    {
+      "path": "customer-service/smartbase-support/troubleshooting/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "50c019ff794bf9e3e164c8b33cc9c6d568bf2986ee6cf9ccb0f859c1b9ecfb0a",
+      "after": "7372665b74ea8b52ff206a91c5fec985043be24f1e81dddf942f937076cafcaf"
+    },
+    {
+      "path": "customer-service/smartbase-support/usage/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "6860e3912246e26325c00a591eec19cf269a909770943c67c4ebc4b639a7a71a",
+      "after": "9fc48489a268c882f99351e3e060a57e2452d62cc609644c72667f6a9190f166"
+    },
+    {
+      "path": "customer-service/warranty/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "17aecfaaa3126a5c48669734849cf5cb5722ce8f1ca8228f67d09c0b4f6a429b",
+      "after": "16df31f628ebf1c520c55764eb2faf640952ce79639750aab7d98c96d44b7bef"
+    },
+    {
+      "path": "home-preview/index.html",
+      "removed": 6,
+      "inert": 0,
+      "before": "14d1fcf646a05cda3f7c8d37782a005311c906c598add8301c3ad3174bde0e82",
+      "after": "54fec2b355f2c0e3c34e8d604d790928e050224ad1b3dc28df15497e3c075983"
+    },
+    {
+      "path": "index.html",
+      "removed": 6,
+      "inert": 0,
+      "before": "14d1fcf646a05cda3f7c8d37782a005311c906c598add8301c3ad3174bde0e82",
+      "after": "54fec2b355f2c0e3c34e8d604d790928e050224ad1b3dc28df15497e3c075983"
+    },
+    {
+      "path": "klantenservice/auping-smart-base-videos/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "d62773d4f9d847138651c99e9f495ceb1977e163b961a3d42fa06459e2715caf",
+      "after": "3ce25095229d3c4809856fba94b6c58fc9e8e0b8ca56a0ef153e23b5c229724e"
+    },
+    {
+      "path": "mattress-toppers/comfort-mattress-topper/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "650a035d1de518cba687b99a47b3a167d681ecae99b4f5ebee049c9df2e25eda",
+      "after": "54a5e44a20b6c7f6bec29501200fdd5cd1a40ccd1e03354e4bf893ccb4120c79"
+    },
+    {
+      "path": "mattress-toppers/comfort-split-mattress-topper/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "0bd98a0f5997120e85148575a49942cbcb8139c518487b377dbd7d87e770b29f",
+      "after": "5f16ea0ddf20730252f2f51f59435c6e75308dde5fa81acaba29165724dad597"
+    },
+    {
+      "path": "mattress-toppers/deluxe-mattress-topper/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "c683da21b96cc1731c85f6d92ed9461345659694528377468b2d094688f2e7a8",
+      "after": "2fe3ed4674c5064dcfeeb281df88fbe84ce7914e5f4da3ffd986e5225bf4e446"
+    },
+    {
+      "path": "mattress-toppers/deluxe-split-mattress-topper/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "a8a2b5c238d843059a9acb497539b36d3f848c7e6e6567c1f9111c361145aa71",
+      "after": "21309fd5607c6c06b4f257bcd17e89ef1c48257a0191e217a185a293acc01b8b"
+    },
+    {
+      "path": "mattress-toppers/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "4dde8a7f7ff0363305f54e7a9734ffba92597c78f457cba722ea19a59e6ce18a",
+      "after": "76ee7f51c5f9daa83566dc75cb40eed0dedd9b36aaf44a5f82006357e46a8880"
+    },
+    {
+      "path": "mattress-toppers/prestige-mattress-topper/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "2e39d82295dc07bc8c88e363508a7496e8d6976ab61b61a97414434fb16efade",
+      "after": "7d9d66f7bbbc7520966dcd0d7844222c0e066f3b5ba27545e51712ec46877fb7"
+    },
+    {
+      "path": "mattress-toppers/prestige-split-mattress-topper/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "0caf5d8f7c66e586642386ddc4ea8ceab46f12690bba501369644c20ea308c74",
+      "after": "21c16034dea85e50f01d3885e6a47c6ddecddb2810b2a025e7794229f017a083"
+    },
+    {
+      "path": "mattresses/circular-mattresses/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "0c9df17d4abe17f44bad732227bbfcd8bdcb9c00d34a3eaa57d3c3e9c805eb76",
+      "after": "54e57bdd35ee915cd98ad9d55686e4bf968f4082c85e32283c9102d09aadce74"
+    },
+    {
+      "path": "mattresses/elite-mattress/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "4e74283f2ac1b4fc752852ab723b784d7e023242aa99129b9c69e3c8f3eef704",
+      "after": "2b5258be61ce879fa8073c9b60b6e5b03c94b83da3668cf37ea25044799518ac"
+    },
+    {
+      "path": "mattresses/elysium-mattress/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "71436bd59265bf49f5dbdaef0dc1c3482a264bd6087a5750a28d43809d696b32",
+      "after": "72b48153d496e76fde24118fbc486669e3e60b5863030a3cb8ee68dc81cac473"
+    },
+    {
+      "path": "mattresses/evolve-mattress/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "dab748f669dd10fb6f0f6716c0c3636ff05b1cd82cd23576a6ee78128c736c90",
+      "after": "178093653c2573cf695c5b287ca778144e31e7f1aaeda5803fce949d81bc258e"
+    },
+    {
+      "path": "mattresses/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "e772e1f5c595c4319dfc24d6a7cec967c6d0a98186dee645781739a73985180b",
+      "after": "89dc09dcb33e2915b319e03b46551f7764c01289df71396f29efec11379528b8"
+    },
+    {
+      "path": "mattresses/one-mattress/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "13df83cd8b3ff521a3d0e8cba0cb0d16351b134e7843219f63e95e0a9b2b65de",
+      "after": "6ac269902cd7a1cd3c7f87f61d870394394c56f2697c0948c6e6737a40223301"
+    },
+    {
+      "path": "mattresses/revive-mattress/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "690b98d347bab61d441175ca0f5131d7a1d423dc8a159e62dd6fe3fe6f7c8819",
+      "after": "5b45254922f81896704ba4eb5ec9df8c02d92e3a59af82f1ac2af307df46fca4"
+    },
+    {
+      "path": "mattresses/two-mattress/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "d609e2d277f25a93632493c3b5866f481c4246c4dd544998d89bcc28a09c8d59",
+      "after": "b6f31c8fb467415e39defd458ac173d27859ba7250b2a9440f42f30c155b3d6f"
+    },
+    {
+      "path": "news/about-auping/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "4007acb0c5b59ed38fb0bee535abc2feeac7f0a569b46a5a68fe8b837f4bcc1f",
+      "after": "e1d71b6b9fcb9f24038322789aae0eb3073d1e5ef8f8baa2c8c26e3e4e2934e5"
+    },
+    {
+      "path": "news/about-auping/page-2/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "689b9faaf8e8721beaab81b4ebd28d4ee67b6e74020829e2b4bf676da3f486fa",
+      "after": "ef7ee267094c43e3b04f5c786ba5344a679076402e9e1a7b952b011bb9975d50"
+    },
+    {
+      "path": "news/amsterdam-hotels-opt-wonderful-auping-beds/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "3aefb1566012d462d0c18d865a5233b324ea4bea719b5c7420de6696ff8fcb76",
+      "after": "763558f839a864c531a9b76bef6f4202e6da9a22643b6ac6ced1b76194435909"
+    },
+    {
+      "path": "news/auping-achieves-b-corp-status/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "082cae11469ce2174887c204eff87b7a821d3f933861d323cbd815f762e36737",
+      "after": "3360e2f585638e774e5b5f1d2092e220349b478e334a07cdcf8b649bdaa453c7"
+    },
+    {
+      "path": "news/auping-debuts-dutch-design-week/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "09b3abf787c3f4264e4942f090b49bb83ff21e9fc38517843dc55d6c7fc06efd",
+      "after": "4405abc9eee043a5f05022a460ea728b62f57314da013257d69ecabcd6e505d2"
+    },
+    {
+      "path": "news/auping-elysium-mattress-best-sustainable-product-2022/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "7deffeb0f671a1d71eda2be9306af99a9d58ff32ce4db6592ef4b97de6ebbeb8",
+      "after": "0e8c7ac4913c9f0b1f659bdc875d7ee6036b071e9b0e309d45093b8fc4a3492d"
+    },
+    {
+      "path": "news/auping-elysium-recognised-good-industrial-design-gio/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "7542a1ad69f372ab761ab0f99dd5553a083136690966e8961343554843d689c2",
+      "after": "8afb34c5cb5a6dafd5984214bf117de8b9d2179a7c00982069d09bbb420795e2"
+    },
+    {
+      "path": "news/auping-evolve-has-been-awarded-prestigious-red-dot-product-design-award-2020/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "0fbcf3fe2d7d3a4742e96881ec9c9dcb0a7b8d9258e2e20e6aa6206faf3d8ad1",
+      "after": "2d98356820ab35c7cc7298704d41cd312ad0c7f825785cb675664be3b4ea6b44"
+    },
+    {
+      "path": "news/auping-evolve-nominated-dutch-design-awards-2020/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "bcd614249cc92c6661328f0cae7fc4361f0c02d5f478638507ceb763bd389d5a",
+      "after": "808ed4bc96df4633a5e875539a5f8d9add2b9df8d5fcab3f0c23cc2587bc3ea0"
+    },
+    {
+      "path": "news/auping-evolve-rethinking-plastic-house-dutch-design-week-2021/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "99d29cdf2c7f55c19751b646a563f6dc4bc4e4390954144693b22a1c51f9c927",
+      "after": "11ce07f920ab3e78711c21632f1ce3f73c09c51ca7aa67f084f7b87f407a733c"
+    },
+    {
+      "path": "news/auping-evolve-wins-german-sustainability-award/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "9ba1cc59b915bd484c701f237b2118b30ad2d0118d751b53ed6b85d4f64662eb",
+      "after": "d51af6e18e64f62480cc71b21e8f0f3422ad722b3cde42a5e4cc7a4cb1c599d8"
+    },
+    {
+      "path": "news/auping-finalist-sustainable-brand-index-jury-price-2021/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "a820873de9d4b0b40d8694f6990e59326795a03b8cb042282d088268c6c7e146",
+      "after": "f130a669e1d1370e5403ce646326efae8990af6dfe97f2bbbbd5e2d50b357ce1"
+    },
+    {
+      "path": "news/auping-investigates-sleep-among-team-sunweb-cyclists/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "bc114d4f055e44a9af483e8ebc1c2160815b5930d3b0f144faf2af7777e77466",
+      "after": "9aea9ace8cbdd45073ae53ee0b48b40e91e92178ef6db64185f3a8c3b11e3167"
+    },
+    {
+      "path": "news/auping-launches-assortment-archiproducts/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "2b26da9f6165a8015889dd341fb8907cddd4badafae55f49ba22bf8369f484b1",
+      "after": "d90e895702faefdaf13d4b1056332e22b68f3b3798de2963d3f27e4a6e8b0acd"
+    },
+    {
+      "path": "news/auping-noa-bed-winner-archiproducts-design-awards/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "23c0bc04121aed95df90bcf7fb0ba137cb8eb0da0ba9a1be30f8724d9086cd6f",
+      "after": "50237d0e4eb1257762257e1728f501b917299c110af07b1a23c842a0a104da4b"
+    },
+    {
+      "path": "news/auping-noa-wins-if-design-award-2022/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "0de9effae6bdebf70c9afd38663ba0232f9f1f3e9f920934393d3a470f7f5c92",
+      "after": "871410670b59a48cb64ef5ce374947e48c7e4084e6e6edb2c3379bb93c7e67b6"
+    },
+    {
+      "path": "news/auping-noble-wins-archiproducts-design-award/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "940ae486eb67d2afee27657351988698fdf21cd6d59eca825810f49dc257d0d8",
+      "after": "0131941d807dab08b584c28633fe3e4cf38191500d54286ba8d06bb02558b770"
+    },
+    {
+      "path": "news/auping-nordic-hotel-event-lobby-copenhagen/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "63b4dbdb7643632d7bf7939593dbd687a09013b540ccd923d7f5f6340f136cee",
+      "after": "c21cf5acb33bd69f24f5f3498e0790b1927669fdd6eb807e0c12c8e8dca9a8f2"
+    },
+    {
+      "path": "news/auping-opens-mattress-factory-future/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "07f313235ad8e9146348cc6e98a2afe7c5b0bf1101c46fc3fe2c60a5395eaabb",
+      "after": "aec7d3e13b2cf37546e70714b98cbf76ab5c0866d3f0527b7ffc50fcf634bf56"
+    },
+    {
+      "path": "news/auping-publishes-csr-report-2022/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "65f879d3d14a60ba0d79c74f84687ff4f87d9bce2c51dc69705c67d64e43ba5d",
+      "after": "9ea328b3d9937e4f50241b38abec49628c3f448bbf95e2d5a1aba41c70f24a94"
+    },
+    {
+      "path": "news/auping-publishes-impact-report-2023-and-achieves-b-corp-recertification/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "a0012bc78b0dc1b5f10b90367b760785bdcd44cde40a81d429677af19b9e34c5",
+      "after": "3c9c6843d507806b90488052c2c729a3cfb67d027278729d29ae2f6e95dc5a96"
+    },
+    {
+      "path": "news/auping-releases-csr-report-2020/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "b1d3267a383367d76f15073e190afae86971e6c62043aac3b6dbaab65d404a9d",
+      "after": "d820a6671abdd59ec9b61d7fc76719c63a0b97fc1f5e42e204e1197d16d48dfe"
+    },
+    {
+      "path": "news/auping-stood-up-to-help-fight-the-coronavirus/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "35a25bfd0c836ae50e62eefb88bfadab9417d71ea4e4bf7f43a26f098b644fd5",
+      "after": "bf1039da87c0bda116c84d2da59478619adbbc0f1c908b559d109d3543d97b47"
+    },
+    {
+      "path": "news/auping-takes-important-step-circular-transition/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "ca59913b6f98afdff62f0080112435f057d7f0b39cc94b04e7d28bd5a4fbafc7",
+      "after": "cefb23d3aa71b437b75c0de56f532fb2fe6221ddaf9a39237742e2cffdf750ce"
+    },
+    {
+      "path": "news/auping-wins-circular-award-business-2019/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "5d1498f094cc3a86330a0cdf46f878316579185d2c244c8c3daf9e7c193a8cba",
+      "after": "be8e905c9e1b549a66cd52281fcb98b58e776f25d82d2d26b9a3891c797b4210"
+    },
+    {
+      "path": "news/auping-wins-dutch-logistics-award-2016/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "2c816741235a22bc9c0cf558f9dee5aa716cfcc8b635eda779dfe861d0863472",
+      "after": "fb963b86ecc5b9e480bb68d9a3536493b295d0a511a0e85c71f02de5e4778d98"
+    },
+    {
+      "path": "news/auping-wins-oscar-sound-innovative-music/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "bcb95d1e15cf70141977ea723fa3f95976f9940c778a9371f61ae37159c041a5",
+      "after": "b846c4d041716e2a99ee2ca97f196ae0c683573676aa0e5154f60465f6f8a5c9"
+    },
+    {
+      "path": "news/auping-x-teklan/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "d8fa3ccbe3838629d4cbcc9086e631b3e1716640fb13b121dc2774e9cb43fce9",
+      "after": "eea7648a86282e094ecbf6660159329b6bc7e53342c7f235584cadee2da8eaf0"
+    },
+    {
+      "path": "news/awards/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "8147b535058c1a11fd05fd5856fa0cf7591ad1ac807d4139fb7d1c5096d32f40",
+      "after": "063681b753d5d1dd33bee2ee95fea44cceba24eb1cd448deb71e6f03f71393c1"
+    },
+    {
+      "path": "news/awards/page-2/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "dbac3e37d69934748089f148bd7462b3643e4a31ec9ffabc252f7079ebd3ba34",
+      "after": "6c95f8b912200b39e90c490a257b46b74e31b544a63d6179ca76b517d176bf56"
+    },
+    {
+      "path": "news/building-circular-future-auping-and-tripler-redefine-mattress-recycling-digital-identification/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "ac0f46b975800f735230ae1862082181c37fe5331897a01f05b3a8e1489e28f9",
+      "after": "222709136e8483d47e6be8a51aaaf10fa7ec00b956bf6e54614d6d4c39cd3670"
+    },
+    {
+      "path": "news/circularity-day-2021-royal-auping/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "a8cbdbdf99d8bc51ea2edc41f37e34662791fee3f9f889a54e3899b4e16a3556",
+      "after": "b9cb22d411335302548344826d3eae2f19ac0c8a7bfe3fc5003c90b21632ca03"
+    },
+    {
+      "path": "news/closing-loop/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "405a2dc9e783d5fa4846885daa8ea589f7f2f83b8bb43e8d30959e7c3f786a57",
+      "after": "22f321214d679eed5f7446d189f2baae66c4fbfe8f8f9d41da16c4b52556b7e5"
+    },
+    {
+      "path": "news/design/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "e12674a0240e88cdb5933df68b1f7f4a42befeb466ce2cbda047afaf88adfd10",
+      "after": "ec2635e47e8fa29f39479966b740e3445dcf1f887093b993e1eaf28a8715dc5b"
+    },
+    {
+      "path": "news/hotels/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "c35171ccb8fbc8cf91765adbd92e09f49ad66f1f08cb0ed83f78d6a59ecc049d",
+      "after": "115a1b7963dcd8ab096c7917724d2bfda3e80e5fdf827ec8182de7e917dcddc4"
+    },
+    {
+      "path": "news/importance-mental-rest/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "e6fed14e3d1365b1b708a572cb8926265186bd8002b4f5929914be23177bee5c",
+      "after": "bf8368371ad9cb7d3ce9a643ba5d20c1531e4d2341c3e2ac6447920729057cfd"
+    },
+    {
+      "path": "news/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "a895cde7b61187582414a7db696fbb8ef0048bc588b7297216669594731d4abb",
+      "after": "b2f0dce24f062bd323811e24cae83c653cb09b05bbcd0e32ed31e1dd0e9d7001"
+    },
+    {
+      "path": "news/jan-joost-bosman-new-ceo-royal-auping/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "10e90288fea2afef130cdbea517dd0d17b4b5355b7ffc16ab61457d9b8c52770",
+      "after": "4a7b651dd5b2c3e6a506f385be0bf22a9e5ea4366092f2e92b1753ec45708e71"
+    },
+    {
+      "path": "news/mae-engelgeer/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "725b6c10d0973d1130357d9d38bbb1afd53e449d78897549d31ac158eac62bae",
+      "after": "64162dff64a399e65fc93f59417855803c6e05ef1e00a1b07c0b34a883468b27"
+    },
+    {
+      "path": "news/niagar-product-passport/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "485f2bf123b4fce5edaf6b2c4e454151e599fd0290185260dc5aadb7aba2488a",
+      "after": "1d07b5bd89f6808be4dc39526161a76353e0ecd7a6758b4456fd0555142bdfe8"
+    },
+    {
+      "path": "news/page-2/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "9564d6ca851f29c8acb21c5a6ed7eaf195c755264dadabd2498df2c76ca5c86b",
+      "after": "23d0cdd2c711f9210ac28ae33a0ff8c06b6a53952f0189f85281b9b2b3899479"
+    },
+    {
+      "path": "news/page-3/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "05e26d6bc2ceb383fc880ddeec6d4e1f1aae02f5cc4dd6eb4889430526b6fc60",
+      "after": "ad27b410030eab9b68b6b202827cce8b02c36c874d01fb6bd27fd1b4942f482d"
+    },
+    {
+      "path": "news/page-4/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "78a096f10cfe9d8eac47210086207da1afdd41bbc5d7cf9c1986da62dfdc66e5",
+      "after": "0f3dff8354ce8be7e879cd464f234430583d51d3550156abcd9918514e5ee949"
+    },
+    {
+      "path": "news/page-5/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "9a32d0efaba14ad922635bc14e755e18d630443b74e595c2687e948213457a5e",
+      "after": "aa2c01ec2ad4142551abca8fc2e4cf17c9eb1c87a8f625ade9db093aa6f8ff0e"
+    },
+    {
+      "path": "news/production-of-medical-facemasks-for-healthcare-professionals-starts-in-the-netherlands/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "7f4b57d17683fac3282baed892540e5d616c71608735c708b12d37628a6ece65",
+      "after": "576b0ffbf6d375caa69403382b0ae7045a03df07ffafce34ea9ad413f29bdfa7"
+    },
+    {
+      "path": "news/products/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "261761d2cc8dbd909f2f64f5c3d4ac2a655bede057b2929d45bdf9f9d83194f7",
+      "after": "a406f681b32bde4371f4905a1ed8662bbd38eea3dce23d3828ef67c502f5491e"
+    },
+    {
+      "path": "news/royal-auping-and-niagar-achieve-breakthrough-fully-recyclable-mattress/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "73f4f7f7590b27df5e6e0d36b054e0777f2aeff0e9869cc9bc838e71d76b5b0a",
+      "after": "4d449b75fb26e22ec3153f1ac5c4793ac5e963583ec7e7e5212dd0c8277cc64d"
+    },
+    {
+      "path": "news/royal-auping-expands-dealer-network-sweden/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "9d32664baf860ef22bab6202f7a151fd5760832565e17ac8a15bb15f0a9ddb81",
+      "after": "5c0ea77116529c4e6360ddcfe35196affd4aa9d036b03e13ba11d6974b5fc1e9"
+    },
+    {
+      "path": "news/royal-auping-opens-first-flagshipstore-spain/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "f9e2b2da0dd940f6472ac4d8ead4102ab70ccb1084cafb20bfce793602982c28",
+      "after": "4a7d39fe1b365da37d6db8c72bbc241475a8759a9d807e4ddbf38f6be485d78c"
+    },
+    {
+      "path": "news/royal-auping-receives-order-from-ministry-for-supply-of-mouth-nose-masks/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "91878479889da60c66244fea714c5796fb2d7fcdf9b8ee6a2fc56abd186acd2f",
+      "after": "c50c1eaaaffdcb4e350c37a0e64f2931e442251a26a4d5aee90419d34184bc57"
+    },
+    {
+      "path": "news/schepers-bosman-x-auping-consumption-quarantine/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "25f03cc9d2559a3b29ddbe95985406d31d47cde1e77236f7bd817433e5b6a450",
+      "after": "ae932b1726eb44afc088fcaf166e4cdef368823679c6635a055a55bc59594483"
+    },
+    {
+      "path": "news/sleep/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "38a576ba8b40b930357c9c7261a6d6bd810f1061ee7d6ec721510f4cc4199dec",
+      "after": "0e142c377fee6f63624d7a71104ca1bebcd9cd075319922a4f608039db231d8e"
+    },
+    {
+      "path": "news/sleeping-like-animals/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "97279d324392d16811082170c5d0369edee07d1980957f106ffe892cf8f75fe8",
+      "after": "0264500161fb798c2b3d4b3680a15249a7335e7179d3986d2308365b961d60a8"
+    },
+    {
+      "path": "news/sponsorship/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "3f1317ab3f3c49b5ff5a37957f742d908b5e59eeab8a82787898dad83d56201b",
+      "after": "ef2bdac2af403a348f7c762059ab54376f2d8e479a272e0b6a10797593231b39"
+    },
+    {
+      "path": "news/sport/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "3ac0d4e2194a68c04eec68fe3c10c32175d0e4e38e91efdfe1d2f96c3052d9c8",
+      "after": "3c13194752343f61f10c1a4ce426d777eb104cea97e251ffb4abfce5d7f50b12"
+    },
+    {
+      "path": "news/sustainability/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "e4363a355eb3f92931fe4d72f8f812c0fbd48b1a6181bc37f630e0a0aa5ad713",
+      "after": "b3b95141ef8fa4bd89be878ba0b99f6949642aba3b30d2c3a4e6edf6cbf14c34"
+    },
+    {
+      "path": "news/sustainability/page-2/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "fd7be0db657b834fe1049c3ff2494ff0a7557908027a569ed60007c60495ffe2",
+      "after": "156dc7780839a1ff057e3b3dbe893c9bd9c52973ed2e1f126c4c59e9a95280b6"
+    },
+    {
+      "path": "news/team-auping-dreams-world-without-als/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "ddd38bff38a91359bdca72c3c49a24b418681338ea5b10b7b4a61e237389defe",
+      "after": "eb4f725ffa30edbbfa9467ad6a005e9a9479994521da4f9a899be327ac56e103"
+    },
+    {
+      "path": "news/transforming-mattress-recycling-closing-loop-auping-niagar-wellman-international-and-twe/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "e2a14d09cbeae88b0896adcc00a90c78982272f7487bca094fe15de181e9c1be",
+      "after": "fab5e53b207a8ecf0406be80eeebf4a500266548e508a910586caef019719cd8"
+    },
+    {
+      "path": "news/well-rested-bright-young-minds/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "9de46fa65d22dca1ca1c46c5010018755c0f04fd81265963ccfa6a75f495baeb",
+      "after": "e3987338da0f030ed208b6a15f240bad8f4d1d04045d4545a51662c40c6bbb85"
+    },
+    {
+      "path": "store-locator/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "d45806d50e4980f67b8ad193b7a01e24767e89528f7712f41344eff4137ee4cb",
+      "after": "10f5a767bda6fb550f330a3ccca193056ce8e4410457d707b2d9f5f9ab6b1e00"
+    },
+    {
+      "path": "stores/hsinchu-dutchhaves/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "7a5cbcd9b17477aeb751b4c21964eed8cf6e57c3191b7e81e5d58d0d35ef38eb",
+      "after": "a9a265e8f5250cdc69b07546aa24b48993d80061169de890ec05177ec5e6bd53"
+    },
+    {
+      "path": "stores/kaohsiung-zhonghua/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "86f8bde4e31c88add5f729ff0cf92e2319545e6aae31a80fb4c9a0d99fbb82b6",
+      "after": "752afaa9a41dcdd311558251e9496694e652ceac23f1fddc60b0a2a439608137"
+    },
+    {
+      "path": "stores/taichung-dutchhaves/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "4280c989ec52ce3963895c9cf756a7adb8c92d48384fec5f352f9a92c443ebab",
+      "after": "7115ba9623a643a1746fe8a4a9fde7adf6c07a00c18925cb6776d28fcd177f51"
+    },
+    {
+      "path": "stores/taipei-asehome/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "4d7a6b530e9299f8be0ef80d79760fa34b525ae27596134d052816dafe03a8df",
+      "after": "e01a3e793ef8d3ac87f140e8a623fe01050d1b154114dc80459569e98ab45f9a"
+    },
+    {
+      "path": "stores/taoyuan-nankan/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "d520c17727046c029a9e362296617e4f4a44d57151870b37f31266f089d08586",
+      "after": "d2c95ace85a72375cf29e8f5585e7dbb3148ce178596cd33af9b8de8be4fbc4d"
+    },
+    {
+      "path": "stores/yilan-outlet/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "ca3672738c09237a3410c2cc3e138a146d1ed061e0fa1239798d9e62e50cb84f",
+      "after": "02e959a7ede263d99d32054c2d32e143b026c692a424fa2365fd2de09c0305be"
+    },
+    {
+      "path": "stories/anti-snoring-tips/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "a07446e3c15e64b96ce43389281b6b4d660d691bc4c13ee3d488fed3de00dff4",
+      "after": "18fd89253cdd4f8d9f8ee3d931487105e6bf566717b8a90ff10294f55e0cc982"
+    },
+    {
+      "path": "stories/body-types/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "42d65cabc685a580a8520d0db978e116fe18cd951e1f7674f67acffb59c1a079",
+      "after": "43a6b6421fa3a1345a4af1d980492978274d1cc7ac3985de754404d94492e1b8"
+    },
+    {
+      "path": "stories/buy-a-new-mattress/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "157fc9a1888c7ad5d0d602e5c5a8c53724e9283e072b508127e7fb7a7a309792",
+      "after": "3d6efe23993f3891d7ab1da3062e4806ac81e33d6180fad959698bcca169eee0"
+    },
+    {
+      "path": "stories/certified-materials-pillows-duvets/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "b16a1132ded2b6ff16153b1909f54eb159563d7fbbb80f3c67443ef7019004fc",
+      "after": "a5503888e0213c8add9a810e9305db7131ce41f059338e1f15d0e0ef5a87dd75"
+    },
+    {
+      "path": "stories/cold-weather-we-stay-tucked-up-for-longer/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "b4425866f2c2aa90b802ace5927f67b058ea5c22bbe8a677065e763499059a50",
+      "after": "ef7eb1a6120dfa8537b18d88d1a774dd632db4850dbbdfbf3f0c3ceb634a801b"
+    },
+    {
+      "path": "stories/counting-sheep-boring/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "94affa2ff536b4acb23ff8bab08e8bddd4d7cffb1c5c82ed8af92b35d0d19d99",
+      "after": "60b4c20598d6d1dcaae5399f2ecc69979ed96e4cfbb9ea8faf6f1d668c64fe49"
+    },
+    {
+      "path": "stories/daylight-saving-time/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "6798b98d8993eac0227184cb7d1bb6a3aaff51a9e5c75d3a3a7b36f36138bbe2",
+      "after": "067568a0d39ab92269d116fb90749a2b7a62be50bdd73628abcffedece166995"
+    },
+    {
+      "path": "stories/importance-of-sleep/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "43b868d2b74b213f446e391ff408aaff88ceac2c30d3eab7d8815d329ed33996",
+      "after": "113bea676b744e09ad801f2d01516553c93b45837d4026e42024beb5839dd1be"
+    },
+    {
+      "path": "stories/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "2726d2e642f1e778cddd47397c49d3e807e2e9a1ed05792155de32cf52860ba3",
+      "after": "0acc919bb3552d0363694638ff0d25fbb48da56237e4c657b7cfdfc7f4b176f3"
+    },
+    {
+      "path": "stories/sleeping-around/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "8f3ba808af78fcde5a9e12fda765beb9e23a620a471556bf1e409e3cd4c8347b",
+      "after": "fa6ee09083c886dd2faeb958481db43e22d3f77d9a998f266e9946d6315b3f2e"
+    },
+    {
+      "path": "stories/tips-beat-jet-lag/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "5492f06685eb6499b1facaa3707027710cb2be201a848b2bbdd094a7bcb62250",
+      "after": "decbe3d52b2782921d377392a89eba75572899eb0b54337f1c2432480c863c17"
+    },
+    {
+      "path": "stories/which-pillow-suits-you-best/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "d56c8ddd5adafa38a6a3ce038f3356fd0fbbcdd46a68c6d9497ac5fc20b776f6",
+      "after": "7b864cf38d684f007d9a48ebfe7c4f2f3ca185d8b58efcde7b4aeafea2bd54b1"
+    },
+    {
+      "path": "toppers/comfort-mattress-topper/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "daac5148fa9f0800a5e3f7b005863c183733a1beb07a2cd7710e5fdfb4f7e59d",
+      "after": "24320fdd58252ba71b384917e9248abdd29779f944f29554e389df2abf7ceb6f"
+    },
+    {
+      "path": "toppers/comfort-split-mattress-topper/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "87395547f4bc5dfd7c7e1d5ae730453ef53a6bc2e92f27aea4fe93ed9c24c1fc",
+      "after": "e275b7188983d6d966ab1c45a5e5b7059343ef98008b40795a89c6d93d02a0ba"
+    },
+    {
+      "path": "toppers/deluxe-mattress-topper/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "1b86524a2fb828c72a76c48f5028c4128016e78a6e8bd8e89df9534e4c229d4b",
+      "after": "c2246251403ac76a9101c18f3ab2bef5a2c3318786845dd04bd29d113fa45749"
+    },
+    {
+      "path": "toppers/deluxe-split-mattress-topper/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "2b137ad04474bcd847fca028e455802e7dc3c71a2a2f66604fa172c5b332409b",
+      "after": "3ccd883eb63c69bfa33fbe45bc8843c7c1b7683d8f79c73d72048a23a7c44786"
+    },
+    {
+      "path": "toppers/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "7bb5def3fcb1c105e0a476a1e92c34ff607f02debea09ccbb979853f6d52c5d7",
+      "after": "c89fddfde230c446e51c49dc8cb5293ec1bef13b009fbb1dd32304347602bae6"
+    },
+    {
+      "path": "toppers/prestige-mattress-topper/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "57e65b8a108bcd8309deb503e06824d0398b39bb10e207ae736305caf1ac6432",
+      "after": "3515fe9c755c18e9b1a3a71f58a911f699e61ff99a6c828a3d93dafba4bb50b2"
+    },
+    {
+      "path": "toppers/prestige-split-mattress-topper/index.html",
+      "removed": 5,
+      "inert": 0,
+      "before": "ac74007f21be87d222feb6659575f6ee67286a5ab2ec0f82d4de080d92d95c01",
+      "after": "b957f4ac5cf01a9267eef89253c9eb7a09d7fcc79c6c7262cb3b928ec416cbed"
+    }
+  ],
+  "liveStatus": "Pending deployment smoke checks",
+  "search": "Removed only service-configurator from existing route registry and search index; all other records preserved."
+}
