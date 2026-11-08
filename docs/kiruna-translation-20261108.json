@@ -18,6 +18,7 @@
     "AGENTS.md": "6e3f56beacbeffd02a47131de8ec709fa71b0b90"
   },
   "textNodesTranslated": 34,
-  "markupUnchanged": true,
-  "adaptation": "Configurator promotion replaced by in-store consultation per user restriction; product material and size information retained."
+  "markupUnchanged": "Initial paragraph translation preserved tags exactly; final polish changes only two accessible text labels.",
+  "adaptation": "Configurator promotion replaced by in-store consultation per user restriction; product material and size information retained.",
+  "additionalLabels": "Footer Follow us/B Corp/FAQ translated; breadcrumb accessible labels translated. All URLs and media attributes unchanged."
 }
