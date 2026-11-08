@@ -204,3 +204,8 @@
 上次官方 DOM 擷取留下 LazyImage 未載入樣式，靜態頁沒有 React load 回呼，造成圖片 naturalWidth 非零但 opacity 為 0。只在本次新聞範圍 main 的 img 補上既有 LazyImage_loaded__h_K__ 可見狀態，保留 loading=lazy、圖片 URL、srcset 及版型；未新增 JS owner 或修改共用 CSS。之前連結測試不能代表圖片已驗收，圖片驗收以 docs/news-images-20261108.json 及捲動後實際顯示為準。
 
 第二項圖片回歸：絕對 /_next/image 網址轉換後殘留官方網域，形成 www.auping.comhttps://api.auping.com。僅修正新聞 main img 的重複前綴，並對所有唯一圖片來源執行 HTTP 與 MIME 驗證；圖片身份、srcset 寬度、內容及版型均保持。
+
+
+## 2026-11-08 新版首頁
+
+首頁依官方即時 /en 的九個區塊與 USP banner 建立繁中版本，先在 /home-preview/ 驗證。官方時間軸 inline script 為此時間軸唯一 owner；home-2026/home.js 僅接管新影片暫停按鈕，既有 snapshot-interactions 仍控制來源與自動播放；RC7 及共用 CSS/JS 保持原樣。新 CSS 限定 data-home-2026 範圍。驗證及正式上線狀態見 docs/homepage-20261108.json，不宣稱真實 Safari 或全站 1:1。

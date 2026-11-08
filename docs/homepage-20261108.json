@@ -1,0 +1,26 @@
+{
+  "CURRENT_MAIN": "142c3c34cda274262d718910827191c97bbb2e60",
+  "EXISTING_OWNER": "RC7 navigation/readmore; snapshot-interactions media loading/autoplay; official inline timeline sole slider owner; new scoped video pause button adapter only.",
+  "TEMPLATE_AND_DATA": "Official live /en 9 sections + USP banner; original full DOM, media, timeline and component styles.",
+  "AFFECTED_ROUTES": [
+    "/home-preview/",
+    "/ (promotion after preview QA)"
+  ],
+  "EXISTING_ACCEPTANCE": "Protect shared assets and news image repairs. No Safari parity claim.",
+  "OFFICIAL_TRUTH": "https://www.auping.com/en; captured work/homepage-official-20261108.json; desktop and mobile actual DOM/screenshots.",
+  "MINIMAL_PATCH": [
+    "home-preview/index.html",
+    "assets/home-2026/home.css",
+    "assets/home-2026/home.js",
+    "docs/homepage-20261108.json",
+    "AGENTS.md"
+  ],
+  "REGRESSION_AND_RECEIPT": "1440,390,440; images loaded visible; video time/pause/resume; timeline next/previous/keyboard; local links; navigation; no horizontal overflow.",
+  "blobs": {
+    "index.html": "51a0d2e48e939900815fc17bc4531a68e4f5b0b0",
+    "AGENTS.md": "e74c4ca2114892e360a754a5646e5f60c877e0ac"
+  },
+  "status": "Preview awaiting browser QA",
+  "sourceSections": 9,
+  "timelineItems": 17
+}
