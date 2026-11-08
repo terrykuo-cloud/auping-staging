@@ -13,14 +13,217 @@
     "assets/home-2026/home.css",
     "assets/home-2026/home.js",
     "docs/homepage-20261108.json",
-    "AGENTS.md"
+    "AGENTS.md",
+    "index.html"
   ],
   "REGRESSION_AND_RECEIPT": "1440,390,440; images loaded visible; video time/pause/resume; timeline next/previous/keyboard; local links; navigation; no horizontal overflow.",
   "blobs": {
     "index.html": "51a0d2e48e939900815fc17bc4531a68e4f5b0b0",
     "AGENTS.md": "e74c4ca2114892e360a754a5646e5f60c877e0ac"
   },
-  "status": "Preview awaiting browser QA",
+  "status": "Promoted after preview browser QA",
   "sourceSections": 9,
-  "timelineItems": 17
+  "timelineItems": 17,
+  "previewCommit": "a166c7b610b4cec2ae04cfe3d2f6cfc7dde6e407",
+  "acceptance": {
+    "desktop1440": "Video currentTime advanced; pause true then resume; timeline next/Home/End and edge disabled; last Noa image loaded 640px.",
+    "mobile390": {
+      "badImages": [],
+      "scrollWidth": 375,
+      "width": 390
+    },
+    "mobile440": {
+      "badImages": [],
+      "scrollWidth": 425,
+      "width": 440
+    },
+    "timelineDrag": "440px drag moved scrollLeft from one item (369px) to 598.83px",
+    "media": [
+      {
+        "url": "https://api.auping.com/sites/default/files/2024-08/duurzaam_geproduceerde_producten_svg.svg",
+        "status": 200,
+        "type": "image/svg+xml"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2024-08/dichtbij_geproduceerd_svg.svg",
+        "status": 200,
+        "type": "image/svg+xml"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2024-08/medaille_0.svg",
+        "status": 200,
+        "type": "image/svg+xml"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2024-08/ventilatie_0.svg",
+        "status": 200,
+        "type": "image/svg+xml"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2026-04/auping-original-boxspring-2.jpg",
+        "status": 200,
+        "type": "image/jpeg"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2026-04/auping_fabrieksvideo_clean.mp4#t=0.1",
+        "status": 200,
+        "type": "video/mp4"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2024-08/auping_kroon.svg",
+        "status": 200,
+        "type": "image/svg+xml"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2026-11/auping95essential32wood95balanced32walnut95mood95landscape95a428.png",
+        "status": 200,
+        "type": "image/png"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2026-10/medium-auping_smartbase_essential_meshbase_3m_3120_a420.jpg",
+        "status": 200,
+        "type": "image/jpeg"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2026-11/auping95mattress95evolve95detail32mattress95367395a426_1.png",
+        "status": 200,
+        "type": "image/png"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2026-11/ja2.png",
+        "status": 200,
+        "type": "image/png"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2026-11/ja1.png",
+        "status": 200,
+        "type": "image/png"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/nr1_ziekenhuisledikant17_1_3.jpg",
+        "status": 200,
+        "type": "image/jpeg"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/nr2_opklapbed_hollandia_1.jpg",
+        "status": 200,
+        "type": "image/jpeg"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/nr3_buismeubelsj_1.png",
+        "status": 200,
+        "type": "image/png"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/nr4_stalengezondheidsondermatras_1.jpg",
+        "status": 200,
+        "type": "image/jpeg"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/nr5_cleopatra_1953_1.png",
+        "status": 200,
+        "type": "image/png"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/1954_auping_arielle.png",
+        "status": 200,
+        "type": "image/png"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/nr7_ariadne_750x500_0.jpg",
+        "status": 200,
+        "type": "image/jpeg"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/nr8_slaapkamerameublement_2.jpg",
+        "status": 200,
+        "type": "image/jpeg"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/nr9-carroo-_1.jpg",
+        "status": 200,
+        "type": "image/jpeg"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/nr10_euroikaset_2.jpg",
+        "status": 200,
+        "type": "image/jpeg"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/1965_auping_couchette_1.png",
+        "status": 200,
+        "type": "image/png"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/nr12_auronde_4.jpg",
+        "status": 200,
+        "type": "image/jpeg"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/2012_auping_essential_1.png",
+        "status": 200,
+        "type": "image/png"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/nr14_criade_1.jpg",
+        "status": 200,
+        "type": "image/jpeg"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/1._blush_originals_stills_dsc_1414-heritage_1.jpg",
+        "status": 200,
+        "type": "image/jpeg"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/inline-images/noa_balanced_oak_640x480_0.jpg",
+        "status": 200,
+        "type": "image/jpeg"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2026-11/Auping%26%2395%3BAuronde%26%2332%3Bbed%26%2395%3BPastille%26%2395%3B0608%26%2395%3BA423.png",
+        "status": 200,
+        "type": "image/png"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2026-11/collage_keurmerk_d.png",
+        "status": 200,
+        "type": "image/png"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2026-11/collage_keurmerkm.png",
+        "status": 200,
+        "type": "image/png"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2026-11/70f816a4-3c06-4089-8485-39627fefe71a.png",
+        "status": 200,
+        "type": "image/png"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2026-11/Auping-lookbook%202026-EN-LR-DEF%20%284%29.pdf",
+        "status": 200,
+        "type": "application/pdf"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2026-10/auping-store-appointment.jpg",
+        "status": 200,
+        "type": "image/jpeg"
+      },
+      {
+        "url": "https://api.auping.com/sites/default/files/2024-11/bedconfigurator_mobile.jpg",
+        "status": 200,
+        "type": "image/jpeg"
+      },
+      {
+        "url": "https://configurator.auping.com/en-gb",
+        "error": "fetch failed"
+      }
+    ],
+    "navigation": "Mobile open/close verified; all new local main/USP links resolve to existing index.html files.",
+    "limitations": [
+      "No real iPhone Safari test.",
+      "Official external configurator HEAD unavailable; retained original official destination."
+    ],
+    "sharedAssets": "No shared JS/CSS edited."
+  }
 }

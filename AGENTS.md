@@ -209,3 +209,5 @@
 ## 2026-11-08 新版首頁
 
 首頁依官方即時 /en 的九個區塊與 USP banner 建立繁中版本，先在 /home-preview/ 驗證。官方時間軸 inline script 為此時間軸唯一 owner；home-2026/home.js 僅接管新影片暫停按鈕，既有 snapshot-interactions 仍控制來源與自動播放；RC7 及共用 CSS/JS 保持原樣。新 CSS 限定 data-home-2026 範圍。驗證及正式上線狀態見 docs/homepage-20261108.json，不宣稱真實 Safari 或全站 1:1。
+
+正式首頁現採用已通過預覽檢查的同一份新版內容；1440px 桌面影片播放時間推進與暫停／恢復、時間軸箭頭與鍵盤邊界、390/440px 手機圖片與導覽及 440px 時間軸拖動已實測。/home-preview/ 保留為相同內容的檢查入口。官方外部配置工具保留原連結，連線未驗證成功。
