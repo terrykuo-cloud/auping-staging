@@ -477,14 +477,20 @@
     let lastWidth = 0;
     const width = () => Math.max(1,slides[0].getBoundingClientRect().width);
     const slideDistance = (i) => Math.max(0, slides[i].offsetLeft - slides[0].offsetLeft);
-    const clamp = i => Math.max(0,Math.min(slides.length-1,i));
+    // Only the beds opt-in extends this existing owner to desktop.
+    const allBreakpoints = section.dataset.aupingModelAllBreakpoints === 'true';
+    const desktop = () => allBreakpoints && !mobile.matches;
+    const maxOffset = () => Math.max(0, slides.at(-1).offsetLeft + slides.at(-1).offsetWidth - slides[0].offsetLeft - list.clientWidth);
+    const maxIndex = () => desktop() ? Math.min(slides.length-1, Math.ceil(maxOffset()/Math.max(1,slideDistance(1)))) : slides.length-1;
+    const clamp = i => Math.max(0,Math.min(maxIndex(),i));
     const setOffset = (offset, animate=true) => {
       track.style.setProperty('transition',animate && !matchMedia('(prefers-reduced-motion: reduce)').matches
         ? 'transform 440ms cubic-bezier(.165,.84,.44,1)' : 'none','important');
       // offsetLeft is unaffected by CSS transforms and reflects actual Safari
       // layout (including slide padding, instead of assuming equal widths).
       if (list.scrollLeft) list.scrollLeft=0;
-      track.style.setProperty('transform',`translate3d(${-slideDistance(current)+offset}px,0,0)`,'important');
+      const distance = desktop() ? Math.min(slideDistance(current),maxOffset()) : slideDistance(current);
+      track.style.setProperty('transform',`translate3d(${-distance+offset}px,0,0)`,'important');
     };
     const update = (i, animate=true) => {
       current = clamp(i);
@@ -492,11 +498,12 @@
       setOffset(0,animate);
       slides.forEach((s,n)=>{
         s.classList.toggle('slick-current',n===current);
-        s.classList.toggle('slick-active',n===current);
-        s.setAttribute('aria-hidden',String(n!==current));
+        const visible = desktop() ? slideDistance(n) + s.offsetWidth > Math.min(slideDistance(current),maxOffset()) + 1 && slideDistance(n) < Math.min(slideDistance(current),maxOffset()) + list.clientWidth - 1 : n===current;
+        s.classList.toggle('slick-active',visible);
+        s.setAttribute('aria-hidden',String(!visible));
         if(n===current) s.setAttribute('aria-current','true'); else s.removeAttribute('aria-current');
       });
-      for(const [el,disabled] of [[prev,current===0],[next,current===slides.length-1]]) {
+      for(const [el,disabled] of [[prev,current===0],[next,current===maxIndex()]]) {
         if(!el)continue;
         el.classList.toggle('ModelSlider_hidden__VgAET',disabled);
         el.disabled=disabled;
@@ -541,8 +548,8 @@
     };
     list.addEventListener('touchend',end,{passive:true});
     list.addEventListener('touchcancel',()=>{gesture=null;update(current,true)},{passive:true});
-    window.addEventListener('resize',()=>{if(mobile.matches)update(current,false)},{passive:true});
-    if(mobile.matches)update(current,false);
+    window.addEventListener('resize',()=>{if(mobile.matches || allBreakpoints)update(current,false)},{passive:true});
+    if(mobile.matches || allBreakpoints)update(current,false);
     report.modelSliders.push({section:section.id||'',slides:slides.length,method:'scoped-transform-native-gesture'});
   }
 
@@ -570,8 +577,9 @@
   function boot() {
     try{videoPass()}catch(e){report.errors.push({component:'video',error:String(e)})}
     if (document.body) try{probe()}catch(e){report.errors.push({component:'diagnostics',error:String(e)})}
-    if(!mobile.matches) return;
+    // Preserve every unmarked route's existing mobile-only contract.
     document.querySelectorAll('section[data-section="ModelSlider"]').forEach(section=>{
+      if(!mobile.matches && section.dataset.aupingModelAllBreakpoints !== 'true')return;
       try{setupModelSlider(section)}catch(e){report.errors.push({component:'ModelSlider',error:String(e)})}
     });
   }

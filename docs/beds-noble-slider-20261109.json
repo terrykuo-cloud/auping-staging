@@ -1,0 +1,22 @@
+{
+  "CURRENT_MAIN": "687158fd972320e6748132b19e7c2946d00b3275",
+  "EXISTING_OWNER": "snapshot-interactions.js setupModelSlider is sole controller; boot returns on desktop, leaving arrows inert. Noble already exists as fifth slide.",
+  "TEMPLATE_AND_DATA": "ModelSlider 21341f33-ee7f-4129-88be-2e80991311dd; Auronde, Original, Essential, Noa, Noble. Same source images and links retained.",
+  "AFFECTED_ROUTES": [
+    "/beds/ (explicit all-breakpoints opt-in)"
+  ],
+  "EXISTING_ACCEPTANCE": "Other routes retain mobile-only branch. Shared video/footer functions untouched. No CSS changes.",
+  "OFFICIAL_TRUTH": "https://www.auping.com/en/beds confirms five models and Noble destination; live clone desktop measured list 1280px, five 320px slides, missing owner after right click.",
+  "MINIMAL_PATCH": [
+    "beds/index.html",
+    "assets/snapshot-interactions.js",
+    "AGENTS.md",
+    "docs/beds-noble-slider-20261109.json"
+  ],
+  "REGRESSION_AND_RECEIPT": "Desktop right reveals Noble, left restores start, end clamps with no blank space; keyboard; mobile390/440; Noble destination; beds filter; box-springs existing branch.",
+  "blobs": {
+    "beds/index.html": "35d367f51c4cad0b825135a535df43d47932009a",
+    "assets/snapshot-interactions.js": "48ae51de84f3fcf47ee1597e24f42ec66638c12c",
+    "AGENTS.md": "5018107829069e817f67d7d665e2d303ff408da3"
+  }
+}

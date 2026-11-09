@@ -230,3 +230,8 @@ Kiruna 頁尾追蹤／認證／常見問題文字與麵包屑的輔助閱讀標�
 ## 2026-11-09 Criade 繁體中文內容
 
 僅中文化 /box-springs/criade/ 的布料系列、床頭板與床尾板、床墊支撐、設計引言、頁尾及輔助閱讀標籤。依使用者要求，線上配置器說明改為門市搭配諮詢。標籤比對僅兩個 aria-label 文字不同，其他連結、圖片、CSS、JS 及既有控制器保持。記錄見 docs/criade-translation-20261109.json。
+
+
+## 2026-11-09 床架 Noble 輪播入口
+
+Noble 原本已是 /beds/ ModelSlider 第五項，桌面版因既有 setupModelSlider 僅 mobile boot 而未綁定箭頭。只為 beds 指定區塊加入 data-auping-model-all-breakpoints，沿用原 controller，桌面移動上限依可視寬度計算並更新可見卡片語意；手機原觸控分支保留。未標記路由仍維持原 mobile-only 行為。無新增 click owner、無 CSS／圖片／卡片內容改動；證據與白名單見 docs/beds-noble-slider-20261109.json。
