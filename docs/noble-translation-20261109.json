@@ -1,0 +1,23 @@
+{
+  "CURRENT_MAIN": "e09a9535b5e0f9364774ae8a7c837d634730cfb1",
+  "EXISTING_OWNER": "rc73-page.js, RC7 ReadMore/navigation, rc76 Taiwan store locator; no controller changes.",
+  "TEMPLATE_AND_DATA": "Existing Noble full text paragraphs, headings, quote, award link and footer.",
+  "AFFECTED_ROUTES": [
+    "/beds/noble/"
+  ],
+  "EXISTING_ACCEPTANCE": "Preserve images, layout, all links, configurator removal and /beds/ carousel fix.",
+  "OFFICIAL_TRUTH": "Existing full repository text compared with https://www.auping.com/en/beds/noble on 2026-11-09.",
+  "MINIMAL_PATCH": [
+    "beds/noble/index.html",
+    "AGENTS.md",
+    "docs/noble-translation-20261109.json"
+  ],
+  "REGRESSION_AND_RECEIPT": "Exact markup check except aria-label text; live desktop1440/mobile390/440 text and overflow checks.",
+  "blobs": {
+    "beds/noble/index.html": "60ca6d4bebc4370fac76f5af802fd8c63fb6f2b4",
+    "AGENTS.md": "794ca482c2987505495c63671b9693fa3681906d"
+  },
+  "textNodesTranslated": 21,
+  "verification": "Only text and breadcrumb aria-label changed; all media, links, scripts and styles preserved.",
+  "adaptation": "Configurator text changed to in-store consultation. Historical platform statistics attributed to original article rather than represented as current counts."
+}
