@@ -1,0 +1,23 @@
+{
+  "CURRENT_MAIN": "ed9bd08f6ca51bfc210e9cbc10da20bb93c7f2b3",
+  "EXISTING_OWNER": "rc73-page.js gallery; RC7 ReadMore/navigation; rc76 Taiwan store locator. All controllers unchanged.",
+  "TEMPLATE_AND_DATA": "Existing Criade text nodes in ProductOverviewHeader, TruncatedText, quote, footer and navigation labels.",
+  "AFFECTED_ROUTES": [
+    "/box-springs/criade/"
+  ],
+  "EXISTING_ACCEPTANCE": "Preserve product images, links, layout, configurator removal and existing controls; no global parity claim.",
+  "OFFICIAL_TRUTH": "Existing full repository text compared with https://www.auping.com/en/box-springs/criade on 2026-11-09.",
+  "MINIMAL_PATCH": [
+    "box-springs/criade/index.html",
+    "AGENTS.md",
+    "docs/criade-translation-20261109.json"
+  ],
+  "REGRESSION_AND_RECEIPT": "Compare all markup and media URLs; live desktop 1440 and mobile 390/440 text/overflow checks.",
+  "blobs": {
+    "box-springs/criade/index.html": "af96e494025050595de5168e027ef018b9e2ad96",
+    "AGENTS.md": "1ae1d404b0a4994559f6df5fe3e4cd8456ed59be"
+  },
+  "textNodesTranslated": 17,
+  "verification": "All HTML tags unchanged before translating two aria-label values; scripts, styles, links and media unchanged.",
+  "adaptation": "Online configurator paragraph adapted to in-store consultation per user instruction."
+}
