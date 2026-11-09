@@ -240,3 +240,8 @@ Noble 原本已是 /beds/ ModelSlider 第五項，桌面版因既有 setupModelS
 ## 2026-11-09 Noble 繁體中文內容
 
 僅中文化 /beds/noble/ 的布料、設計師介紹與引言、靠墊、床腳、床邊桌、床頭板、實木永續設計、得獎資訊及頁尾。配置器說明依使用者限制改為門市諮詢，平台數字註明原文資料背景。標籤僅麵包屑 aria-label 文字不同；圖片、連結、腳本與 CSS 保持。未改動 /beds/ 已修復的輪播。記錄見 docs/noble-translation-20261109.json。
+
+
+## 2026-11-10 床墊三項技術介紹彈窗
+
+僅 /mattresses/ 的 RichContentTiles 三個按鈕啟用 mattress-features/modal.js。原靜態快照無彈窗 owner；新增原生 dialog、頁面專用 CSS 與三份繁中內容 template，影片／封面來自官方實際彈窗。影片置於 shadow root，避免 snapshot-interactions 全域自動播放與來源改寫重複控制；共用程式碼完全保留。關閉及 Escape 停止影片、還原焦點與捲動；桌面雙欄、手機單欄。其他頁面、卡片排列、商品連結及循環床墊影片均不修改。範圍與來源見 docs/mattress-features-20261110.json；不宣稱真實 Safari 1:1。

@@ -1,0 +1,35 @@
+{
+  "CURRENT_MAIN": "9bcb6933e32a2ce965c3a1f24232dbb314ddb036",
+  "EXISTING_OWNER": "RichContentTiles has no modal handler. RC7 owns ReadMore_base only; U3 is catalog guard. snapshot-interactions globally manages light-DOM video; new modal video is isolated in a shadow root so existing media owners remain unchanged.",
+  "TEMPLATE_AND_DATA": "997b15b1-f2e2-4324-a2de-81c400c23ed8, only RichContentTiles route in current repo; three official modal sources captured by browser.",
+  "AFFECTED_ROUTES": [
+    "/mattresses/"
+  ],
+  "EXISTING_ACCEPTANCE": "Keep cards, catalog, circular video, all other routes and shared scripts byte-identical.",
+  "OFFICIAL_TRUTH": [
+    {
+      "text": "World's Best Ventilating Mattress\n\nAuping mattresses ventilate better than any other mattress. The unique Night Air Technology® combines a fully open mattress structure with a breathable Vent‑tex® comfort layer. \n\nThis allows air to circulate freely throughout the mattress, while heat and moisture are quickly expelled. The result? Your body stays at the perfect temperature, helping you sleep deeper, cooler, and fresher.",
+      "src": "https://api.auping.com/sites/default/files/2026-11/Ventex_426x494_2.mp4#t=0.1"
+    },
+    {
+      "text": "The Right Support\n\nHundreds of dynamic pocket springs move independently and adapt precisely to your body. They provide extra support for your shoulders, hips, and lower back.\n\nWhether you sleep on your side, back, or stomach, your spine stays in a natural, relaxed alignment. This ensures you wake up every morning feeling rested and full of energy.",
+      "src": "https://api.auping.com/sites/default/files/2025-12/Auping%20-%20Pocketsprings%20-%20V4%20-%20426x494.mp4#t=0.1"
+    },
+    {
+      "text": "Sustainable Quality\n\nEvery mattress is crafted with care and attention in Deventer. Modern technology and high-quality, designed for circularity come together in a mattress that embodies true craftsmanship.\n\nAs the world’s first mattress fully designed for circularity, it promises a future without waste: every component can be reused. With this mattress, you not only sleep well, but also contribute directly to a cleaner, more sustainable world.",
+      "src": "https://api.auping.com/sites/default/files/2025-07/duurzame_kwaliteit_video1.mp4#t=0.1"
+    }
+  ],
+  "MINIMAL_PATCH": [
+    "mattresses/index.html",
+    "assets/mattress-features/modal.js",
+    "assets/mattress-features/modal.css",
+    "AGENTS.md",
+    "docs/mattress-features-20261110.json"
+  ],
+  "REGRESSION_AND_RECEIPT": "Check all three dialogs and playback progression, close/Escape/focus return, desktop1440 and mobile390/440; verify source diff scope. Real iPhone Safari not claimed.",
+  "blobs": {
+    "mattresses/index.html": "b283b7ab438a91d98a5b55305411706ca251cbb5",
+    "AGENTS.md": "4d302f5864073363848b07e97b6ba37227271e70"
+  }
+}
