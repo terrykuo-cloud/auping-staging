@@ -2954,7 +2954,7 @@
     },
     {
       "pageId": "toppers",
-      "title": "床墊舒適層",
+      "title": "薄墊",
       "localPath": "/toppers/",
       "file": "toppers/index.html",
       "mode": "LOCAL_PARITY",
@@ -2981,7 +2981,7 @@
     },
     {
       "pageId": "toppers--comfort-mattress-topper",
-      "title": "Comfort 床墊舒適層",
+      "title": "Comfort 薄墊",
       "localPath": "/toppers/comfort-mattress-topper/",
       "file": "toppers/comfort-mattress-topper/index.html",
       "mode": "LOCAL_PARITY",
@@ -3008,7 +3008,7 @@
     },
     {
       "pageId": "toppers--comfort-split-mattress-topper",
-      "title": "Comfort 分離式 床墊舒適層",
+      "title": "Comfort 分離式 薄墊",
       "localPath": "/toppers/comfort-split-mattress-topper/",
       "file": "toppers/comfort-split-mattress-topper/index.html",
       "mode": "LOCAL_PARITY",
@@ -3041,7 +3041,7 @@
     },
     {
       "pageId": "toppers--deluxe-mattress-topper",
-      "title": "Deluxe 床墊舒適層",
+      "title": "Deluxe 薄墊",
       "localPath": "/toppers/deluxe-mattress-topper/",
       "file": "toppers/deluxe-mattress-topper/index.html",
       "mode": "LOCAL_PARITY",
@@ -3068,7 +3068,7 @@
     },
     {
       "pageId": "toppers--deluxe-split-mattress-topper",
-      "title": "Deluxe 分離式 床墊舒適層",
+      "title": "Deluxe 分離式 薄墊",
       "localPath": "/toppers/deluxe-split-mattress-topper/",
       "file": "toppers/deluxe-split-mattress-topper/index.html",
       "mode": "LOCAL_PARITY",
@@ -3099,7 +3099,7 @@
     },
     {
       "pageId": "toppers--prestige-mattress-topper",
-      "title": "Prestige 床墊舒適層",
+      "title": "Prestige 薄墊",
       "localPath": "/toppers/prestige-mattress-topper/",
       "file": "toppers/prestige-mattress-topper/index.html",
       "mode": "LOCAL_PARITY",
@@ -3132,7 +3132,7 @@
     },
     {
       "pageId": "toppers--prestige-split-mattress-topper",
-      "title": "Prestige 分離式 床墊舒適層",
+      "title": "Prestige 分離式 薄墊",
       "localPath": "/toppers/prestige-split-mattress-topper/",
       "file": "toppers/prestige-split-mattress-topper/index.html",
       "mode": "LOCAL_PARITY",

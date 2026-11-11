@@ -720,7 +720,7 @@
         },
         {
           "key": "split",
-          "label": "分離式床墊舒適層",
+          "label": "分離式薄墊",
           "queryKey": "split",
           "operator": "OR",
           "values": [

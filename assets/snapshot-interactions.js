@@ -12,7 +12,7 @@
 
   const links = [
     ['Box Springs 床組', '/box-springs/'], ['床架', '/beds/'], ['床墊', '/mattresses/'],
-    ['床墊舒適層', '/toppers/'], ['床底', '/bed-bases/'], ['枕頭', '/pillows/'],
+    ['薄墊', '/toppers/'], ['床底', '/bed-bases/'], ['枕頭', '/pillows/'],
     ['寢具', '/bed-linen/'], ['尋找門市', 'https://www.auping.com/en/store-locator'],
     ['關於 Auping', '/about-auping/'], ['客戶服務', '/customer-service/']
   ];
@@ -249,9 +249,9 @@
     ['Nightstands', '床邊桌'],
     ['Bed lights', '床燈'],
     ['Decorative pillows', '裝飾抱枕'],
-    ['Comfort mattress topper', 'Comfort 床墊舒適層'],
-    ['Deluxe mattress topper', 'Deluxe 床墊舒適層'],
-    ['Prestige mattress topper', 'Prestige 床墊舒適層'],
+    ['Comfort mattress topper', 'Comfort 薄墊'],
+    ['Deluxe mattress topper', 'Deluxe 薄墊'],
+    ['Prestige mattress topper', 'Prestige 薄墊'],
     ['Somnox sleep robot', 'Somnox 睡眠機器人'],
     ['Auping connect', 'Auping Connect'],
   ]);

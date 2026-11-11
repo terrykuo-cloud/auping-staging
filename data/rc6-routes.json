@@ -891,49 +891,49 @@
     },
     {
       "id": "toppers",
-      "title": "床墊舒適層",
+      "title": "薄墊",
       "localPath": "/toppers/",
       "mode": "LOCAL_PARITY",
       "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"
     },
     {
       "id": "toppers--comfort-mattress-topper",
-      "title": "Comfort 床墊舒適層",
+      "title": "Comfort 薄墊",
       "localPath": "/toppers/comfort-mattress-topper/",
       "mode": "LOCAL_PARITY",
       "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"
     },
     {
       "id": "toppers--comfort-split-mattress-topper",
-      "title": "Comfort 分離式 床墊舒適層",
+      "title": "Comfort 分離式 薄墊",
       "localPath": "/toppers/comfort-split-mattress-topper/",
       "mode": "LOCAL_PARITY",
       "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"
     },
     {
       "id": "toppers--deluxe-mattress-topper",
-      "title": "Deluxe 床墊舒適層",
+      "title": "Deluxe 薄墊",
       "localPath": "/toppers/deluxe-mattress-topper/",
       "mode": "LOCAL_PARITY",
       "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"
     },
     {
       "id": "toppers--deluxe-split-mattress-topper",
-      "title": "Deluxe 分離式 床墊舒適層",
+      "title": "Deluxe 分離式 薄墊",
       "localPath": "/toppers/deluxe-split-mattress-topper/",
       "mode": "LOCAL_PARITY",
       "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"
     },
     {
       "id": "toppers--prestige-mattress-topper",
-      "title": "Prestige 床墊舒適層",
+      "title": "Prestige 薄墊",
       "localPath": "/toppers/prestige-mattress-topper/",
       "mode": "LOCAL_PARITY",
       "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"
     },
     {
       "id": "toppers--prestige-split-mattress-topper",
-      "title": "Prestige 分離式 床墊舒適層",
+      "title": "Prestige 分離式 薄墊",
       "localPath": "/toppers/prestige-split-mattress-topper/",
       "mode": "LOCAL_PARITY",
       "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"

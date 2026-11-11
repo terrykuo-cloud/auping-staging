@@ -294,3 +294,8 @@ Noble 原本已是 /beds/ ModelSlider 第五項，桌面版因既有 setupModelS
 ## 2026-11-11 原廠新版寢具總覽
 
 僅 /bed-linen/ main 依官方 /en/bedding 更新並中文化，保留四個分類目的地。Cloud 替換官方 Dew 枕頭情境圖；移除保潔墊宣傳，保留床包照片。門市沿用台灣資料。新增 CSS 僅 data-bedding-2026 範圍；四個影片以 shadow root 隔離現有全域媒體腳本，page.js 僅控制本頁播放／暫停。其他頁面與共用 JS/CSS 不變。詳見 docs/bedding-refresh-20261111.json。
+
+
+## 2026-11-11 薄墊新版總覽與名稱統一
+
+/toppers/ 與 /mattress-toppers/ 兩個總覽入口依原廠即時新版 main 中文化，三款介紹卡與分割式、材質、保養資訊更新；保留六款本地商品入口與台灣門市。僅兩總覽移除舊 U4D/U4B 篩選載入。全站既有名稱統一改為薄墊，其他頁面僅原名稱文字替換及對應腳本快取版本更新，無功能或媒體改動。新增 CSS 限 data-toppers-2026，無新事件 owner。詳見 docs/toppers-refresh-20261111.json。

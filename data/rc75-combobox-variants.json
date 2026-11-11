@@ -348,7 +348,7 @@
     },
     "toppers--comfort-split-mattress-topper": {
       "localPath": "/toppers/comfort-split-mattress-topper/",
-      "title": "Comfort 分離式 床墊舒適層",
+      "title": "Comfort 分離式 薄墊",
       "controls": [
         {
           "key": "size",
@@ -400,7 +400,7 @@
     },
     "toppers--deluxe-split-mattress-topper": {
       "localPath": "/toppers/deluxe-split-mattress-topper/",
-      "title": "Deluxe 分離式 床墊舒適層",
+      "title": "Deluxe 分離式 薄墊",
       "controls": [
         {
           "key": "size",
@@ -452,7 +452,7 @@
     },
     "toppers--prestige-mattress-topper": {
       "localPath": "/toppers/prestige-mattress-topper/",
-      "title": "Prestige 床墊舒適層",
+      "title": "Prestige 薄墊",
       "controls": [
         {
           "key": "size",
@@ -564,7 +564,7 @@
     },
     "toppers--prestige-split-mattress-topper": {
       "localPath": "/toppers/prestige-split-mattress-topper/",
-      "title": "Prestige 分離式 床墊舒適層",
+      "title": "Prestige 分離式 薄墊",
       "controls": [
         {
           "key": "size",
@@ -1090,7 +1090,7 @@
     },
     "toppers--comfort-mattress-topper": {
       "localPath": "/toppers/comfort-mattress-topper/",
-      "title": "Comfort 床墊舒適層",
+      "title": "Comfort 薄墊",
       "controls": [
         {
           "key": "width",
@@ -1160,7 +1160,7 @@
     },
     "toppers--deluxe-mattress-topper": {
       "localPath": "/toppers/deluxe-mattress-topper/",
-      "title": "Deluxe 床墊舒適層",
+      "title": "Deluxe 薄墊",
       "controls": [
         {
           "key": "width",
