@@ -1,0 +1,121 @@
+{
+  "CURRENT_MAIN": "8fdabe9cbf05dae8749f08fef35b89ba5b810658",
+  "EXISTING_OWNER": "RC7 navigation/readmore; RC75 native size selectors; existing specifications-v1 opt-in; snapshot media owner. No shared runtime edits. Two videos use native controls in declarative shadow roots; scoped USP native scroll-snap replaces unhydrated source Slick markup.",
+  "TEMPLATE_AND_DATA": "Latest official five main DOMs, stylesheet components and media; landing replaces filtered catalog with official feature cards. Native product links retained.",
+  "AFFECTED_ROUTES": [
+    "bed-bases/electrically-adjustable-bed-base-1m/index.html",
+    "bed-bases/electrically-adjustable-bed-base-2m/index.html",
+    "bed-bases/electrically-adjustable-bed-base-3M/index.html",
+    "bed-bases/flat-bed-base/index.html",
+    "bed-bases/index.html"
+  ],
+  "EXISTING_ACCEPTANCE": "Preserve Taiwan navigation, pillow grouping, unavailable product exclusions, configurator removal, Taiwan store locator and other pages.",
+  "OFFICIAL_TRUTH": [
+    {
+      "url": "https://www.auping.com/en/bed-bases/electrically-adjustable-bed-base-1m",
+      "sections": [
+        "ProductHeader",
+        "ProductGeneralInfo",
+        "TruncatedText",
+        "ProductSpecifications"
+      ]
+    },
+    {
+      "url": "https://www.auping.com/en/bed-bases/electrically-adjustable-bed-base-2m",
+      "sections": [
+        "ProductHeader",
+        "ProductGeneralInfo",
+        "TruncatedText",
+        "ProductSpecifications"
+      ]
+    },
+    {
+      "url": "https://www.auping.com/en/bed-bases/electrically-adjustable-bed-base-3M",
+      "sections": [
+        "ProductHeader",
+        "ProductGeneralInfo",
+        "TruncatedText",
+        "TruncatedText",
+        "ProductSpecifications"
+      ]
+    },
+    {
+      "url": "https://www.auping.com/en/bed-bases/flat-bed-base",
+      "sections": [
+        "ProductHeader",
+        "ProductGeneralInfo",
+        "TruncatedText",
+        "ProductSpecifications"
+      ]
+    },
+    {
+      "url": "https://www.auping.com/en/bed-bases",
+      "sections": [
+        "CtaHeader",
+        "TruncatedText",
+        "UspContentBlock",
+        "TruncatedText",
+        "VideoPlayer",
+        "TruncatedText",
+        "TwoColumn",
+        "TruncatedText",
+        "TwoColumn",
+        "TwoColumn",
+        "StoreLocator"
+      ]
+    }
+  ],
+  "MINIMAL_PATCH": [
+    "bed-bases/electrically-adjustable-bed-base-1m/index.html",
+    "bed-bases/electrically-adjustable-bed-base-2m/index.html",
+    "bed-bases/electrically-adjustable-bed-base-3M/index.html",
+    "bed-bases/flat-bed-base/index.html",
+    "bed-bases/index.html",
+    "assets/bed-bases-2026/page.css",
+    "AGENTS.md",
+    "docs/bed-bases-refresh-20261111.json"
+  ],
+  "REGRESSION_AND_RECEIPT": "Desktop1440 and mobile390/440; four local card links; size selectors, spec/readmore expansions, all images, video playback; no manual-product/configurator entrances.",
+  "exceptions": [
+    "Manual product omitted; 1M manual foot adjustment retained as legitimate feature.",
+    "3M incorrectly labeled manual in official Type cell: corrected to 3-motor electric per official heading and operation.",
+    "Official size-range discrepancy retained: catalog up to200cm; electric detail individual width up to140cm.",
+    "Taiwan existing store locator retained; no official configurator."
+  ],
+  "blobs": {
+    "bed-bases/electrically-adjustable-bed-base-1m/index.html": "eade44d53bb9770e40ef1f4783ef9017762d43c2",
+    "bed-bases/electrically-adjustable-bed-base-2m/index.html": "f56a07b207dfb26d45c55d783bea26e5bc773189",
+    "bed-bases/electrically-adjustable-bed-base-3M/index.html": "9a67680fd001ce369706f46cdc732a012d2ffabc",
+    "bed-bases/flat-bed-base/index.html": "503eb411be6b4890e030bce14c109df2446fe896",
+    "bed-bases/index.html": "11ca246afb75759f3319b38ead3dd2fcce9b6575",
+    "AGENTS.md": "8b719d431365cb76c5610166beb7a2ab3c432304"
+  },
+  "previewRoutes": [
+    "/bed-bases-preview/",
+    "/bed-bases-preview/flat-bed-base/",
+    "/bed-bases-preview/electrically-adjustable-bed-base-1m/",
+    "/bed-bases-preview/electrically-adjustable-bed-base-2m/",
+    "/bed-bases-preview/electrically-adjustable-bed-base-3M/"
+  ],
+  "verification": {
+    "mediaUrls": 43,
+    "mediaHttpAll200": true,
+    "fourLocalCards": true,
+    "detailsSizeSelectsReady": 4,
+    "specificationRows": [
+      9,
+      11,
+      13,
+      14
+    ],
+    "readMoreHeightBefore": 142,
+    "readMoreHeightAfter": 284,
+    "videoTimeAdvanced": [
+      6.65,
+      15.32
+    ],
+    "desktop1440": true,
+    "mobile390": true,
+    "actualSafari": false
+  }
+}

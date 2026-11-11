@@ -12,3 +12,5 @@
 [data-bed-bases-2026]{font-family:Roboto,"Microsoft JhengHei",Arial,sans-serif;--font-roboto:Roboto,"Microsoft JhengHei",sans-serif;--font-roboto-slab:Roboto,"Microsoft JhengHei",sans-serif;}
 [data-bed-bases-2026] #auping-bed-bases .base-link{display:inline-block;margin-top:20px;color:#31569b;text-decoration:underline;}
 [data-bed-bases-2026] video{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:contain;}
+
+[data-bed-bases-2026] .base-usp-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:24px;overscroll-behavior-x:contain;}[data-bed-bases-2026] .base-usp-track>div{flex:1 0 0;scroll-snap-align:center;}@media(max-width:767px){[data-bed-bases-2026] .base-usp-track>div{flex:0 0 100%;}[data-bed-bases-2026] .base-usp-track{gap:0;padding-bottom:16px;}}
