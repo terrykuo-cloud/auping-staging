@@ -1619,39 +1619,6 @@
       ]
     },
     {
-      "title": "保潔墊",
-      "summary": "Auping 保潔墊分類官方深層頁的繁體中文本地版本。",
-      "routeId": "bed-linen-mattress-protectors",
-      "mode": "LOCAL_PARITY",
-      "keywords": [
-        "保潔墊",
-        "Mattress protectors",
-        "寢具"
-      ]
-    },
-    {
-      "title": "床罩",
-      "summary": "Auping 床罩分類官方深層頁的繁體中文本地版本。",
-      "routeId": "bed-linen-bedspreads",
-      "mode": "LOCAL_PARITY",
-      "keywords": [
-        "床罩",
-        "Bedspreads",
-        "寢具"
-      ]
-    },
-    {
-      "title": "枕套",
-      "summary": "Auping 枕套分類官方深層頁的繁體中文本地版本。",
-      "routeId": "bed-linen-pillowcases",
-      "mode": "LOCAL_PARITY",
-      "keywords": [
-        "枕套",
-        "Pillowcases",
-        "寢具"
-      ]
-    },
-    {
       "title": "永續理念",
       "summary": "Auping 永續理念官方頁面的繁體中文本地版本。",
       "routeId": "about-sustainability",

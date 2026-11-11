@@ -1238,25 +1238,28 @@
       "id": "bed-linen-mattress-protectors",
       "title": "保潔墊",
       "localPath": "/bed-linen/mattress-protectors/",
-      "mode": "LOCAL_PARITY",
+      "mode": "LOCAL_ALIAS",
       "officialUrl": "https://www.auping.com/en/bed-linen/mattress-protectors",
-      "reason": "RC7.3：由使用者本機採集的官方 MHTML／DOM／截圖重建本地繁中深層頁。"
+      "reason": "此寢具系列未於台灣供應。",
+      "targetPath": "/bed-linen/"
     },
     {
       "id": "bed-linen-bedspreads",
       "title": "床罩",
       "localPath": "/bed-linen/bedspreads/",
-      "mode": "LOCAL_PARITY",
+      "mode": "LOCAL_ALIAS",
       "officialUrl": "https://www.auping.com/en/bed-linen/bedspreads",
-      "reason": "RC7.3：由使用者本機採集的官方 MHTML／DOM／截圖重建本地繁中深層頁。"
+      "reason": "此寢具系列未於台灣供應。",
+      "targetPath": "/bed-linen/"
     },
     {
       "id": "bed-linen-pillowcases",
       "title": "枕套",
       "localPath": "/bed-linen/pillowcases/",
-      "mode": "LOCAL_PARITY",
+      "mode": "LOCAL_ALIAS",
       "officialUrl": "https://www.auping.com/en/bed-linen/pillowcases",
-      "reason": "RC7.3：由使用者本機採集的官方 MHTML／DOM／截圖重建本地繁中深層頁。"
+      "reason": "此寢具系列未於台灣供應。",
+      "targetPath": "/bed-linen/"
     },
     {
       "id": "about-sustainability",
@@ -1406,36 +1409,41 @@
       "id": "bed-linen--mattress-protectors--molton-mattress-protector",
       "title": "Molton 床墊保潔墊",
       "localPath": "/bed-linen/mattress-protectors/molton-mattress-protector/",
-      "mode": "LOCAL_EXISTING",
-      "reason": "RC7.5 Phase 03：由已擷取分類商品卡、資產與正式商品頁 DOM materialize 的本地深層頁。"
+      "mode": "LOCAL_ALIAS",
+      "reason": "此寢具系列未於台灣供應。",
+      "targetPath": "/bed-linen/"
     },
     {
       "id": "bed-linen--mattress-protectors--molton-pillow-case",
       "title": "Molton 枕頭保潔套",
       "localPath": "/bed-linen/mattress-protectors/molton-pillow-case/",
-      "mode": "LOCAL_EXISTING",
-      "reason": "RC7.5 Phase 03：由已擷取分類商品卡、資產與正式商品頁 DOM materialize 的本地深層頁。"
+      "mode": "LOCAL_ALIAS",
+      "reason": "此寢具系列未於台灣供應。",
+      "targetPath": "/bed-linen/"
     },
     {
       "id": "bed-linen--mattress-protectors--molton-top-mattress-protector",
       "title": "上層床墊保潔墊",
       "localPath": "/bed-linen/mattress-protectors/molton-top-mattress-protector/",
-      "mode": "LOCAL_EXISTING",
-      "reason": "RC7.5 Phase 03：由已擷取分類商品卡、資產與正式商品頁 DOM materialize 的本地深層頁。"
+      "mode": "LOCAL_ALIAS",
+      "reason": "此寢具系列未於台灣供應。",
+      "targetPath": "/bed-linen/"
     },
     {
       "id": "bed-linen--mattress-protectors--molton-split-top-mattress-protector",
       "title": "上層床墊保潔墊",
       "localPath": "/bed-linen/mattress-protectors/molton-split-top-mattress-protector/",
-      "mode": "LOCAL_EXISTING",
-      "reason": "RC7.5 Phase 03：由已擷取分類商品卡、資產與正式商品頁 DOM materialize 的本地深層頁。"
+      "mode": "LOCAL_ALIAS",
+      "reason": "此寢具系列未於台灣供應。",
+      "targetPath": "/bed-linen/"
     },
     {
       "id": "bed-linen--bedspreads--dejavu-grey-bedspread",
       "title": "Déjàvu 灰色床罩",
       "localPath": "/bed-linen/bedspreads/dejavu-grey-bedspread/",
-      "mode": "LOCAL_EXISTING",
-      "reason": "RC7.5 Phase 03：由已擷取分類商品卡、資產與正式商品頁 DOM materialize 的本地深層頁。"
+      "mode": "LOCAL_ALIAS",
+      "reason": "此寢具系列未於台灣供應。",
+      "targetPath": "/bed-linen/"
     },
     {
       "id": "store-taipei-asehome",

@@ -284,3 +284,8 @@ Noble 原本已是 /beds/ ModelSlider 第五項，桌面版因既有 setupModelS
 ## 2026-11-11 台灣枕頭僅保留 Cloud
 
 移除 Nest/Dew 枕頭導覽、目錄、相關推薦及搜尋入口；舊網址導回枕頭目錄。U4D/U4B 枕頭會員及篩選選項縮至 Cloud。Nest/Dew 棉被完全保留；歷史文章僅取消停售枕頭連結。無共用 JS/CSS 修改，無新增事件 owner。其他頁面 main 逐字比對不變（兩個相關推薦及兩篇歷史文章除外）。詳見 docs/pillows-assortment-20261111.json。
+
+
+## 2026-11-11 移除台灣未引進的寢具分類
+
+移除保潔墊、枕套、床罩的導覽及寢具分類卡，相關分類與商品舊網址導回寢具總覽；同步移除搜尋、商品資料與分類篩選資料。其他頁面 main 逐字不變，寢具新舊總覽僅移除目標卡片。被套、棉被、床包與 Cloud 枕頭保持。共用 JS/CSS 及事件 owner 完全不變。詳見 docs/bedding-assortment-20261111.json。
