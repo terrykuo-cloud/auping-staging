@@ -4,12 +4,12 @@
   "sourceCommit": "bcf1bc9b4b498fba2953f9878b77d771108e7a9e",
   "sourceRoutesSchema": "AUPING-RC7.2-ROUTES-V3",
   "basePath": "/auping-staging",
-  "routeCount": 139,
+  "routeCount": 137,
   "pageTypeCounts": {
     "home": 1,
     "editorial": 7,
     "listing": 21,
-    "product": 109,
+    "product": 107,
     "bridge": 1
   },
   "rules": {
@@ -1151,68 +1151,6 @@
         "languageInputCount": 2,
         "comboboxKeys": [
           "height"
-        ],
-        "staleRedirectTitle": false
-      },
-      "auditIssueCodes": []
-    },
-    {
-      "pageId": "bed-linen--pillows--dew-pillow",
-      "title": "Auping Dew",
-      "localPath": "/bed-linen/pillows/dew-pillow/",
-      "file": "bed-linen/pillows/dew-pillow/index.html",
-      "mode": "LOCAL_PARITY",
-      "pageType": "product",
-      "slug": "dew-pillow",
-      "selectors": {
-        "page": "html[data-auping-page-id=\"bed-linen--pillows--dew-pillow\"]",
-        "language": [
-          "#react-select-languageSwitchHeader-input",
-          "#react-select-languageSwitchFooter-input",
-          "[data-auping-language-control=\"fixed\"]"
-        ],
-        "combobox": [
-          "[data-auping-combobox=\"size\"]"
-        ],
-        "productCard": "[data-auping-product-slug=\"dew-pillow\"]"
-      },
-      "baseline": {
-        "bytes": 204246,
-        "h1Count": 1,
-        "languageInputCount": 2,
-        "comboboxKeys": [
-          "size"
-        ],
-        "staleRedirectTitle": false
-      },
-      "auditIssueCodes": []
-    },
-    {
-      "pageId": "bed-linen--pillows--nest-pillow",
-      "title": "Auping Nest",
-      "localPath": "/bed-linen/pillows/nest-pillow/",
-      "file": "bed-linen/pillows/nest-pillow/index.html",
-      "mode": "LOCAL_PARITY",
-      "pageType": "product",
-      "slug": "nest-pillow",
-      "selectors": {
-        "page": "html[data-auping-page-id=\"bed-linen--pillows--nest-pillow\"]",
-        "language": [
-          "#react-select-languageSwitchHeader-input",
-          "#react-select-languageSwitchFooter-input",
-          "[data-auping-language-control=\"fixed\"]"
-        ],
-        "combobox": [
-          "[data-auping-combobox=\"size\"]"
-        ],
-        "productCard": "[data-auping-product-slug=\"nest-pillow\"]"
-      },
-      "baseline": {
-        "bytes": 195793,
-        "h1Count": 1,
-        "languageInputCount": 2,
-        "comboboxKeys": [
-          "size"
         ],
         "staleRedirectTitle": false
       },

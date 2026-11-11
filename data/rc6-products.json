@@ -2064,50 +2064,6 @@
       "routeMode": "LOCAL_PARITY"
     },
     {
-      "routeId": "bed-linen--pillows--dew-pillow",
-      "localPath": "/bed-linen/pillows/dew-pillow/",
-      "category": "pillows",
-      "title": "Auping Dew",
-      "isProduct": true,
-      "isPromo": false,
-      "filterable": true,
-      "attributes": {
-        "size": [
-          "40 x 60 cm",
-          "60 x 70 cm"
-        ],
-        "filling": [
-          "聚酯纖維"
-        ],
-        "ergonomic": [
-          "否"
-        ]
-      },
-      "routeMode": "LOCAL_PARITY"
-    },
-    {
-      "routeId": "bed-linen--pillows--nest-pillow",
-      "localPath": "/bed-linen/pillows/nest-pillow/",
-      "category": "pillows",
-      "title": "Auping Nest",
-      "isProduct": true,
-      "isPromo": false,
-      "filterable": true,
-      "attributes": {
-        "size": [
-          "40 x 60 cm",
-          "60 x 70 cm"
-        ],
-        "filling": [
-          "羽絨"
-        ],
-        "ergonomic": [
-          "否"
-        ]
-      },
-      "routeMode": "LOCAL_PARITY"
-    },
-    {
       "routeId": "toppers--comfort-mattress-topper",
       "localPath": "/toppers/comfort-mattress-topper/",
       "category": "toppers",

@@ -1083,40 +1083,6 @@
       ]
     },
     {
-      "title": "Auping Nest",
-      "summary": "這款 Auping 枕頭著重睡姿支撐與舒適度，可依個人習慣、肩頸需求與偏好選擇。",
-      "routeId": "bed-linen--pillows--nest-pillow",
-      "mode": "LOCAL_PARITY",
-      "keywords": [
-        "bed",
-        "box spring",
-        "pillow",
-        "床",
-        "床墊",
-        "床架",
-        "床組",
-        "枕頭",
-        "睡眠支撐"
-      ]
-    },
-    {
-      "title": "Auping Dew",
-      "summary": "這款 Auping 枕頭著重睡姿支撐與舒適度，可依個人習慣、肩頸需求與偏好選擇。",
-      "routeId": "bed-linen--pillows--dew-pillow",
-      "mode": "LOCAL_PARITY",
-      "keywords": [
-        "bed",
-        "box spring",
-        "pillow",
-        "床",
-        "床墊",
-        "床架",
-        "床組",
-        "枕頭",
-        "睡眠支撐"
-      ]
-    },
-    {
       "title": "蜿蜒藍 被套",
       "summary": "這款 Auping 被套以舒適布料與設計圖樣完成臥室氛圍。實際材質、尺寸、洗滌方式與系列資訊請參考商品規格。",
       "routeId": "bed-linen--duvet-covers--meandering-blue-duvet-cover",

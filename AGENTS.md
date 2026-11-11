@@ -279,3 +279,8 @@ Noble 原本已是 /beds/ ModelSlider 第五項，桌面版因既有 setupModelS
 總覽兩支新影片使用原生 video controls 與宣告式 shadow root，隔離既有全域影片自動播放；不新增事件控制器。
 
 新版 UspContentBlock 原廠 React/Slick 在靜態副本沒有事件 owner；僅該總覽以原生 overflow/scroll-snap 顯示三項，保留原圖與文字，手機支援左右滑動及鍵盤，不新增 JS 控制器。
+
+
+## 2026-11-11 台灣枕頭僅保留 Cloud
+
+移除 Nest/Dew 枕頭導覽、目錄、相關推薦及搜尋入口；舊網址導回枕頭目錄。U4D/U4B 枕頭會員及篩選選項縮至 Cloud。Nest/Dew 棉被完全保留；歷史文章僅取消停售枕頭連結。無共用 JS/CSS 修改，無新增事件 owner。其他頁面 main 逐字比對不變（兩個相關推薦及兩篇歷史文章除外）。詳見 docs/pillows-assortment-20261111.json。

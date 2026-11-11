@@ -346,54 +346,6 @@
         }
       ]
     },
-    "bed-linen--pillows--dew-pillow": {
-      "localPath": "/bed-linen/pillows/dew-pillow/",
-      "title": "Auping Dew",
-      "controls": [
-        {
-          "key": "size",
-          "label": "尺寸",
-          "mode": "react-overlay",
-          "inputId": "react-select-Size-input",
-          "queryParam": "size",
-          "defaultValue": "40 x 60 cm",
-          "options": [
-            {
-              "value": "40 x 60 cm",
-              "label": "40 x 60 cm"
-            },
-            {
-              "value": "60 x 70 cm",
-              "label": "60 x 70 cm"
-            }
-          ]
-        }
-      ]
-    },
-    "bed-linen--pillows--nest-pillow": {
-      "localPath": "/bed-linen/pillows/nest-pillow/",
-      "title": "Auping Nest",
-      "controls": [
-        {
-          "key": "size",
-          "label": "尺寸",
-          "mode": "react-overlay",
-          "inputId": "react-select-Size-input",
-          "queryParam": "size",
-          "defaultValue": "40 x 60 cm",
-          "options": [
-            {
-              "value": "40 x 60 cm",
-              "label": "40 x 60 cm"
-            },
-            {
-              "value": "60 x 70 cm",
-              "label": "60 x 70 cm"
-            }
-          ]
-        }
-      ]
-    },
     "toppers--comfort-split-mattress-topper": {
       "localPath": "/toppers/comfort-split-mattress-topper/",
       "title": "Comfort 分離式 床墊舒適層",

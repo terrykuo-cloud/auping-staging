@@ -1192,18 +1192,6 @@
           "path": "/en/bed-linen/pillows/auping-cloud",
           "title": "Auping Cloud",
           "noDetailLink": false
-        },
-        {
-          "index": 1,
-          "path": "/en/bed-linen/pillows/nest-pillow",
-          "title": "Auping Nest",
-          "noDetailLink": false
-        },
-        {
-          "index": 2,
-          "path": "/en/bed-linen/pillows/dew-pillow",
-          "title": "Auping Dew",
-          "noDetailLink": false
         }
       ],
       "options": [
@@ -1212,28 +1200,7 @@
           "id": "6244",
           "label": "40 x 60 cm",
           "memberIndexes": [
-            0,
-            1,
-            2
-          ],
-          "proof": "PROVEN_FROM_EXISTING_CAPTURE"
-        },
-        {
-          "facet": "pillow_size",
-          "id": "6245",
-          "label": "60 x 60 cm",
-          "memberIndexes": [
-            1
-          ],
-          "proof": "PROVEN_FROM_EXISTING_CAPTURE"
-        },
-        {
-          "facet": "pillow_size",
-          "id": "6246",
-          "label": "60 x 70 cm",
-          "memberIndexes": [
-            1,
-            2
+            0
           ],
           "proof": "PROVEN_FROM_EXISTING_CAPTURE"
         },
@@ -1247,34 +1214,6 @@
           "proof": "PROVEN_FROM_EXISTING_CAPTURE"
         },
         {
-          "facet": "pillow_filling",
-          "id": "6293",
-          "label": "Recycled down",
-          "memberIndexes": [
-            1
-          ],
-          "proof": "PROVEN_FROM_EXISTING_CAPTURE"
-        },
-        {
-          "facet": "pillow_filling",
-          "id": "6294",
-          "label": "Recycled polyester",
-          "memberIndexes": [
-            2
-          ],
-          "proof": "PROVEN_FROM_EXISTING_CAPTURE"
-        },
-        {
-          "facet": "pillow_ergonomically_shaped",
-          "id": "6297",
-          "label": "No",
-          "memberIndexes": [
-            1,
-            2
-          ],
-          "proof": "PROVEN_FROM_EXISTING_CAPTURE"
-        },
-        {
           "facet": "pillow_ergonomically_shaped",
           "id": "6296",
           "label": "Yes",
@@ -1284,8 +1223,9 @@
           "proof": "PROVEN_FROM_EXISTING_CAPTURE"
         }
       ],
-      "expectedCards": 3,
-      "expectedOptions": 8
+      "expectedCards": 1,
+      "expectedOptions": 3,
+      "localAssortmentOverride": "Taiwan: Cloud pillow only; Nest/Dew pillows excluded. Duvets unchanged."
     },
     "/bed-linen/duvets/": {
       "officialURL": "https://www.auping.com/en/bed-linen/duvets",

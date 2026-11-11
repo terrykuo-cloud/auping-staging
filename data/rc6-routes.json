@@ -267,15 +267,17 @@
       "id": "bed-linen--pillows--dew-pillow",
       "title": "Auping Dew",
       "localPath": "/bed-linen/pillows/dew-pillow/",
-      "mode": "LOCAL_PARITY",
-      "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"
+      "mode": "LOCAL_ALIAS",
+      "reason": "此枕頭系列未於台灣供應。",
+      "targetPath": "/bed-linen/pillows/"
     },
     {
       "id": "bed-linen--pillows--nest-pillow",
       "title": "Auping Nest",
       "localPath": "/bed-linen/pillows/nest-pillow/",
-      "mode": "LOCAL_PARITY",
-      "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"
+      "mode": "LOCAL_ALIAS",
+      "reason": "此枕頭系列未於台灣供應。",
+      "targetPath": "/bed-linen/pillows/"
     },
     {
       "id": "beds",
