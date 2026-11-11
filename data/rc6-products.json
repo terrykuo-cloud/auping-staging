@@ -131,38 +131,6 @@
       "routeMode": "LOCAL_PARITY"
     },
     {
-      "routeId": "bed-bases--manually-adjustable-mesh-base",
-      "localPath": "/bed-bases/manually-adjustable-mesh-base/",
-      "category": "bed-bases",
-      "title": "手動可調式 床底",
-      "isProduct": true,
-      "isPromo": false,
-      "filterable": true,
-      "attributes": {
-        "type": [
-          "手動可調"
-        ],
-        "width": [
-          "70 cm",
-          "80 cm",
-          "90 cm",
-          "100 cm",
-          "120 cm",
-          "140 cm",
-          "160 cm (2x 80)",
-          "180 cm (2x 90)",
-          "200 cm (2x 100)"
-        ],
-        "length": [
-          "190 cm",
-          "200 cm",
-          "210 cm",
-          "220 cm"
-        ]
-      },
-      "routeMode": "LOCAL_PARITY"
-    },
-    {
       "routeId": "beds--auronde-blush",
       "localPath": "/beds/auronde-blush/",
       "category": "beds",

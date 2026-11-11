@@ -263,3 +263,8 @@ Noble 原本已是 /beds/ ModelSlider 第五項，桌面版因既有 setupModelS
 ## 2026-11-11 移除床墊外部比較按鈕
 
 依使用者要求，僅移除 /mattresses/ ProductCatalog 標題旁「比較所有床墊」外部連結。其餘 HTML 逐字保留，未修改 U3、RC7、共用 CSS/JS、四款床墊或影片彈窗。來源與範圍見 docs/mattress-comparison-removal-20261111.json。
+
+
+## 2026-11-11 移除手動可調式床底
+
+依使用者要求，移除手動可調式床底的全站導覽卡、床底總覽商品卡及搜尋資料；舊商品網址導向床底總覽。總覽介紹僅刪除手動調整商品描述，保留電動床底說明。其他頁面正文、固定式及電動床底、支援資料與共用控制器保持。證據見 docs/manual-base-20261111.json。

@@ -56,8 +56,9 @@
       "id": "bed-bases--manually-adjustable-mesh-base",
       "title": "手動可調式 床底",
       "localPath": "/bed-bases/manually-adjustable-mesh-base/",
-      "mode": "LOCAL_PARITY",
-      "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"
+      "mode": "LOCAL_ALIAS",
+      "reason": "此系列未於台灣供應，舊網址導向台灣床底總覽。",
+      "targetPath": "/bed-bases/"
     },
     {
       "id": "bed-linen",

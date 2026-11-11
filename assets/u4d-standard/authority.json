@@ -18,24 +18,18 @@
         },
         {
           "index": 1,
-          "path": "/en/bed-bases/manually-adjustable-mesh-base",
-          "title": "Manually adjustable bed base",
-          "noDetailLink": false
-        },
-        {
-          "index": 2,
           "path": "/en/bed-bases/electrically-adjustable-bed-base-1m",
           "title": "Electrically adjustable bed base 1M",
           "noDetailLink": false
         },
         {
-          "index": 3,
+          "index": 2,
           "path": "/en/bed-bases/electrically-adjustable-bed-base-2m",
           "title": "Electrically adjustable bed base 2M",
           "noDetailLink": false
         },
         {
-          "index": 4,
+          "index": 3,
           "path": "/en/bed-bases/electrically-adjustable-bed-base-3m",
           "title": "Electrically adjustable bed base 3M",
           "noDetailLink": false
@@ -47,9 +41,9 @@
           "id": "5882",
           "label": "Electric adjustable",
           "memberIndexes": [
+            1,
             2,
-            3,
-            4
+            3
           ],
           "proof": "OFFICIAL_RENDERED_AND_SETTLED",
           "officialVisibleOptionIds": [
@@ -99,33 +93,6 @@
           "observedUrl": "https://www.auping.com/en/bed-bases?base_adjustability=5881"
         },
         {
-          "facet": "base_adjustability",
-          "id": "5883",
-          "label": "Manual adjustable",
-          "memberIndexes": [
-            1
-          ],
-          "proof": "OFFICIAL_RENDERED_AND_SETTLED",
-          "officialVisibleOptionIds": [
-            "base_adjustability:5883",
-            "Base_Width:5731",
-            "Base_Width:5732",
-            "Base_Width:5733",
-            "Base_Width:5734",
-            "Base_Width:5735",
-            "Base_Width:5736",
-            "Base_Width:5971",
-            "Base_Width:5972",
-            "Base_Width:5973",
-            "base_length:5978",
-            "base_length:5979",
-            "base_length:5980",
-            "base_length:5981"
-          ],
-          "evidenceCountText": "1 of 1",
-          "observedUrl": "https://www.auping.com/en/bed-bases?base_adjustability=5883"
-        },
-        {
           "facet": "Base_Width",
           "id": "5731",
           "label": "70 cm",
@@ -133,14 +100,12 @@
             0,
             1,
             2,
-            3,
-            4
+            3
           ],
           "proof": "OFFICIAL_RENDERED_AND_SETTLED",
           "officialVisibleOptionIds": [
             "base_adjustability:5882",
             "base_adjustability:5881",
-            "base_adjustability:5883",
             "Base_Width:5731",
             "Base_Width:5732",
             "Base_Width:5733",
@@ -166,14 +131,12 @@
             0,
             1,
             2,
-            3,
-            4
+            3
           ],
           "proof": "OFFICIAL_RENDERED_AND_SETTLED",
           "officialVisibleOptionIds": [
             "base_adjustability:5882",
             "base_adjustability:5881",
-            "base_adjustability:5883",
             "Base_Width:5731",
             "Base_Width:5732",
             "Base_Width:5733",
@@ -199,14 +162,12 @@
             0,
             1,
             2,
-            3,
-            4
+            3
           ],
           "proof": "OFFICIAL_RENDERED_AND_SETTLED",
           "officialVisibleOptionIds": [
             "base_adjustability:5882",
             "base_adjustability:5881",
-            "base_adjustability:5883",
             "Base_Width:5731",
             "Base_Width:5732",
             "Base_Width:5733",
@@ -232,14 +193,12 @@
             0,
             1,
             2,
-            3,
-            4
+            3
           ],
           "proof": "OFFICIAL_RENDERED_AND_SETTLED",
           "officialVisibleOptionIds": [
             "base_adjustability:5882",
             "base_adjustability:5881",
-            "base_adjustability:5883",
             "Base_Width:5731",
             "Base_Width:5732",
             "Base_Width:5733",
@@ -265,14 +224,12 @@
             0,
             1,
             2,
-            3,
-            4
+            3
           ],
           "proof": "OFFICIAL_RENDERED_AND_SETTLED",
           "officialVisibleOptionIds": [
             "base_adjustability:5882",
             "base_adjustability:5881",
-            "base_adjustability:5883",
             "Base_Width:5731",
             "Base_Width:5732",
             "Base_Width:5733",
@@ -298,14 +255,12 @@
             0,
             1,
             2,
-            3,
-            4
+            3
           ],
           "proof": "OFFICIAL_RENDERED_AND_SETTLED",
           "officialVisibleOptionIds": [
             "base_adjustability:5882",
             "base_adjustability:5881",
-            "base_adjustability:5883",
             "Base_Width:5731",
             "Base_Width:5732",
             "Base_Width:5733",
@@ -331,14 +286,12 @@
             0,
             1,
             2,
-            3,
-            4
+            3
           ],
           "proof": "OFFICIAL_RENDERED_AND_SETTLED",
           "officialVisibleOptionIds": [
             "base_adjustability:5882",
             "base_adjustability:5881",
-            "base_adjustability:5883",
             "Base_Width:5731",
             "Base_Width:5732",
             "Base_Width:5733",
@@ -364,14 +317,12 @@
             0,
             1,
             2,
-            3,
-            4
+            3
           ],
           "proof": "OFFICIAL_RENDERED_AND_SETTLED",
           "officialVisibleOptionIds": [
             "base_adjustability:5882",
             "base_adjustability:5881",
-            "base_adjustability:5883",
             "Base_Width:5731",
             "Base_Width:5732",
             "Base_Width:5733",
@@ -397,14 +348,12 @@
             0,
             1,
             2,
-            3,
-            4
+            3
           ],
           "proof": "OFFICIAL_RENDERED_AND_SETTLED",
           "officialVisibleOptionIds": [
             "base_adjustability:5882",
             "base_adjustability:5881",
-            "base_adjustability:5883",
             "Base_Width:5731",
             "Base_Width:5732",
             "Base_Width:5733",
@@ -430,14 +379,12 @@
             0,
             1,
             2,
-            3,
-            4
+            3
           ],
           "proof": "OFFICIAL_RENDERED_AND_SETTLED",
           "officialVisibleOptionIds": [
             "base_adjustability:5882",
             "base_adjustability:5881",
-            "base_adjustability:5883",
             "Base_Width:5731",
             "Base_Width:5732",
             "Base_Width:5733",
@@ -463,14 +410,12 @@
             0,
             1,
             2,
-            3,
-            4
+            3
           ],
           "proof": "OFFICIAL_RENDERED_AND_SETTLED",
           "officialVisibleOptionIds": [
             "base_adjustability:5882",
             "base_adjustability:5881",
-            "base_adjustability:5883",
             "Base_Width:5731",
             "Base_Width:5732",
             "Base_Width:5733",
@@ -496,14 +441,12 @@
             0,
             1,
             2,
-            3,
-            4
+            3
           ],
           "proof": "OFFICIAL_RENDERED_AND_SETTLED",
           "officialVisibleOptionIds": [
             "base_adjustability:5882",
             "base_adjustability:5881",
-            "base_adjustability:5883",
             "Base_Width:5731",
             "Base_Width:5732",
             "Base_Width:5733",
@@ -529,14 +472,12 @@
             0,
             1,
             2,
-            3,
-            4
+            3
           ],
           "proof": "OFFICIAL_RENDERED_AND_SETTLED",
           "officialVisibleOptionIds": [
             "base_adjustability:5882",
             "base_adjustability:5881",
-            "base_adjustability:5883",
             "Base_Width:5731",
             "Base_Width:5732",
             "Base_Width:5733",
@@ -555,8 +496,8 @@
           "observedUrl": "https://www.auping.com/en/bed-bases?base_length=5981"
         }
       ],
-      "expectedCards": 5,
-      "expectedOptions": 16,
+      "expectedCards": 4,
+      "expectedOptions": 15,
       "reviewOptionIds": [],
       "baselineVisibleOptionIds": [
         "base_adjustability:5882",
@@ -575,7 +516,8 @@
         "base_length:5979",
         "base_length:5980",
         "base_length:5981"
-      ]
+      ],
+      "localAssortmentOverride": "2026-11-11: Taiwan excludes manually adjustable mesh base; membership remapped, historical official evidence retained."
     },
     "/mattress-toppers/": {
       "officialURL": "https://www.auping.com/en/mattress-toppers",

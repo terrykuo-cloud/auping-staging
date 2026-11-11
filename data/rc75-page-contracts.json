@@ -4,12 +4,12 @@
   "sourceCommit": "bcf1bc9b4b498fba2953f9878b77d771108e7a9e",
   "sourceRoutesSchema": "AUPING-RC7.2-ROUTES-V3",
   "basePath": "/auping-staging",
-  "routeCount": 140,
+  "routeCount": 139,
   "pageTypeCounts": {
     "home": 1,
     "editorial": 7,
     "listing": 21,
-    "product": 110,
+    "product": 109,
     "bridge": 1
   },
   "rules": {
@@ -226,39 +226,6 @@
       },
       "baseline": {
         "bytes": 205272,
-        "h1Count": 1,
-        "languageInputCount": 2,
-        "comboboxKeys": [
-          "length",
-          "width"
-        ],
-        "staleRedirectTitle": false
-      },
-      "auditIssueCodes": []
-    },
-    {
-      "pageId": "bed-bases--manually-adjustable-mesh-base",
-      "title": "手動可調式 床底",
-      "localPath": "/bed-bases/manually-adjustable-mesh-base/",
-      "file": "bed-bases/manually-adjustable-mesh-base/index.html",
-      "mode": "LOCAL_PARITY",
-      "pageType": "product",
-      "slug": "manually-adjustable-mesh-base",
-      "selectors": {
-        "page": "html[data-auping-page-id=\"bed-bases--manually-adjustable-mesh-base\"]",
-        "language": [
-          "#react-select-languageSwitchHeader-input",
-          "#react-select-languageSwitchFooter-input",
-          "[data-auping-language-control=\"fixed\"]"
-        ],
-        "combobox": [
-          "[data-auping-combobox=\"length\"]",
-          "[data-auping-combobox=\"width\"]"
-        ],
-        "productCard": "[data-auping-product-slug=\"manually-adjustable-mesh-base\"]"
-      },
-      "baseline": {
-        "bytes": 200886,
         "h1Count": 1,
         "languageInputCount": 2,
         "comboboxKeys": [
