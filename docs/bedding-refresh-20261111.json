@@ -1,0 +1,29 @@
+{
+  "CURRENT_MAIN": "6fa1aac64c9e048f7e109f77618509c4c670adb8",
+  "EXISTING_OWNER": "RC7 navigation/readmore and Taiwan store locator retained. New page-only shadow video controls isolate snapshot/W4 media scripts; no shared owner changes.",
+  "TEMPLATE_AND_DATA": "Official /en/bedding main DOM and CSS. Four category destinations only: pillows, duvet-covers, duvets, fitted-sheets.",
+  "AFFECTED_ROUTES": [
+    "/bed-linen/"
+  ],
+  "EXISTING_ACCEPTANCE": "Preserve other pages, local navigation, Cloud-only pillow assortment and all excluded categories.",
+  "OFFICIAL_TRUTH": "https://www.auping.com/en/bedding",
+  "MINIMAL_PATCH": [
+    "bed-linen/index.html",
+    "assets/bedding-2026/page.css",
+    "assets/bedding-2026/page.js",
+    "AGENTS.md",
+    "docs/bedding-refresh-20261111.json"
+  ],
+  "REGRESSION_AND_RECEIPT": "Desktop1440/mobile390/440; four category destinations; original media image load/video time advances; no excluded product links; HTML outside main remains unchanged except page assets.",
+  "exceptions": [
+    "Cloud image replaces official Dew pillow category image.",
+    "Moltons marketing removed; fitted-sheet source photo retained.",
+    "Discover more points to existing duvet-cover category instead of self-link.",
+    "Taiwan store locator retained.",
+    "Mobile hero uses same original poster because captured official desktop-only wrapper leaves blank on mobile."
+  ],
+  "blobs": {
+    "bed-linen/index.html": "32923c280cf5da161fa0d1a1a136df26dfa9263a",
+    "AGENTS.md": "4e5760955ee07fe4b789565aee11b622a7688792"
+  }
+}

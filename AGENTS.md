@@ -289,3 +289,8 @@ Noble 原本已是 /beds/ ModelSlider 第五項，桌面版因既有 setupModelS
 ## 2026-11-11 移除台灣未引進的寢具分類
 
 移除保潔墊、枕套、床罩的導覽及寢具分類卡，相關分類與商品舊網址導回寢具總覽；同步移除搜尋、商品資料與分類篩選資料。其他頁面 main 逐字不變，寢具新舊總覽僅移除目標卡片。被套、棉被、床包與 Cloud 枕頭保持。共用 JS/CSS 及事件 owner 完全不變。詳見 docs/bedding-assortment-20261111.json。
+
+
+## 2026-11-11 原廠新版寢具總覽
+
+僅 /bed-linen/ main 依官方 /en/bedding 更新並中文化，保留四個分類目的地。Cloud 替換官方 Dew 枕頭情境圖；移除保潔墊宣傳，保留床包照片。門市沿用台灣資料。新增 CSS 僅 data-bedding-2026 範圍；四個影片以 shadow root 隔離現有全域媒體腳本，page.js 僅控制本頁播放／暫停。其他頁面與共用 JS/CSS 不變。詳見 docs/bedding-refresh-20261111.json。
