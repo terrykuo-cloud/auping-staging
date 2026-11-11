@@ -1,0 +1,20 @@
+{
+  "CURRENT_MAIN": "fae7d8029d4ae50d0af3e54b128d01943fe08a3b",
+  "EXISTING_OWNER": "Existing taiwan-store-locator.js show-all opt-in and Leaflet/list owner; no runtime changes.",
+  "TEMPLATE_AND_DATA": "Existing StoreLocator section and six unchanged Taiwan dealers.",
+  "AFFECTED_ROUTES": [
+    "/mattresses/"
+  ],
+  "EXISTING_ACCEPTANCE": "Preserve mattress cards, feature modals, media and all unrelated pages.",
+  "OFFICIAL_TRUTH": "User requires all six Taiwan dealers to appear on mattresses landing.",
+  "MINIMAL_PATCH": [
+    "mattresses/index.html",
+    "AGENTS.md",
+    "docs/mattresses-all-stores-20261112.json"
+  ],
+  "REGRESSION_AND_RECEIPT": "Six visible cards, sixth card/map focus, desktop/mobile no horizontal overflow.",
+  "blobs": {
+    "mattresses/index.html": "336753b22cd8e8f6a64cbe9903696a60b8af4706",
+    "AGENTS.md": "4d4e57f45099b7db90968dd26007a14ad1195378"
+  }
+}
