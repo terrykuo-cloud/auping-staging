@@ -6,7 +6,7 @@ const base='/auping-staging/';
 const route=location.pathname.replace(/^\/auping-staging(?=\/|$)/,'').replace(/\/?$/,'/');
 const root=document.documentElement;
 const required={
- '/mattresses/':['elite-mattress','elysium-mattress','evolve-mattress','two-mattress','one-mattress','revive-mattress'],
+ '/mattresses/':['elite-mattress','elysium-mattress','evolve-mattress','two-mattress'],
  '/mattresses/circular-mattresses/':['elite-mattress','elysium-mattress','evolve-mattress']
 };
 if(Object.hasOwn(required,route)&&!root.dataset.aupingU3SpecialOwner){

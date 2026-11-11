@@ -821,15 +821,17 @@
       "id": "mattresses--one-mattress",
       "title": "Auping One 床墊",
       "localPath": "/mattresses/one-mattress/",
-      "mode": "LOCAL_PARITY",
-      "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"
+      "mode": "LOCAL_ALIAS",
+      "reason": "此系列未於台灣供應，舊網址導向台灣床墊總覽。",
+      "targetPath": "/mattresses/"
     },
     {
       "id": "mattresses--revive-mattress",
       "title": "Auping Revive 床墊",
       "localPath": "/mattresses/revive-mattress/",
-      "mode": "LOCAL_PARITY",
-      "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"
+      "mode": "LOCAL_ALIAS",
+      "reason": "此系列未於台灣供應，舊網址導向台灣床墊總覽。",
+      "targetPath": "/mattresses/"
     },
     {
       "id": "mattresses--two-mattress",

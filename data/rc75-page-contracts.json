@@ -4,12 +4,12 @@
   "sourceCommit": "bcf1bc9b4b498fba2953f9878b77d771108e7a9e",
   "sourceRoutesSchema": "AUPING-RC7.2-ROUTES-V3",
   "basePath": "/auping-staging",
-  "routeCount": 142,
+  "routeCount": 140,
   "pageTypeCounts": {
     "home": 1,
     "editorial": 7,
     "listing": 21,
-    "product": 112,
+    "product": 110,
     "bridge": 1
   },
   "rules": {
@@ -2986,60 +2986,6 @@
       },
       "baseline": {
         "bytes": 236910,
-        "h1Count": 1,
-        "languageInputCount": 2,
-        "comboboxKeys": [],
-        "staleRedirectTitle": false
-      },
-      "auditIssueCodes": []
-    },
-    {
-      "pageId": "mattresses--one-mattress",
-      "title": "Auping One 床墊",
-      "localPath": "/mattresses/one-mattress/",
-      "file": "mattresses/one-mattress/index.html",
-      "mode": "LOCAL_PARITY",
-      "pageType": "product",
-      "slug": "one-mattress",
-      "selectors": {
-        "page": "html[data-auping-page-id=\"mattresses--one-mattress\"]",
-        "language": [
-          "#react-select-languageSwitchHeader-input",
-          "#react-select-languageSwitchFooter-input",
-          "[data-auping-language-control=\"fixed\"]"
-        ],
-        "combobox": [],
-        "productCard": "[data-auping-product-slug=\"one-mattress\"]"
-      },
-      "baseline": {
-        "bytes": 225783,
-        "h1Count": 1,
-        "languageInputCount": 2,
-        "comboboxKeys": [],
-        "staleRedirectTitle": false
-      },
-      "auditIssueCodes": []
-    },
-    {
-      "pageId": "mattresses--revive-mattress",
-      "title": "Auping Revive 床墊",
-      "localPath": "/mattresses/revive-mattress/",
-      "file": "mattresses/revive-mattress/index.html",
-      "mode": "LOCAL_PARITY",
-      "pageType": "product",
-      "slug": "revive-mattress",
-      "selectors": {
-        "page": "html[data-auping-page-id=\"mattresses--revive-mattress\"]",
-        "language": [
-          "#react-select-languageSwitchHeader-input",
-          "#react-select-languageSwitchFooter-input",
-          "[data-auping-language-control=\"fixed\"]"
-        ],
-        "combobox": [],
-        "productCard": "[data-auping-product-slug=\"revive-mattress\"]"
-      },
-      "baseline": {
-        "bytes": 228022,
         "h1Count": 1,
         "languageInputCount": 2,
         "comboboxKeys": [],

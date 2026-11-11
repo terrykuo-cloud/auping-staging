@@ -914,34 +914,6 @@
       ]
     },
     {
-      "title": "Auping One 床墊",
-      "summary": "這款 Auping 床墊提供多種尺寸、硬度與支撐選項。建議依體型、睡姿與個人偏好，到門市實際試躺並由睡眠顧問協助選擇。",
-      "routeId": "mattresses--one-mattress",
-      "mode": "LOCAL_PARITY",
-      "keywords": [
-        "bed",
-        "box spring",
-        "床",
-        "床墊",
-        "床架",
-        "床組"
-      ]
-    },
-    {
-      "title": "Auping Revive 床墊",
-      "summary": "這款 Auping 床墊提供多種尺寸、硬度與支撐選項。建議依體型、睡姿與個人偏好，到門市實際試躺並由睡眠顧問協助選擇。",
-      "routeId": "mattresses--revive-mattress",
-      "mode": "LOCAL_PARITY",
-      "keywords": [
-        "bed",
-        "box spring",
-        "床",
-        "床墊",
-        "床架",
-        "床組"
-      ]
-    },
-    {
       "title": "Comfort 床墊舒適層",
       "summary": "這款 Auping 床墊舒適層可調整整體躺感，並提供一般或分離式選擇，適合搭配不同床型與調整需求。",
       "routeId": "toppers--comfort-mattress-topper",
