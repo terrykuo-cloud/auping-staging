@@ -245,3 +245,8 @@ Noble 原本已是 /beds/ ModelSlider 第五項，桌面版因既有 setupModelS
 ## 2026-11-10 床墊三項技術介紹彈窗
 
 僅 /mattresses/ 的 RichContentTiles 三個按鈕啟用 mattress-features/modal.js。原靜態快照無彈窗 owner；新增原生 dialog、頁面專用 CSS 與三份繁中內容 template，影片／封面來自官方實際彈窗。影片置於 shadow root，避免 snapshot-interactions 全域自動播放與來源改寫重複控制；共用程式碼完全保留。關閉及 Escape 停止影片、還原焦點與捲動；桌面雙欄、手機單欄。其他頁面、卡片排列、商品連結及循環床墊影片均不修改。範圍與來源見 docs/mattress-features-20261110.json；不宣稱真實 Safari 1:1。
+
+
+## 2026-11-11 枕頭移至寢具導覽
+
+依使用者指定分類，RC7 在既有導覽事件綁定前執行 groupPillowsUnderBedding，將原枕頭商品卡樣式用於寢具底下的枕頭分類入口，連至既有 /bed-linen/pillows/ 三款商品目錄，移除桌面與手機頂層枕頭項目。沒有新增全域事件 owner，未更改 373 頁正文、商品網址、Read More、篩選或媒體。原目錄及 Cloud/Nest/Dew 商品完整保留。全站載入範圍與原始 blob 見 docs/pillows-navigation-20261111.json；不代表全站所有其他互動已驗收。
