@@ -1,0 +1,27 @@
+{
+  "CURRENT_MAIN": "467da39a150ba14e9c5b78277270ba330f8961ed",
+  "EXISTING_OWNER": "taiwan-store-locator.js mountEmbedded/connectList; existing Leaflet markers and dealer JSON.",
+  "TEMPLATE_AND_DATA": "Embedded list currently dealers.slice(0,3). Add opt-in all-store flag on two topper landing aliases.",
+  "AFFECTED_ROUTES": [
+    "/toppers/",
+    "/mattress-toppers/"
+  ],
+  "EXISTING_ACCEPTANCE": "All other embedded locators retain current behavior; six dealer records unchanged.",
+  "OFFICIAL_TRUTH": "Local Taiwan dealer data has six records; user requires all six listed.",
+  "MINIMAL_PATCH": [
+    "toppers/index.html",
+    "mattress-toppers/index.html",
+    "assets/rc76/taiwan-store-locator.js",
+    "assets/toppers-2026/page.css",
+    "AGENTS.md",
+    "docs/toppers-all-stores-20261112.json"
+  ],
+  "REGRESSION_AND_RECEIPT": "Six visible list cards, all six map markers, sixth card focuses matching marker; desktop/mobile layout; unchanged default branch.",
+  "blobs": {
+    "toppers/index.html": "018189970675d86233084f1d13f4d59c87e004ac",
+    "mattress-toppers/index.html": "1cfb1cd3f371ea40d81a445bd170a00c77b3f74f",
+    "assets/rc76/taiwan-store-locator.js": "fe26cd6b10ebfcb5572c7f2aec0385b1c486f544",
+    "assets/toppers-2026/page.css": "3f81a6f48290f74944440b9e51a086f75d8f3f04",
+    "AGENTS.md": "06006bbcd0c96b7bf951d1ea1d62a862de061640"
+  }
+}

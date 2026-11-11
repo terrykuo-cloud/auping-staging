@@ -225,13 +225,14 @@
 
     const list = document.createElement("div");
     list.className = "auping-embedded-dealer-list";
-    const nearest = dealers.slice(0, 3);
+    const visibleDealers = section.dataset.aupingDealerShowAll === "true"
+      ? dealers : dealers.slice(0, 3);
     list.innerHTML = `
       <div class="auping-embedded-dealer-heading">
         <strong>台灣展示門市</strong>
         <a href="${BASE}/store-locator/">查看全部 ${dealers.length} 間</a>
       </div>
-      ${nearest.map((dealer) => cardHtml(dealer, true)).join("")}
+      ${visibleDealers.map((dealer) => cardHtml(dealer, true)).join("")}
     `;
 
     const layout = document.createElement("div");

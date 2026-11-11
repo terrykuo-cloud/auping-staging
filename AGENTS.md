@@ -299,3 +299,8 @@ Noble 原本已是 /beds/ ModelSlider 第五項，桌面版因既有 setupModelS
 ## 2026-11-11 薄墊新版總覽與名稱統一
 
 /toppers/ 與 /mattress-toppers/ 兩個總覽入口依原廠即時新版 main 中文化，三款介紹卡與分割式、材質、保養資訊更新；保留六款本地商品入口與台灣門市。僅兩總覽移除舊 U4D/U4B 篩選載入。全站既有名稱統一改為薄墊，其他頁面僅原名稱文字替換及對應腳本快取版本更新，無功能或媒體改動。新增 CSS 限 data-toppers-2026，無新事件 owner。詳見 docs/toppers-refresh-20261111.json。
+
+
+## 2026-11-12 薄墊總覽列出全部台灣門市
+
+既有 mountEmbedded 改為接受 data-auping-dealer-show-all opt-in；僅兩個薄墊總覽設定 true，其他路由仍前三間。沿用單一 Leaflet/list owner，六筆門市資料不變。薄墊專用 CSS 解除清單高度限制，六間完整列出。記錄見 docs/toppers-all-stores-20261112.json。
