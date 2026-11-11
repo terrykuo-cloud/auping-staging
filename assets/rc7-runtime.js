@@ -37,7 +37,7 @@ function groupPillowsUnderBedding(){
  };
  const nav=$('[data-auping-desktop-nav]');
  if(nav){
-   const items=[...nav.children];
+   const items=[...nav.querySelectorAll('[data-auping-desktop-item]')];
    const pillow=items.find(li=>isPillow(li.querySelector(':scope > a[href]')));
    const bedding=items.find(li=>normalizePath(li.querySelector(':scope > a[href]')?.href||'')==='/bed-linen/');
    const list=bedding?.querySelector('[class*="MainMenu_items"]');

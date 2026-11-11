@@ -250,3 +250,4 @@ Noble 原本已是 /beds/ ModelSlider 第五項，桌面版因既有 setupModelS
 ## 2026-11-11 枕頭移至寢具導覽
 
 依使用者指定分類，RC7 在既有導覽事件綁定前執行 groupPillowsUnderBedding，將原枕頭商品卡樣式用於寢具底下的枕頭分類入口，連至既有 /bed-linen/pillows/ 三款商品目錄，移除桌面與手機頂層枕頭項目。沒有新增全域事件 owner，未更改 373 頁正文、商品網址、Read More、篩選或媒體。原目錄及 Cloud/Nest/Dew 商品完整保留。全站載入範圍與原始 blob 見 docs/pillows-navigation-20261111.json；不代表全站所有其他互動已驗收。
+`n電腦導覽容器可能是 nav 外層而非 ul；分類搬移透過既有 data-auping-desktop-item 標記定位，不依賴直接子層。
