@@ -1,0 +1,16 @@
+{
+  "SOURCE": "terrykuo-cloud/auping-staging@a19355dc22400fe1984edfbc70f8930e61252dbc",
+  "BLOBS": {
+    "mattresses/index.html": "804cc28db79cbbe87e782ab544f618bad2bbee28",
+    "AGENTS.md": "06dccf359cc4ca28a3366a47990208b61a0af2a8"
+  },
+  "CURRENT_OWNER": "Native static anchor; no JS owner change",
+  "TEMPLATE_AND_DATA": "ProductCatalog heading CTA; existing U3 remains",
+  "AFFECTED_ROUTES": [
+    "/mattresses/"
+  ],
+  "EXISTING_ACCEPTANCE": "Four mattress catalog and desktop/mobile navigation verified previous release",
+  "OFFICIAL_TRUTH": "User explicitly requests removal of external comparison CTA; official parity not required",
+  "MINIMAL_PATCH": "Remove exactly one anchor; all remaining HTML bytes identical; no shared JS/CSS changes",
+  "REGRESSION_AND_RECEIPT": "Source: exactly one anchor removed; live desktop/mobile verification pending"
+}

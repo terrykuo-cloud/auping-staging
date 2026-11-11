@@ -258,3 +258,8 @@ Noble 原本已是 /beds/ ModelSlider 第五項，桌面版因既有 setupModelS
 ## 2026-11-11 台灣床墊供應範圍
 
 依使用者確認，移除 One／Revive：全站桌面與手機靜態導覽卡片、床墊總覽與推薦卡、搜尋及商品資料同步移除。床墊總覽保留 Elite、Elysium、Evolve、Two，U3 既有數量檢核同步改為四款。兩個舊商品頁改為 noindex 導向床墊總覽，RC7 route alias 同步。歷史飯店新聞保留事實敘述但取消已下架商品連結，歷史 parity 文件不改寫。無新增 JS owner，其他頁面正文與既有枕頭分類、影片彈窗保持。範圍及來源 blob 見 docs/unavailable-mattresses-20261111.json。
+
+
+## 2026-11-11 移除床墊外部比較按鈕
+
+依使用者要求，僅移除 /mattresses/ ProductCatalog 標題旁「比較所有床墊」外部連結。其餘 HTML 逐字保留，未修改 U3、RC7、共用 CSS/JS、四款床墊或影片彈窗。來源與範圍見 docs/mattress-comparison-removal-20261111.json。
