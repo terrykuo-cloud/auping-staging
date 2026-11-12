@@ -309,3 +309,8 @@ Noble 原本已是 /beds/ ModelSlider 第五項，桌面版因既有 setupModelS
 ## 2026-11-12 床墊總覽列出全部台灣門市
 
 僅 /mattresses/ 啟用既有 data-auping-dealer-show-all 並解除該頁清單高度限制，直接列出六間門市。沿用現存門市與地圖 owner，無共用 JS/CSS 修改，床墊卡片與技術彈窗保持不變。詳見 docs/mattresses-all-stores-20261112.json。
+
+
+## 2026-11-12 床底與寢具總覽列出全部台灣門市
+
+僅 /bed-bases/ 與 /bed-linen/ 啟用既有門市 show-all opt-in，頁面限定樣式解除清單高度限制，完整列出六間門市。共用 JS/CSS、門市資料、商品與影片不變。詳見 docs/bases-bedding-all-stores-20261112.json。

@@ -1,0 +1,23 @@
+{
+  "CURRENT_MAIN": "36cf134cae7b98b2771b2455aeb2151f14b2574c",
+  "EXISTING_OWNER": "Existing taiwan-store-locator.js mountEmbedded show-all opt-in; existing Leaflet owner unchanged.",
+  "TEMPLATE_AND_DATA": "Existing StoreLocator sections; unchanged six Taiwan dealers.",
+  "AFFECTED_ROUTES": [
+    "/bed-bases/",
+    "/bed-linen/"
+  ],
+  "EXISTING_ACCEPTANCE": "Preserve existing page bodies, product links, media and unrelated routes.",
+  "OFFICIAL_TRUTH": "User requires all six Taiwan stores, not overseas official data.",
+  "MINIMAL_PATCH": [
+    "bed-bases/index.html",
+    "bed-linen/index.html",
+    "AGENTS.md",
+    "docs/bases-bedding-all-stores-20261112.json"
+  ],
+  "REGRESSION_AND_RECEIPT": "Verify six cards, map selection, desktop 1440 and mobile 390/440. No real Safari claim.",
+  "blobs": {
+    "bed-bases/index.html": "4ae3ecc3f3d0be511c6ec1d32f884fe22fc6f75d",
+    "bed-linen/index.html": "c33904123ad53fb15b9118d59d16c359ab8cb0af",
+    "AGENTS.md": "32ffcc0b40568a2b69c05cd58df926cd19cb60ec"
+  }
+}
