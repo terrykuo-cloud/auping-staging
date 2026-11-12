@@ -319,3 +319,8 @@ Noble 原本已是 /beds/ ModelSlider 第五項，桌面版因既有 setupModelS
 ## 2026-11-12 床組與床架總覽列出全部台灣門市
 
 僅 /box-springs/ 與 /beds/ 啟用既有門市 show-all opt-in，頁面限定樣式解除清單高度限制，完整列出六間門市。共用 JS/CSS、門市資料、商品卡片、Noble 輪播及影片不變。詳見 docs/beds-boxsprings-all-stores-20261112.json。
+
+
+## 2026-11-13 Stories 列表與缺少文章
+
+/stories/ 原有骨架替換為官方兩頁共十六則 BlogList，保留原圖、順序與日期，中文化標題摘要。頁面專屬 list.js 為分類與分頁唯一 owner，支援多分類聯集、URL 與上一頁；不修改共用程式。新增循環設計、設計展、永續詞彙與王室參訪四篇中文文章；影片採原生 shadow video，相關文章原生水平捲動。其他既有文章不變。詳見 docs/stories-refresh-20261113.json。

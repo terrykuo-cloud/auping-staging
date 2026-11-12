@@ -1,0 +1,42 @@
+{
+  "CURRENT_MAIN": "b6d0c651e5f9ecef1cbac99be69f2828aefa4580",
+  "EXISTING_OWNER": "Original static BlogList contains skeletons and inert controls; no BlogList owner in loaded RC7 or rc73. New controller only binds [data-stories-list]. RC7 Read More unchanged.",
+  "TEMPLATE_AND_DATA": "Official rendered BlogList first page 9 cards, second page 7; original images, dates and order. Four missing article mains with block translations.",
+  "AFFECTED_ROUTES": [
+    "/stories/",
+    "/stories/circularity/",
+    "/stories/please-have-seat/",
+    "/stories/sustainable-dictionary/",
+    "/news/dutch-king-and-queen-visit-auping-factory/"
+  ],
+  "EXISTING_ACCEPTANCE": "Preserve existing article bodies and unrelated pages. No global runtime changes or Safari parity claim.",
+  "OFFICIAL_TRUTH": [
+    "https://www.auping.com/en/stories",
+    "https://www.auping.com/en/stories?page=2",
+    "https://www.auping.com/en/stories/circularity",
+    "https://www.auping.com/en/stories/please-have-seat",
+    "https://www.auping.com/en/stories/sustainable-dictionary",
+    "https://www.auping.com/en/news/dutch-king-and-queen-visit-auping-factory"
+  ],
+  "MINIMAL_PATCH": [
+    "stories/index.html",
+    "assets/stories-2026/list.js",
+    "stories/circularity/index.html",
+    "stories/please-have-seat/index.html",
+    "stories/sustainable-dictionary/index.html",
+    "news/dutch-king-and-queen-visit-auping-factory/index.html",
+    "AGENTS.md",
+    "docs/stories-refresh-20261113.json"
+  ],
+  "REGRESSION_AND_RECEIPT": "Local destinations exist; 16 cards; multi-tag union and pagination, history, images and desktop/mobile checks.",
+  "blobs": {
+    "stories/index.html": "c4124eda08afc4360bce409c3e8bac574cb45bfc",
+    "assets/stories-2026/list.js": null,
+    "stories/circularity/index.html": null,
+    "stories/please-have-seat/index.html": null,
+    "stories/sustainable-dictionary/index.html": null,
+    "news/dutch-king-and-queen-visit-auping-factory/index.html": null,
+    "AGENTS.md": "0a0664cfdf276bac3895de9d319a7a58290f7e60",
+    "docs/stories-refresh-20261113.json": null
+  }
+}
