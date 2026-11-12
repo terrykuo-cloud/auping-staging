@@ -1,0 +1,23 @@
+{
+  "CURRENT_MAIN": "bb23d68e282b1595ebd614c9626d36ededb7401b",
+  "EXISTING_OWNER": "Existing taiwan-store-locator.js mountEmbedded opt-in; Leaflet/list event owner unchanged.",
+  "TEMPLATE_AND_DATA": "Existing StoreLocator and unchanged six Taiwan dealers.",
+  "AFFECTED_ROUTES": [
+    "/box-springs/",
+    "/beds/"
+  ],
+  "EXISTING_ACCEPTANCE": "Preserve product cards, Noble slider, media, navigation and unrelated routes.",
+  "OFFICIAL_TRUTH": "User requests all six Taiwan dealers on these two pages.",
+  "MINIMAL_PATCH": [
+    "box-springs/index.html",
+    "beds/index.html",
+    "AGENTS.md",
+    "docs/beds-boxsprings-all-stores-20261112.json"
+  ],
+  "REGRESSION_AND_RECEIPT": "Six cards, sixth-store map focus, desktop and mobile width checks; no real Safari claim.",
+  "blobs": {
+    "box-springs/index.html": "11f82376c1be144c6f9f6354445cdac45dbb2659",
+    "beds/index.html": "3dc219246b5b8252851700504d85ff3b7bc802b4",
+    "AGENTS.md": "fc3bcc2a56fc6140ff26e8064cbf7f71cae1c2e0"
+  }
+}

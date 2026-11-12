@@ -314,3 +314,8 @@ Noble 原本已是 /beds/ ModelSlider 第五項，桌面版因既有 setupModelS
 ## 2026-11-12 床底與寢具總覽列出全部台灣門市
 
 僅 /bed-bases/ 與 /bed-linen/ 啟用既有門市 show-all opt-in，頁面限定樣式解除清單高度限制，完整列出六間門市。共用 JS/CSS、門市資料、商品與影片不變。詳見 docs/bases-bedding-all-stores-20261112.json。
+
+
+## 2026-11-12 床組與床架總覽列出全部台灣門市
+
+僅 /box-springs/ 與 /beds/ 啟用既有門市 show-all opt-in，頁面限定樣式解除清單高度限制，完整列出六間門市。共用 JS/CSS、門市資料、商品卡片、Noble 輪播及影片不變。詳見 docs/beds-boxsprings-all-stores-20261112.json。
