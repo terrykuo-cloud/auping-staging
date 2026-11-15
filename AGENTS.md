@@ -344,3 +344,8 @@ Noble 原本已是 /beds/ ModelSlider 第五項，桌面版因既有 setupModelS
 ## 2026-11-16 僅移除使用手冊連結
 
 依使用者截圖，僅移除文字為「使用手冊」的連結及其選單項目；其他頁面與內容保留，所有「客戶服務」連結逐字不變。無共用 CSS/JS 修改。見 docs/manual-links-only-20261116.json。
+
+
+## 2026-11-16 台灣社群頁尾
+
+僅移除頁尾 Facebook 與 Pinterest 項目，Instagram 改連 https://www.instagram.com/auping_tw/。所有 main 與其他頁尾連結保留，不改共用控制器或樣式。見 docs/taiwan-social-footer-20261116.json。
