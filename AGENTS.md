@@ -324,3 +324,8 @@ Noble 原本已是 /beds/ ModelSlider 第五項，桌面版因既有 setupModelS
 ## 2026-11-13 Stories 列表與缺少文章
 
 /stories/ 原有骨架替換為官方兩頁共十六則 BlogList，保留原圖、順序與日期，中文化標題摘要。頁面專屬 list.js 為分類與分頁唯一 owner，支援多分類聯集、URL 與上一頁；不修改共用程式。新增循環設計、設計展、永續詞彙與王室參訪四篇中文文章；影片採原生 shadow video，相關文章原生水平捲動。其他既有文章不變。詳見 docs/stories-refresh-20261113.json。
+
+
+## 2026-11-16 Box Springs 台灣停售
+
+依使用者指示移除床組全站選單、頁尾、商品宣傳及搜尋入口，舊床組網址導回首頁。床架推薦區僅移除床組卡，布料與薄墊僅清除床組相關促銷文字。保留其他商品正文與既有功能。沿用原導航 owner，RC73 fallback 分類順序配合現有五類導航；沒有新增事件控制器。詳見 docs/boxsprings-removal-20261116.json。

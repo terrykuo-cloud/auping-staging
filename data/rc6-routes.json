@@ -491,181 +491,6 @@
       "reason": "RC7.2：Repo 已有本地頁，取消 OFFICIAL_REDIRECT，恢復單一繁中站內瀏覽。"
     },
     {
-      "id": "box-springs",
-      "title": "Box Springs 床組",
-      "localPath": "/box-springs/",
-      "mode": "LOCAL_PARITY",
-      "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"
-    },
-    {
-      "id": "box-springs--criade-blush",
-      "title": "Criade 裸粉",
-      "localPath": "/box-springs/criade-blush/",
-      "mode": "LOCAL_PARITY",
-      "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"
-    },
-    {
-      "id": "box-springs--criade-cool-grey",
-      "title": "Criade 冷灰",
-      "localPath": "/box-springs/criade-cool-grey/",
-      "mode": "LOCAL_EXISTING",
-      "officialUrl": "https://www.auping.com/en/box-springs/criade-cool-grey/",
-      "reason": "RC7.2：Repo 已有本地頁，取消 OFFICIAL_REDIRECT，恢復單一繁中站內瀏覽。"
-    },
-    {
-      "id": "box-springs--criade-deep-black",
-      "title": "Criade 深黑",
-      "localPath": "/box-springs/criade-deep-black/",
-      "mode": "LOCAL_EXISTING",
-      "officialUrl": "https://www.auping.com/en/box-springs/criade-deep-black/",
-      "reason": "RC7.2：Repo 已有本地頁，取消 OFFICIAL_REDIRECT，恢復單一繁中站內瀏覽。"
-    },
-    {
-      "id": "box-springs--criade-dusty-red",
-      "title": "Criade 霧紅",
-      "localPath": "/box-springs/criade-dusty-red/",
-      "mode": "LOCAL_EXISTING",
-      "officialUrl": "https://www.auping.com/en/box-springs/criade-dusty-red/",
-      "reason": "RC7.2：Repo 已有本地頁，取消 OFFICIAL_REDIRECT，恢復單一繁中站內瀏覽。"
-    },
-    {
-      "id": "box-springs--criade-night-blue",
-      "title": "Criade 夜藍",
-      "localPath": "/box-springs/criade-night-blue/",
-      "mode": "LOCAL_PARITY",
-      "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"
-    },
-    {
-      "id": "box-springs--criade-pine-green",
-      "title": "Criade 松綠",
-      "localPath": "/box-springs/criade-pine-green/",
-      "mode": "LOCAL_EXISTING",
-      "officialUrl": "https://www.auping.com/en/box-springs/criade-pine-green/",
-      "reason": "RC7.2：Repo 已有本地頁，取消 OFFICIAL_REDIRECT，恢復單一繁中站內瀏覽。"
-    },
-    {
-      "id": "box-springs--criade-sand-beige",
-      "title": "Criade 沙米色",
-      "localPath": "/box-springs/criade-sand-beige/",
-      "mode": "LOCAL_EXISTING",
-      "officialUrl": "https://www.auping.com/en/box-springs/criade-sand-beige/",
-      "reason": "RC7.2：Repo 已有本地頁，取消 OFFICIAL_REDIRECT，恢復單一繁中站內瀏覽。"
-    },
-    {
-      "id": "box-springs--criade-warm-grey",
-      "title": "Criade 暖灰",
-      "localPath": "/box-springs/criade-warm-grey/",
-      "mode": "LOCAL_PARITY",
-      "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"
-    },
-    {
-      "id": "box-springs--kiruna-deep-black",
-      "title": "Kiruna 深黑",
-      "localPath": "/box-springs/kiruna-deep-black/",
-      "mode": "LOCAL_PARITY",
-      "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"
-    },
-    {
-      "id": "box-springs--kiruna-night-blue",
-      "title": "Kiruna 夜藍",
-      "localPath": "/box-springs/kiruna-night-blue/",
-      "mode": "LOCAL_EXISTING",
-      "officialUrl": "https://www.auping.com/en/box-springs/kiruna-night-blue/",
-      "reason": "RC7.2：Repo 已有本地頁，取消 OFFICIAL_REDIRECT，恢復單一繁中站內瀏覽。"
-    },
-    {
-      "id": "box-springs--kiruna-pine-green",
-      "title": "Kiruna 松綠",
-      "localPath": "/box-springs/kiruna-pine-green/",
-      "mode": "LOCAL_EXISTING",
-      "officialUrl": "https://www.auping.com/en/box-springs/kiruna-pine-green/",
-      "reason": "RC7.2：Repo 已有本地頁，取消 OFFICIAL_REDIRECT，恢復單一繁中站內瀏覽。"
-    },
-    {
-      "id": "box-springs--kiruna-sand-beige",
-      "title": "Kiruna 沙米色",
-      "localPath": "/box-springs/kiruna-sand-beige/",
-      "mode": "LOCAL_PARITY",
-      "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"
-    },
-    {
-      "id": "box-springs--kiruna-warm-grey-sami",
-      "title": "Kiruna 暖灰",
-      "localPath": "/box-springs/kiruna-warm-grey-sami/",
-      "mode": "LOCAL_EXISTING",
-      "officialUrl": "https://www.auping.com/en/box-springs/kiruna-warm-grey-sami/",
-      "reason": "RC7.2：Repo 已有本地頁，取消 OFFICIAL_REDIRECT，恢復單一繁中站內瀏覽。"
-    },
-    {
-      "id": "box-springs--kiruna-warm-grey-unik",
-      "title": "Kiruna 暖灰",
-      "localPath": "/box-springs/kiruna-warm-grey-unik/",
-      "mode": "LOCAL_PARITY",
-      "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"
-    },
-    {
-      "id": "box-springs--original-box-spring-blush",
-      "title": "Original 裸粉",
-      "localPath": "/box-springs/original-box-spring-blush/",
-      "mode": "LOCAL_EXISTING",
-      "officialUrl": "https://www.auping.com/en/box-springs/original-box-spring-blush/",
-      "reason": "RC7.2：Repo 已有本地頁，取消 OFFICIAL_REDIRECT，恢復單一繁中站內瀏覽。"
-    },
-    {
-      "id": "box-springs--original-box-spring-cool-grey",
-      "title": "Original 冷灰",
-      "localPath": "/box-springs/original-box-spring-cool-grey/",
-      "mode": "LOCAL_EXISTING",
-      "officialUrl": "https://www.auping.com/en/box-springs/original-box-spring-cool-grey/",
-      "reason": "RC7.2：Repo 已有本地頁，取消 OFFICIAL_REDIRECT，恢復單一繁中站內瀏覽。"
-    },
-    {
-      "id": "box-springs--original-box-spring-deep-black",
-      "title": "Original 深黑",
-      "localPath": "/box-springs/original-box-spring-deep-black/",
-      "mode": "LOCAL_EXISTING",
-      "officialUrl": "https://www.auping.com/en/box-springs/original-box-spring-deep-black/",
-      "reason": "RC7.2：Repo 已有本地頁，取消 OFFICIAL_REDIRECT，恢復單一繁中站內瀏覽。"
-    },
-    {
-      "id": "box-springs--original-box-spring-dusty-red",
-      "title": "Original 霧紅",
-      "localPath": "/box-springs/original-box-spring-dusty-red/",
-      "mode": "LOCAL_PARITY",
-      "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"
-    },
-    {
-      "id": "box-springs--original-box-spring-pure-white",
-      "title": "Original 純白",
-      "localPath": "/box-springs/original-box-spring-pure-white/",
-      "mode": "LOCAL_EXISTING",
-      "officialUrl": "https://www.auping.com/en/box-springs/original-box-spring-pure-white/",
-      "reason": "RC7.2：Repo 已有本地頁，取消 OFFICIAL_REDIRECT，恢復單一繁中站內瀏覽。"
-    },
-    {
-      "id": "box-springs--original-box-spring-royal-blue",
-      "title": "Original 皇家藍",
-      "localPath": "/box-springs/original-box-spring-royal-blue/",
-      "mode": "LOCAL_EXISTING",
-      "officialUrl": "https://www.auping.com/en/box-springs/original-box-spring-royal-blue/",
-      "reason": "RC7.2：Repo 已有本地頁，取消 OFFICIAL_REDIRECT，恢復單一繁中站內瀏覽。"
-    },
-    {
-      "id": "box-springs--original-box-spring-sand-beige",
-      "title": "Original 沙米色",
-      "localPath": "/box-springs/original-box-spring-sand-beige/",
-      "mode": "LOCAL_EXISTING",
-      "officialUrl": "https://www.auping.com/en/box-springs/original-box-spring-sand-beige/",
-      "reason": "RC7.2：Repo 已有本地頁，取消 OFFICIAL_REDIRECT，恢復單一繁中站內瀏覽。"
-    },
-    {
-      "id": "box-springs--original-box-spring-warm-grey",
-      "title": "Original 暖灰",
-      "localPath": "/box-springs/original-box-spring-warm-grey/",
-      "mode": "LOCAL_PARITY",
-      "reason": "RC5 Snapshot／主要分類或已保留的代表頁。"
-    },
-    {
       "id": "customer-service",
       "title": "客戶服務",
       "localPath": "/customer-service/",
@@ -734,14 +559,6 @@
       "localPath": "/en/beds/",
       "mode": "DISABLED",
       "fallbackPath": "/beds/",
-      "reason": "單一繁體中文公開站：舊語系副本停用並導向對應的繁體中文路徑。"
-    },
-    {
-      "id": "en--box-springs",
-      "title": "Box Springs",
-      "localPath": "/en/box-springs/",
-      "mode": "DISABLED",
-      "fallbackPath": "/box-springs/",
       "reason": "單一繁體中文公開站：舊語系副本停用並導向對應的繁體中文路徑。"
     },
     {
@@ -987,14 +804,6 @@
       "reason": "單一繁體中文公開站：舊語系副本停用並導向對應的繁體中文路徑。"
     },
     {
-      "id": "zh-tw--box-springs",
-      "title": "Box Springs",
-      "localPath": "/zh-tw/box-springs/",
-      "mode": "DISABLED",
-      "fallbackPath": "/box-springs/",
-      "reason": "單一繁體中文公開站：舊語系副本停用並導向對應的繁體中文路徑。"
-    },
-    {
       "id": "zh-tw--customer-service",
       "title": "Customer Service",
       "localPath": "/zh-tw/customer-service/",
@@ -1091,14 +900,6 @@
       "reason": "單一繁體中文公開站：舊語系副本停用並導向對應的繁體中文路徑。"
     },
     {
-      "id": "zh--box-springs",
-      "title": "Box Springs",
-      "localPath": "/zh/box-springs/",
-      "mode": "DISABLED",
-      "fallbackPath": "/box-springs/",
-      "reason": "單一繁體中文公開站：舊語系副本停用並導向對應的繁體中文路徑。"
-    },
-    {
       "id": "zh--customer-service",
       "title": "Customer Service",
       "localPath": "/zh/customer-service/",
@@ -1192,30 +993,6 @@
       "localPath": "/beds/noble/",
       "mode": "LOCAL_PARITY",
       "officialUrl": "https://www.auping.com/en/beds/noble",
-      "reason": "RC7.3：由使用者本機採集的官方 MHTML／DOM／截圖重建本地繁中深層頁。"
-    },
-    {
-      "id": "nav-box-springs-original",
-      "title": "Original 床組",
-      "localPath": "/box-springs/original-boxspring/",
-      "mode": "LOCAL_PARITY",
-      "officialUrl": "https://www.auping.com/en/box-springs/original-boxspring",
-      "reason": "RC7.3：由使用者本機採集的官方 MHTML／DOM／截圖重建本地繁中深層頁。"
-    },
-    {
-      "id": "nav-box-springs-criade",
-      "title": "Criade 床組",
-      "localPath": "/box-springs/criade/",
-      "mode": "LOCAL_PARITY",
-      "officialUrl": "https://www.auping.com/en/box-springs/criade",
-      "reason": "RC7.3：由使用者本機採集的官方 MHTML／DOM／截圖重建本地繁中深層頁。"
-    },
-    {
-      "id": "nav-box-springs-kiruna",
-      "title": "Kiruna 床組",
-      "localPath": "/box-springs/kiruna/",
-      "mode": "LOCAL_PARITY",
-      "officialUrl": "https://www.auping.com/en/box-springs/kiruna",
       "reason": "RC7.3：由使用者本機採集的官方 MHTML／DOM／截圖重建本地繁中深層頁。"
     },
     {
