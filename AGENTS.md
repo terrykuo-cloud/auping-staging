@@ -329,3 +329,8 @@ Noble 原本已是 /beds/ ModelSlider 第五項，桌面版因既有 setupModelS
 ## 2026-11-16 Box Springs 台灣停售
 
 依使用者指示移除床組全站選單、頁尾、商品宣傳及搜尋入口，舊床組網址導回首頁。床架推薦區僅移除床組卡，布料與薄墊僅清除床組相關促銷文字。保留其他商品正文與既有功能。沿用原導航 owner，RC73 fallback 分類順序配合現有五類導航；沒有新增事件控制器。詳見 docs/boxsprings-removal-20261116.json。
+
+
+## 2026-11-16 移除淺藍色頁尾服務區
+
+依使用者截圖，全站僅移除 FooterTop_FooterTop__26Guu 淺藍色服務與聯絡區塊。各頁 main、台灣門市地圖及深藍色 FooterBody 連結完整保留；不修改共用 CSS/JS 或手機收合控制器。詳見 docs/footer-service-removal-20261116.json。
