@@ -334,3 +334,8 @@ Noble 原本已是 /beds/ ModelSlider 第五項，桌面版因既有 setupModelS
 ## 2026-11-16 移除淺藍色頁尾服務區
 
 依使用者截圖，全站僅移除 FooterTop_FooterTop__26Guu 淺藍色服務與聯絡區塊。各頁 main、台灣門市地圖及深藍色 FooterBody 連結完整保留；不修改共用 CSS/JS 或手機收合控制器。詳見 docs/footer-service-removal-20261116.json。
+
+
+## 2026-11-16 僅移除聯絡我們連結
+
+依使用者更正，僅移除文字為「聯絡我們」的連結及其選單項目；客戶服務與聯絡頁面皆保留，所有「客戶服務」連結逐字不變。無共用 CSS/JS 修改。見 docs/contact-links-only-20261116.json。
